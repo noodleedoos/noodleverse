@@ -1,0 +1,154 @@
+{
+  "presetFields": [
+    {
+      "name": "course",
+      "options": {},
+      "id": "AFwKmu",
+      "type": "MultiFile",
+      "path": ""
+    },
+    {
+      "name": "emotions",
+      "options": {
+        "valuesList": {
+          "1": "happy",
+          "2": "sad",
+          "3": "angry",
+          "4": "frustrated",
+          "5": "anxious",
+          "6": "nervous",
+          "7": "scared",
+          "8": "confused"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "Crijxk",
+      "type": "Multi",
+      "path": ""
+    },
+    {
+      "name": "Archive",
+      "options": {},
+      "id": "Jxdjqc",
+      "type": "Boolean",
+      "path": ""
+    },
+    {
+      "name": "energy",
+      "options": {
+        "max": 10,
+        "min": 0
+      },
+      "id": "Mnr9Sy",
+      "type": "Number",
+      "path": ""
+    },
+    {
+      "name": "lecture",
+      "options": {},
+      "id": "PpvOYj",
+      "type": "MultiFile",
+      "path": ""
+    },
+    {
+      "name": "section",
+      "options": {},
+      "id": "cO23AF",
+      "type": "MultiFile",
+      "path": ""
+    },
+    {
+      "name": "unit",
+      "options": {},
+      "id": "dyO0nw",
+      "type": "MultiFile",
+      "path": ""
+    },
+    {
+      "name": "hp",
+      "options": {
+        "min": 0,
+        "max": 10
+      },
+      "id": "fef1wj",
+      "type": "Number",
+      "path": ""
+    },
+    {
+      "name": "area",
+      "options": {},
+      "id": "lcHugp",
+      "type": "MultiFile",
+      "path": ""
+    },
+    {
+      "name": "productivity",
+      "options": {
+        "max": 10,
+        "min": 0
+      },
+      "id": "oOyV7I",
+      "type": "Number",
+      "path": ""
+    },
+    {
+      "name": "interoception",
+      "options": {
+        "valuesList": {
+          "1": "nauseous",
+          "2": "energetic",
+          "3": "restless",
+          "4": "headache",
+          "5": "eyeache",
+          "6": "tummyache",
+          "7": "cold",
+          "8": "hot",
+          "9": "comfortable"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "zH5ZO9",
+      "type": "Multi",
+      "path": ""
+    }
+  ],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": "100 - Meta/fileclass/",
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "fileClass",
+  "settingsVersion": "5.11",
+  "globalFileClass": "all",
+  "firstDayOfWeek": 1,
+  "enableLinks": true,
+  "enableTabHeader": true,
+  "enableEditor": true,
+  "enableBacklinks": true,
+  "enableStarred": true,
+  "enableFileExplorer": true,
+  "enableSearch": true,
+  "enableProperties": true,
+  "tableViewMaxRecords": 100,
+  "frontmatterListDisplay": "asArray",
+  "fileClassExcludedFolders": [],
+  "showIndexingStatusInStatusBar": true,
+  "fileIndexingExcludedFolders": [
+    "100 - Meta/"
+  ],
+  "fileIndexingExcludedExtensions": [
+    ".excalidraw.md"
+  ],
+  "fileIndexingExcludedRegex": [],
+  "frontmatterOnly": false,
+  "showFileClassSelectInModal": false,
+  "chooseFileClassAtFileCreation": false,
+  "autoInsertFieldsAtFileClassInsertion": false,
+  "fileClassIcon": "cat",
+  "isAutoCalculationEnabled": true,
+  "buttonIcon": "clipboard-list"
+}

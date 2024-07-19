@@ -1,0 +1,15 @@
+{
+  "api_key": "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",
+  "engine": "gpt-3.5-turbo",
+  "max_tokens": 1000,
+  "temperature": 0.7,
+  "frequency_penalty": 0.5,
+  "prompt": "",
+  "system_prompt": "You are a Anki Flashcard generator.",
+  "n_questions": 7,
+  "prune": false,
+  "showStatusBar": true,
+  "outputToBlockQuote": false,
+  "promptsPath": "textgenerator/prompts",
+  "displayErrorInEditor": false
+}

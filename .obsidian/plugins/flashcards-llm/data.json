@@ -1,0 +1,12 @@
+{
+  "apiKey": "",
+  "model": "gpt-3.5-turbo",
+  "inlineSeparator": "::",
+  "multilineSeparator": "?",
+  "flashcardsCount": 3,
+  "additionalPrompt": "",
+  "maxTokens": 300,
+  "streaming": true,
+  "hideInPreview": true,
+  "tag": "#flashcards"
+}

@@ -1,0 +1,6 @@
+## editor
+- spellcheck
+
+
+
+#obsidian

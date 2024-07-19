@@ -1,0 +1,6 @@
+{
+  "openAiApiKey": "",
+  "mode": "ollama",
+  "model": "",
+  "ollamaUrl": "http://0.0.0.0:11434"
+}

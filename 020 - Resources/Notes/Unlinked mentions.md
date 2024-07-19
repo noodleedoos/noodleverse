@@ -1,0 +1,2 @@
+- plain text mentioned in another note that could be linked
+- e.g. i love markdown notation is unlinked, but [[Markdown Notation]] is linked
