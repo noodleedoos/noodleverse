@@ -12,3 +12,7 @@ down:
 ```dataview
 list from #campaign 
 ```
+## Oneshots
+```dataview
+list from #oneshot and [[]]
+```

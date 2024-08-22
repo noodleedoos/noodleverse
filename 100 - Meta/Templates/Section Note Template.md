@@ -6,7 +6,8 @@ same:
   - "[[❀Courses]]"
 area:
   - "[[Diploma of Counselling]]"
-section: "[[2 - Personality and Learning Theories]]"
+section:
+  - "[[3 - Legal Stuff]]"
 tags:
   - section
 status: 

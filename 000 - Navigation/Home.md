@@ -18,12 +18,12 @@ WHERE archive!=true
 
 ## days until lifeline volunteering :D
 
-11 units left! 
+9 units left! 
 
  ------------ <iframe src="https://free.timeanddate.com/countdown/i9flel7y/n152/cf12/cm0/cu4/ct0/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pcffc0cb/tcfff/fs100/szw576/szh243/iso2024-11-25T00:00:00" allowtransparency="true" frameborder="0" width="217" height="52"></iframe>------------
 
 ### days since starting the diploma :)
-6 units complete! 8 days left :)
+8 Units complete!
 
 ------------<iframe src="https://free.timeanddate.com/countdown/i9flel7y/n152/cf12/cm0/cu4/ct0/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pcffc0cb/tcfff/fs100/szw576/szh243/iso2024-05-27T00:00:00" allowtransparency="true" frameborder="0" width="197" height="52"></iframe>------------
 

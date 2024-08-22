@@ -1,7 +1,8 @@
 ---
 area:
   - "[[Diploma of Counselling]]"
-section: "[[2 - Personality and Learning Theories]]"
+section:
+  - "[[1 - Communication Skills and the Counselling Framework]]"
 course: 
 tags:
   - assignment

@@ -1,7 +1,8 @@
 ---
 area:
   - "[[Diploma of Counselling]]"
-section: "[[2 - Personality and Learning Theories]]"
+section:
+  - "[[3 - Legal Stuff]]"
 course: 
 tags:
   - unit

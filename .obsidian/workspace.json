@@ -4,48 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c3492e9fa7c54a0b",
+        "id": "faff99bd51b756f7",
         "type": "tabs",
         "children": [
           {
-            "id": "e6f8cf0457a0fe2c",
+            "id": "d45d9ee9aa56c953",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020 - Resources/Notes/FNAF Timeline.md",
+                "file": "000 - Navigation/Home.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1677def438ba917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "020 - Resources/Notes/Cognitive Behavioural Therapy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "039ffc543e8bec82",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0d66f33542b41cef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010 - Areas/School/Assignments/CHCCSL006 Knowledge Activity.md",
-                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "class of 09",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -109,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2ad0a5f6e9f09c33",
@@ -126,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "010 - Areas/School/Assignments/CHCCSL006 Knowledge Activity.md",
+                "file": "000 - Navigation/Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Areas/School/Assignments/CHCCSL006 Knowledge Activity.md",
+                "file": "000 - Navigation/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Areas/School/Assignments/CHCCSL006 Knowledge Activity.md",
+                "file": "000 - Navigation/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Areas/School/Assignments/CHCCSL006 Knowledge Activity.md"
+                "file": "000 - Navigation/Home.md"
               }
             }
           }
@@ -285,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -315,34 +287,35 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0d66f33542b41cef",
+  "active": "d45d9ee9aa56c953",
   "lastOpenFiles": [
-    "020 - Resources/Notes/Cognitive Behavioural Therapy.md",
-    "020 - Resources/Notes/Psychoanalytic Therapy.md",
-    "010 - Areas/School/Assignments/CHCCSL006 Knowledge Activity.md",
-    "020 - Resources/Notes/Integrated or Holistic Therapy.md",
-    "020 - Resources/Notes/Anxiety.md",
-    "020 - Resources/Notes/Duty of care.md",
+    "010 - Areas/School/Units/3.1.1 - Reflect on Your own Perspectives.md",
+    "020 - Resources/Notes/Legal Framework.md",
+    "020 - Resources/Notes/Types of Law in Australia.md",
+    "020 - Resources/Notes/Criminal Law.md",
+    "020 - Resources/Notes/Civil Laws.md",
+    "020 - Resources/Notes/Jurisdictions under the Australian Legal System.md",
+    "010 - Areas/School/Courses/3.1 - Work Legally and Ethically.md",
+    "010 - Areas/School/Sections/3 - Legal Stuff.md",
     "010 - Areas/Diploma of Counselling.md",
-    "000 - Navigation/❀Areas.md",
-    "010 - Areas/FNAF.md",
-    "020 - Resources/Notes/Fredbear's Singin' Show!.md",
-    "020 - Resources/Notes/FNAF Timeline.md",
-    "020 - Resources/Notes/Fredbear.md",
-    "000 - Navigation/Introspection Log.md",
-    "000 - Navigation/Health Potion Recipe Book.md",
-    "100 - Meta/fileclass/school notes.md",
+    "000 - Navigation/Home.md",
+    "010 - Areas/School/Assignments/1 - Client 1 Session 2.md",
+    "010 - Areas/School/Assignments/1 - Client 1 Session 3.md",
+    "020 - Resources/Notes/Overview of the Legal System.md",
+    "020 - Resources/Notes/Concurrent Powers.md",
+    "020 - Resources/Notes/Exclusive Powers.md",
+    "100 - Meta/Templates/Weekly Review Template.md",
+    "100 - Meta/Templates/Unit Note Template.md",
+    "100 - Meta/Templates/Section Note Template.md",
+    "100 - Meta/Templates/Quote Template.md",
+    "100 - Meta/Templates/Project Template.md",
     "100 - Meta/Templates/Person Template.md",
-    "100 - Meta/Templates/Area Template.md",
-    "100 - Meta/Templates/Course Note Template.md",
     "100 - Meta/Templates/Note Template.md",
-    "020 - Resources/Notes/Fall Fest.md",
-    "The Preconscious/Subconscious Mind.md",
-    "structure of personality/Structure of Personality.md",
-    "100 - Meta/Templates/Concept Note Template.md",
-    "020 - Resources/Notes/Henry Emily.md",
-    "020 - Resources/Notes/Fredbear's Family Diner.md",
-    "010 - Areas/Games.md",
+    "100 - Meta/Templates/Lecture Note Template.md",
+    "100 - Meta/Templates/Input Template.md",
+    "100 - Meta/Templates/Daily Note Template.md",
+    "100 - Meta/Templates/Course Note Template.md",
+    "020 - Resources/Attachments/Risk-Assessment_Colour_May2013_Handout2 (1).pdf",
     "020 - Resources/Attachments/Screenshot 2024-07-14 at 11.26.46 PM.png",
     "020 - Resources/Attachments/Screenshot 2024-07-14 at 11.27.11 PM.png",
     "020 - Resources/Attachments/Screenshot 2024-07-14 at 11.08.29 PM.png",
@@ -362,7 +335,6 @@
     "040 - Projects",
     "smart-chats",
     "020 - Resources/Attachments/5a29e0b11505742a93e230757b19d2c0.jpg",
-    "030 - Dump",
     "Note-Making Station.canvas"
   ]
 }

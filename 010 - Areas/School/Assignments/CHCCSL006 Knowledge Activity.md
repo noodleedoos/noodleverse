@@ -61,4 +61,31 @@ Benefits
 - focuses on behaviour rather than past issues
 **Explain why constant monitoring and review is necessary when combining therapies. How can you understand if a combination of therapies is working to deal with a client’s problems?**
 
-It is essential to constantly monitor
+It is essential to constantly monitor and review when combining therapies for multiple reasons
+- to examine if the combination of therapies is effective
+- to examine is progress is being made
+- to examine where any alterations to the service are requires
+
+The following explicates how to determine if a combination of therapies is working to deal with a client's problems
+- you observe improvement in the clients wellbeing on a holistic level including physical, emotional, mental and social capacities
+- the client reports a positive change in their life as a result of therapy
+- periodic assessments show an increase in positive behaviour
+- the client has developed suitable coping strategies to deal with their situation
+
+**List five indicators that may suggest that a client needs to be referred. Why is it important to make referrals as soon as possible after identifying indicators?**
+1. Client is actively suicidal with a plan
+2. client requires a diagnosis
+3. client requires alternative treatment such as medicine
+4. Client is not showing progress after an amount of sessions
+5. Client-counsellor relationship is not well established after an amount of sessions
+
+it is important to make referrals as soon as possible after identifying indicators for multiple reasons.
+- so the client's condition does not deteriorate any further than necessary
+- as a preventative measure for capturing comorbities early on
+- to ensure you are not financially exploiting the client
+
+**List three credible sources of information which you can check to find out about emerging therapies and trends in counselling.**
+there are many sources of information which you can check to find out about emerghing therapies and trends in counselling, however it is important to ensure they are credible. resources may include
+- accredited courses and CPD training
+- qualified colleagues with empirical evidence
+- nationally recognised training services like webinars

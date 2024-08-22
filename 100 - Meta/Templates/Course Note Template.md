@@ -5,11 +5,11 @@ same:
 area:
   - "[[Diploma of Counselling]]"
 section:
-  - "[[2 - Personality and Learning Theories]]"
+  - "[[3 - Legal Stuff]]"
 tags:
   - course
 status: 
-aliases: []
+aliases:
 ---
 ## Units
 ```dataview
