@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repo/bla.md",
+                "file": "000 - Navigation/Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bla"
+              "title": "Home"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repo/bla.md",
+                "file": "000 - Navigation/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bla"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -296,10 +296,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "d2a414d0abc19c36",
+  "active": "7765ec3394094398",
   "lastOpenFiles": [
-    "000 - Navigation/Home.md",
     "repo/bla.md",
+    "000 - Navigation/Home.md",
     "repo",
     "repo",
     "repo",
