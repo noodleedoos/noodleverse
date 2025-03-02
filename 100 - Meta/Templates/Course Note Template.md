@@ -1,23 +1,23 @@
 ---
 up: 
-down: 
-same: 
-area:
-  - "[[Diploma of Counselling]]"
-section:
-  - "[[3 - Legal Stuff]]"
 tags:
   - course
-status: 
 aliases:
+archive:
 ---
-## Units
+## Lectures
 ```dataview
-LIST FROM #unit and [[]]
+LIST FROM #lecture and [[]]
 ```
 
-## Concepts 
+## Workshops
 ```dataview
-list 
-from [[]] and #concept 
+LIST FROM #workshop and [[]]
 ```
+
+## Practicals
+```dataview
+LIST FROM #practical and [[]]
+```
+
+## Notes 

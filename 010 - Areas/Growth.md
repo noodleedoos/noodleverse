@@ -3,7 +3,7 @@ up:
   - "[[Home]]"
 tags:
   - area
-archive:
+archive: true
 ---
 # yippee! :D
 ```dataview

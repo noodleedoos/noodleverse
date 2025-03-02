@@ -16,7 +16,7 @@ status:
 ---
 ## The mind can be divided into 3 Distinct Levels
 1. [[The Conscious Mind]]
-2. [[The Preconscious/Subconscious Mind]]
+2. [[Subconscious Mind]]
 3. [[The Unconscious Mind]]
 
 ## His Concepts

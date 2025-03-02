@@ -1,11 +1,11 @@
 {
   "choices": [
     {
-      "id": "fb623adb-2f1c-4946-b0f6-6fa828582c45",
-      "name": "Create Project",
+      "id": "9a143ce3-8c7c-4131-a1c7-9a0abc7f3393",
+      "name": "Create Lecture Note",
       "type": "Template",
       "command": true,
-      "templatePath": "100 - Meta/Templates/Project Template.md",
+      "templatePath": "100 - Meta/Templates/Lecture Note Template.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -13,22 +13,21 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "040 - Projects"
+          "010 - Areas/School/Lectures"
         ],
         "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
+        "createInSameFolderAsActiveFile": false
       },
       "appendLink": false,
+      "incrementFileName": false,
       "openFileInNewTab": {
-        "enabled": false,
+        "enabled": true,
         "direction": "vertical",
         "focus": true
       },
       "openFile": true,
       "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "fileExistsMode": "Nothing"
     },
     {
       "id": "dba5bfb4-d2b5-4acc-a4f3-9f33207fd32d",
@@ -60,11 +59,11 @@
       "fileExistsMode": "Nothing"
     },
     {
-      "id": "9a143ce3-8c7c-4131-a1c7-9a0abc7f3393",
-      "name": "Create Lecture Note",
+      "id": "955ea957-0a41-43bb-8c47-8af8b6612dba",
+      "name": "Create Practical Note",
       "type": "Template",
-      "command": true,
-      "templatePath": "100 - Meta/Templates/Lecture Note Template.md",
+      "command": false,
+      "templatePath": "100 - Meta/Templates/Practical Template.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -72,13 +71,13 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "010 - Areas/School/Lectures"
+          "010 - Areas/School/Practicals"
         ],
         "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
       },
       "appendLink": false,
-      "incrementFileName": false,
       "openFileInNewTab": {
         "enabled": true,
         "direction": "vertical",
@@ -86,14 +85,15 @@
       },
       "openFile": true,
       "openFileInMode": "default",
-      "fileExistsMode": "Nothing"
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     },
     {
-      "id": "6334f4ee-4409-4248-8ff6-fbcc0cd229fe",
-      "name": "Create Course Note",
+      "id": "30ab9af7-e8ab-4bc1-8fbf-c071d7d3ef20",
+      "name": "Create Workshop Note",
       "type": "Template",
-      "command": true,
-      "templatePath": "100 - Meta/Templates/Course Note Template.md",
+      "command": false,
+      "templatePath": "100 - Meta/Templates/Workshop Template.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -101,21 +101,22 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "010 - Areas/School/Courses"
+          "010 - Areas/School/Workshops"
         ],
         "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
       },
       "appendLink": false,
-      "incrementFileName": false,
       "openFileInNewTab": {
         "enabled": true,
         "direction": "vertical",
         "focus": true
       },
       "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Nothing"
+      "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     },
     {
       "id": "8a038fa7-f88a-4e42-a615-53844207a40c",
@@ -139,6 +140,65 @@
       "incrementFileName": false,
       "openFileInNewTab": {
         "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing"
+    },
+    {
+      "id": "fb623adb-2f1c-4946-b0f6-6fa828582c45",
+      "name": "Create Project",
+      "type": "Template",
+      "command": true,
+      "templatePath": "100 - Meta/Templates/Project Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "040 - Projects"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "6334f4ee-4409-4248-8ff6-fbcc0cd229fe",
+      "name": "Create Course Note",
+      "type": "Template",
+      "command": true,
+      "templatePath": "100 - Meta/Templates/Course Note Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "010 - Areas/School/Courses"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
         "direction": "vertical",
         "focus": true
       },
@@ -219,36 +279,6 @@
         "enabled": true,
         "folders": [
           "010 - Areas/School/Sections"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "dd7953b1-9dfc-4134-95f3-55c7e59cfccf",
-      "name": "Create DND Note",
-      "type": "Template",
-      "command": true,
-      "templatePath": "100 - Meta/Templates/Note Template.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "010 - Areas/Dungeons and Dragons"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -455,7 +485,7 @@
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "100 - Meta/Templates",
   "announceUpdates": true,
   "version": "1.8.1",
   "disableOnlineFeatures": true,

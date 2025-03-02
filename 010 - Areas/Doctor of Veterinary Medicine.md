@@ -3,27 +3,11 @@ tags:
   - area
 archive:
 ---
-## Related Sections
+## All Years
 ```dataview
-list FROM #section and [[]]
+list FROM #year and [[]]
 ```
-
-## Related Courses
+## All Courses
 ```dataview
 list FROM #course and [[]]
-```
-
-## Related Units
-```dataview
-list FROM #unit and [[]]
-```
-
-## Related Lectures
-```dataview
-list FROM #lecture and [[]]
-```
-
-## Related Concepts
-```dataview
-list FROM #concept and [[]]
 ```

@@ -1,24 +1,22 @@
 ---
-area:
+up:
+  - "[[DVM1]]"
   - "[[Doctor of Veterinary Medicine]]"
-section: "[[DVM1]]"
 tags:
   - course
 archive:
 ---
-## Related Units
+## All Units
 ```dataview
 list FROM #unit and [[]]
 ```
 
-## Related Lectures
+## All Lectures
 ```dataview
 list FROM #lecture and [[]]
 ```
 
-## Related Concepts
-```
-## Related Concepts
+## All Practicals
 ```dataview
-list FROM #concept and [[]]
+list FROM #practical and [[]]
 ```

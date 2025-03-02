@@ -1,8 +1,9 @@
 ---
-up: "[[Home]]"
+up:
+  - "[[Home]]"
 tags:
   - area
-archive:
+archive: true
 ---
 ## Related Sections
 ```dataview
