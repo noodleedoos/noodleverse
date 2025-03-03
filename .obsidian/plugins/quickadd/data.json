@@ -178,6 +178,36 @@
       "setFileExistsBehavior": false
     },
     {
+      "id": "df1c5dae-26eb-40b2-996c-c593b4c1fcba",
+      "name": "Create Case Study",
+      "type": "Template",
+      "command": false,
+      "templatePath": "100 - Meta/Templates/Case Study Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "010 - Areas/School/Case Studies"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "6334f4ee-4409-4248-8ff6-fbcc0cd229fe",
       "name": "Create Course Note",
       "type": "Template",

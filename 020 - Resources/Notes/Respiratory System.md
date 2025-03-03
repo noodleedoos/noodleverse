@@ -7,3 +7,17 @@ status:
 Summary: 
 aliases:
 ---
+# Overview
+
+## Structures and Location
+~
+Head (nasal passages), neck, trachea, lungs thorax regions
+
+
+![[Screenshot 2025-03-03 at 4.07.45 pm.png]]
+
+### In relation to the major Vessels and heart
+~
+Carotid is more dorsal, jugular more ventral compared to trachea
+![[Screenshot 2025-03-03 at 4.08.15 pm.png]]
+

@@ -35,7 +35,7 @@ tags:
 |                           |                                                     |                                                                                                                                 |
 # Naming Cells
 *How are cells named according to differentiation?*
-?
+~
 
 | Suffix | Description              | Example        |
 | ------ | ------------------------ | -------------- |

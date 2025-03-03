@@ -15,15 +15,7 @@ aliases:
 4. Output - information sent along efferent pathway to effector
 5. Response - feeds back to reduce effect of stimulus
 
-## Example - Thermoregulation
-*Describe how thermoregulation is a negative feedback loop.*
-~
-![[Pasted image 20241209200308.png]]
-## Example - Regulation of Thyroid Hormone
-*Describe how regulation of the thyroid hormone is a negative feedback loop*
-~
-1. Thyrotropin releasing hormone (TRH) is released from hypothalamus
-2. TRH causes TSH is produced by Anterior Pituitary gland, which downregulates TRH production
-3. TSH causes thyroid to produce thyroxine, which downregulates the production of TSH and TRH
+## Examples
 
-![[Pasted image 20241212171745.png]]
+[[Thermoregulation]]
+[[Regulation of Thyroid Hormone]]

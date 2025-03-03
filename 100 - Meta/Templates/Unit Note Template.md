@@ -8,7 +8,7 @@ tags:
 
 ## Related Lectures
 ```dataview
-LIST FROM #lecture and [[]]
+table status FROM #lecture and [[]]
 ```
 
 ## Related Concepts

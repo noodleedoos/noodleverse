@@ -7,17 +7,17 @@ archive:
 ---
 ## Lectures
 ```dataview
-LIST FROM #lecture and [[]]
+table status  FROM #lecture and [[]]
 ```
 
 ## Workshops
 ```dataview
-LIST FROM #workshop and [[]]
+table status  FROM #workshop and [[]]
 ```
 
 ## Practicals
 ```dataview
-LIST FROM #practical and [[]]
+table status  FROM #practical and [[]]
 ```
 
 ## Notes 

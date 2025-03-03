@@ -1,9 +1,8 @@
 ---
-up:
-  - "[[Body Systems]]"
+up: 
 tags:
   - concept
 status: 
-Summary: 
+Summary: left and right
 aliases:
 ---

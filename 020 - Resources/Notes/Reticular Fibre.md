@@ -23,4 +23,4 @@ aliases:
 ?
 - [[Liver]]
 - [[Bone Marrow]]
-- Organs in [[Immune and Lymph System]]
+- Organs in [[Lymphatic System]]

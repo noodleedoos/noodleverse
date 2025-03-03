@@ -10,6 +10,13 @@ aliases:
 ---
 ## Lectures
 ```dataview
-LIST FROM #lecture and [[]]
+table status FROM #lecture and [[]]
+sort file.name asc
+```
+
+## Workshops
+
+```dataview
+table status FROM #workshop and [[]]
 sort file.name asc
 ```
