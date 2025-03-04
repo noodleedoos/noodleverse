@@ -10,7 +10,6 @@ archive:
 ---
 ## Lectures
 ```dataview
-LIST FROM #lecture and [[]]
+table Status FROM #lecture and [[]]
 ```
-
 ## Notes 

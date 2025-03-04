@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "94292cc4fda5794c",
+        "id": "d45cd300bc45b14d",
         "type": "tabs",
         "children": [
           {
-            "id": "9161435f26dda1f7",
+            "id": "2a4e446cb7a2fd58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020 - Resources/Notes/Teeth.md",
+                "file": "000 - Navigation/Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,55 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Teeth"
-            }
-          },
-          {
-            "id": "2d16b27e260a4476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "020 - Resources/Notes/Hypselodont or Aradicular Teeth.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hypselodont or Aradicular Teeth"
-            }
-          },
-          {
-            "id": "077153ced4ce23ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "020 - Resources/Notes/Teeth.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Teeth"
+              "title": "Home"
             }
           }
         ]
@@ -207,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "020 - Resources/Notes/Teeth.md",
+                "file": "020 - Resources/Notes/Breed Societies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +169,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Teeth"
+              "title": "Backlinks for Breed Societies"
             }
           },
           {
@@ -341,49 +293,48 @@
       "chat-cbt:ChatCBT": false,
       "obsidian-bible-reference:Bible Verse Lookup": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "9161435f26dda1f7",
+  "active": "2a4e446cb7a2fd58",
   "lastOpenFiles": [
-    "020 - Resources/Notes/odontoblasts.md",
-    "020 - Resources/Notes/Teeth.md",
-    "020 - Resources/Notes/Horse Teeth.md",
-    "020 - Resources/Attachments/Screenshot 2025-03-04 at 9.30.18 am.png",
-    "020 - Resources/Notes/Tooth Development.md",
-    "020 - Resources/Notes/ameloblasts.md",
-    "020 - Resources/Notes/Hypsodont Teeth.md",
-    "020 - Resources/Attachments/Screenshot 2025-03-03 at 5.01.37 pm.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-03 at 5.01.12 pm.png",
-    "020 - Resources/Notes/Brachydont Teeth.md",
-    "020 - Resources/Notes/Hypselodont or Aradicular Teeth.md",
-    "010 - Areas/School/Lectures/1.2 - Teeth and Tooth Development.md",
-    "020 - Resources/Attachments/Screenshot 2025-03-03 at 4.55.36 pm.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-03 at 4.54.29 pm.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-03 at 4.53.59 pm.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-03 at 4.51.32 pm.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-03 at 4.50.58 pm.png",
-    "010 - Areas/School/Courses/Digestive System (Course).md",
-    "010 - Areas/School/Lectures/1.1 - Introduction to the Digestive System and Abdominal Cavity.md",
-    "020 - Resources/Notes/The Digestive System.md",
+    "020 - Resources/Notes/Breed Societies.md",
+    "020 - Resources/Notes/General Industry Structure.md",
+    "020 - Resources/Notes/Research and Development Corporations.md",
+    "020 - Resources/Notes/Agrifutures Australia.md",
+    "020 - Resources/Attachments/Screenshot 2025-03-04 at 2.32.00 pm.png",
+    "inputs/outputs.md",
+    "inputs",
+    "020 - Resources/Attachments/Screenshot 2025-03-04 at 2.29.52 pm.png",
+    "020 - Resources/Notes/Information Providers.md",
+    "020 - Resources/Notes/Livestock Agents.md",
+    "010 - Areas/School/Lectures/1.3 - General Industry.md",
+    "020 - Resources/Notes/International Trade.md",
+    "020 - Resources/Notes/Production System Value.md",
+    "020 - Resources/Notes/Social license.md",
+    "020 - Resources/Notes/Data Integrity and Product Safety.md",
+    "010 - Areas/School/Courses/Animals in Extensive Production Systems 1.md",
     "010 - Areas/Doctor of Veterinary Medicine.md",
-    "010 - Areas/School/Courses/Introduction to the Veterinary Profession.md",
-    "010 - Areas/School/Lectures/1.1 - Introduction to the Veterinary Profession.md",
-    "020 - Resources/Notes/Body Regions.md",
-    "010 - Areas/School/Courses/Cells to Systems.md",
-    "010 - Areas/School/Practicals/1 - The Skeleton.md",
-    "010 - Areas/School/Sections/DVM1.md",
-    "010 - Areas/School/Lectures/1.4 - The Body Plan.md",
-    "020 - Resources/Notes/Regional vs Systemic Anatomy.md",
-    "020 - Resources/Notes/Endocrine System.md",
-    "020 - Resources/Attachments/Screenshot 2025-03-03 at 4.14.25 pm.png",
-    "020 - Resources/Notes/Reproductive System.md",
-    "020 - Resources/Attachments/Screenshot 2025-03-03 at 4.13.16 pm.png",
-    "020 - Resources/Notes/Excretory System.md",
-    "020 - Resources/Notes/Respiratory System.md",
-    "020 - Resources/Notes/Lymphatic System.md",
+    "000 - Navigation/Home.md",
+    "020 - Resources/Notes/Politics.md",
+    "100 - Meta/Templates/Concept Note Template.md",
+    "100 - Meta/Templates/Note Template.md",
+    "100 - Meta/Templates/Lecture Note Template.md",
+    "100 - Meta/Templates/Area Template.md",
+    "010 - Areas/School/Lectures/1.2 - Worldwide size of livestock Population.md",
+    "010 - Areas/School/Lectures/1.1 - Australia in the World and Agricultural Innovation.md",
+    "020 - Resources/Notes/Biosecurity and Image.md",
+    "020 - Resources/Notes/Endemic vs Exotic Disease.md",
+    "020 - Resources/Notes/Endemic Disease.md",
+    "020 - Resources/Notes/Hedging.md",
+    "020 - Resources/Attachments/Screenshot 2025-03-04 at 2.02.06 pm.png",
+    "020 - Resources/Attachments/Screenshot 2025-03-04 at 2.01.18 pm.png",
+    "020 - Resources/Attachments/Screenshot 2025-03-04 at 2.00.25 pm.png",
+    "020 - Resources/Attachments/Screenshot 2025-03-04 at 1.56.32 pm.png",
+    "020 - Resources/Attachments/Screenshot 2025-03-04 at 1.40.45 pm.png",
+    "020 - Resources/Attachments/Screenshot 2025-03-04 at 1.28.20 pm.png",
+    "020 - Resources/Attachments/Screenshot 2025-03-04 at 1.23.40 pm.png",
+    "020 - Resources/Attachments/Screenshot 2025-03-04 at 11.42.14 am.png",
     "010 - Areas/School/Case Studies",
     "repo",
     "repo",
@@ -393,7 +344,6 @@
     "Users/naomichang/Documents",
     "Users/naomichang",
     "Users",
-    "010 - Areas/School/Practicals",
     "Note-Making Station.canvas"
   ]
 }

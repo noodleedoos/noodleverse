@@ -6,15 +6,9 @@ status:
 Summary: Animals graze autonomously for most of the year
 aliases:
 ---
-*Definition*
-~
-- Animals graze autonomously for most of year
-
 # Terms
-Stocking Density
-~
-how many of a certain animal can be grazed in an area
-
+[[Stocking Density]]
+[[Extensive Livestock]]
 
 # Things that Impact Livestock Production
 ~
@@ -22,22 +16,19 @@ how many of a certain animal can be grazed in an area
 - Irrigation
 - Temperature
 
-## Rainfall in Australia
-*Where is rainfall highest in Australia? Why might average rainfalls be misleading?*
-- higher towards coast, northern areas and grear dividing range
-- misleading due to inconsistent (drought/flood) and pattern variations
-![[Pasted image 20250209140803.png]]
-![[Pasted image 20250209140731.png]]
+[[Rainfall in Australia]]
+[[Irrigation]]
+[[Temperature]]
 
+# Tropical vs Temperate, Pasture Types, Seasonality and Climate Change
+[[Climate in Australia]]
+[[Pasture Types]]
+[[Length of Growing Season]]
+[[Impacts of Climate Change on Agriculture]]
+[[Extensive Livestock in Australia]]
 
-## Irrigation
-*Describe irrigation sources in Australia and its impacts on production with an example*
-~
-- Murray Darling basin, natural water sources
-- Increase pasture/crop production e.g. Goulburn Valley in Victoria
-
-## Temperature
-*How might temperature impact pasture growth?*
+# Related Concepts
+[[Livestock Zones in Australia]]
 
 
 

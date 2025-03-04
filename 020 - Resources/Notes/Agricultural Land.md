@@ -11,8 +11,13 @@ aliases:
 - Nearly at limit of agricultural land in many areas
 - Increased intensification of current areas
 
+# Agricultural Land in Australia
+
 *Describe the soil quality in Australia*
 ~
 - old country
 - low soil fertility
 - low phosphorous
+
+# Related Concepts
+[[Historical Innovation in Agriculture]]

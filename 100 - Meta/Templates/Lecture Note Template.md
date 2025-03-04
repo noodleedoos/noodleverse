@@ -1,8 +1,8 @@
 ---
-up:
+up: 
 tags:
   - lecture
-status:
+Status:
 ---
 ## Intended Learning Outcomes
 

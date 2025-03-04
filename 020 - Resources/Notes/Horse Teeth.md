@@ -10,8 +10,10 @@ aliases:
 ~
 Roots only form in old horse
 
-*Dentine role in horse teeth*
+# Dentine
+*Dentine role and sensitivity in horse teeth*
 ~
 Secondary dentine prevents pulp exposure
 Tertiary dentine sometimes laid down for the same thing
+At occlusal surface not sensitive due to calcification
 ![[Screenshot 2025-03-03 at 5.01.12 pm.png]]

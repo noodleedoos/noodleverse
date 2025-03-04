@@ -8,6 +8,15 @@ archive:
 aliases:
   - APS1
 ---
+
+
+## Units
+```dataview
+table status FROM #unit and [[]]
+sort file.name asc
+```
+
+
 ## Lectures
 ```dataview
 table status FROM #lecture and [[]]
