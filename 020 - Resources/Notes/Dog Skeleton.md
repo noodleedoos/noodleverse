@@ -6,10 +6,15 @@ status:
 Summary:
 aliases:
 ---
+# Dog Axial Skeleton
+*What da vertebrae count?*
+~
+C7, T13, L7, S3, C however long tail is
 # Dog Forelimb
 *What are the adaptations found in a dog forelimb?*
 ~
 - Pectoral girdle is only scapula
+- Clavicle is small piece of cartilage and tendon aka the clavicular intersection
 - Radial carpal bone fused with intermediate to be radiocarpal bone
 - 2 phalanges in digit I
 - 3 phalanges in digits II-V

@@ -22,6 +22,6 @@ rapid traceback if exotic disease identified
 
 # Regulatory Systems for Product Safety Compliance
 ~
-- [[Withholding period]]
+- [[Withholding Period]]
 - [[Export Slaughter Interval]]
 

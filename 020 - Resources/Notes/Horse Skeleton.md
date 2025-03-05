@@ -12,6 +12,7 @@ aliases:
 - No clavicle, no coracoid (like in most quadruped)
 - Sturdy humerus
 - Fused ulna and radius since they don't rotate their limbs - radius takes majority
+- No fifth metacarpal
 - Metacarpal and metatarsal 3 and digit 3 is weight bearing
 - No acetabular bone (only in carnivores)
 - Fibula fused to tibia

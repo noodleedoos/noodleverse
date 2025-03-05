@@ -8,13 +8,13 @@ Status:
 ---
 # Function
 ~
-- breed info and promotion
+- Most common: breed info and promotion
 - fellowship
 - sharing ideas
 - development and publication of breed standards
-- organisation and structure
+- organisation and structure of breen, assisting at agricultural shows where the animals are shown
 - marketing
-- education 
+- education - youth development to keep the breed going
 - risk review
 - pedigree registration 
 - semi-regulatory role

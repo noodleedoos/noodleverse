@@ -13,3 +13,20 @@ aliases:
 - Apply skills in observation and deduction to identify and name the bones of the skeleton from different species, as many non-domestic species may be encountered in veterinary practice.
 - Apply appropriate descriptive names for major bone features such as crests, tuberosities, processes, fossae, and foramina, required to translate the meaning of veterinary texts to the animal in front of you.
 ## Notes
+
+[[Radiographs]]
+[[Scapula]]
+[[Os Coxae]]
+[[Synovial joints]]
+[[Vertebrae]]
+[[Ligaments]]
+[[Tendon]]
+
+
+[[Horse Skeleton]]
+[[Cow Skeleton]]
+[[Sheep Skeleton]]
+[[Pig Skeleton]]
+[[Chicken Skeleton]]
+[[Cat Skeleton]]
+
