@@ -12,6 +12,7 @@ aliases:
 - fertiliser
 - cost of sowing
 - lost grazing opportunity
+<!--SR:!2025-03-09,4,270-->
 
 # Factors causing Variations
 ~
@@ -27,6 +28,7 @@ aliases:
 ~
 - Animals get variety
 - Clover fixes N into soil that rye can use for growth
+<!--SR:!2025-03-09,4,272-->
 
 # Related Concepts
 [[Pasture Toxicity]]

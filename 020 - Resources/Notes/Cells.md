@@ -13,10 +13,11 @@ tags:
 3. Eliminate wastes
 4. Synthesise protein
 5. Control movement of molecules into cell growth
-<!--SR:!2024-12-16,4,270-->
+<!--SR:!2025-03-20,15,290-->
 
 # Cell Structure
 ![[Pasted image 20241209120614.png]]
+
 *Describe the function of the major organelles*
 ~
 
@@ -34,6 +35,7 @@ tags:
 |                           |                                                     |                                                                                                                                 |
 |                           |                                                     |                                                                                                                                 |
 # Naming Cells
+
 *How are cells named according to differentiation?*
 ~
 

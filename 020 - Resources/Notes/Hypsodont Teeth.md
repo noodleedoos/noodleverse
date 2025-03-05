@@ -15,6 +15,7 @@ aliases:
 ~
 - Prolonged growth and eruption period
 - Root forms after eruption or never ([[Hypselodont or Aradicular Teeth]])
+<!--SR:!2025-03-09,4,270-->
 
 # Structure
 how does the structure of a hypsodont tooth differ from a brachydont tooth?

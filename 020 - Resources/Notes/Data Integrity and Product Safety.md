@@ -11,10 +11,12 @@ aliases:
 - consistent for cattle, planning for sheep
 
 # NLIS Tags
+*What are they? Where are they required and for what species?*
 ~
 - lifetime tracking of livestock
 - Each movement updated on national database
 - eNLIS tags required for sheep in VIC
+<!--SR:!2025-03-08,3,250-->
 
 ## Benefits
 ~

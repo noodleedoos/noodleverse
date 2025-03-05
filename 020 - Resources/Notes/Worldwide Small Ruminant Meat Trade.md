@@ -12,6 +12,7 @@ aliases:
 - Total export = 1 million tonnes
 - 75% total international exports from Australaisa
 
+
 *Describe the total production and export of goat meat and which region accounts for more than half of the world's exports*
 ~
 - Total output = 5 million tonnes

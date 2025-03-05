@@ -18,4 +18,4 @@ Beef cattle < Honse < cat < dairy dog < sheep
 ![[Screenshot 2024-12-12 at 5.40.50 PM.png]]
 *Source*
 [Table: Normal Rectal Temperature Ranges-MSD Veterinary Manual](https://www.msdvetmanual.com/multimedia/table/normal-rectal-temperature-ranges)
-<!--SR:!2024-12-15,3,250-->
+<!--SR:!2025-03-07,2,230-->

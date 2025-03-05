@@ -21,9 +21,10 @@ aliases:
 3. Historical voyages resulting in animal death
 
 # Comparisons
-*Quantitative comparison to fresh/frozen meat*
+*Quantitative comparison of live animals to fresh/frozen meat*
 ~
 - much less
+<!--SR:!2025-03-09,4,270-->
 
 # Requirements
 *Give an example of requirements around timing of voyages*

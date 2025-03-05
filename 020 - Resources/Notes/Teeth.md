@@ -13,8 +13,9 @@ Rooted in alveolar bone
 
 # Tooth Surfaces
 *What is the vestibular surface?*
-~ 
+~
 Area between the lips, teeth and cheeks
+<!--SR:!2025-03-09,4,270-->
 
 *When can we use the word palatine?*
 ~
