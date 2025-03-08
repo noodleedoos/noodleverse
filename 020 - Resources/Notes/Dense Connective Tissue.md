@@ -7,5 +7,6 @@ Summary:
 aliases:
 ---
 # Types
+~
 [[Regular Dense Connective Tissue]]
-[[Irregular Dense Connective Tissue]]
+[[Dense Irregular Connective Tissue]]

@@ -5,19 +5,19 @@ tags:
 aliases:
 archive:
 ---
-## Lectures
+# Lectures
 ```dataview
 table status  FROM #lecture and [[]]
 ```
 
-## Workshops
+# Workshops
 ```dataview
 table status  FROM #workshop and [[]]
 ```
 
-## Practicals
+# Practicals
 ```dataview
 table status  FROM #practical and [[]]
 ```
 
-## Notes 
+# Notes 

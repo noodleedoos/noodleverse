@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e3a58bc9139a5f29",
+        "id": "1023547cef1eeb42",
         "type": "tabs",
         "children": [
           {
-            "id": "9c4abd0d23ea47d9",
+            "id": "8255a846e16e0042",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Areas/School/Courses/Animals in Extensive Production Systems 1.md",
+                "file": "010 - Areas/School/Courses/Cells to Systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Animals in Extensive Production Systems 1"
+              "title": "Cells to Systems"
             }
           }
         ]
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:concept",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -92,8 +92,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -298,45 +297,46 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "9c4abd0d23ea47d9",
+  "active": "8255a846e16e0042",
   "lastOpenFiles": [
-    "010 - Areas/School/Units/1. General Industry.md",
-    "010 - Areas/School/Lectures/1.1 - Australia in the World and Agricultural Innovation.md",
-    "010 - Areas/School/Courses/Animals in Extensive Production Systems 1.md",
-    "010 - Areas/Doctor of Veterinary Medicine.md",
-    "000 - Navigation/Home.md",
-    "020 - Resources/Notes/Worldwide Import and Export of Live Animals.md",
-    "020 - Resources/Notes/Worldwide Small Ruminant Meat Trade.md",
-    "020 - Resources/Notes/Cells.md",
-    "020 - Resources/Notes/Horse Skeleton.md",
-    "010 - Areas/School/Practicals/1 - The Skeleton.md",
-    "010 - Areas/School/Courses/Cells to Systems.md",
-    "020 - Resources/Notes/Tendon.md",
-    "020 - Resources/Notes/Ligaments.md",
-    "020 - Resources/Notes/Vertebrae.md",
-    "020 - Resources/Notes/Dog Skeleton.md",
-    "020 - Resources/Attachments/716_Intervertebral_Disk.svg.png",
-    "020 - Resources/Notes/Synovial joints.md",
-    "020 - Resources/Notes/Os Coxae.md",
-    "020 - Resources/Notes/Scapula.md",
-    "020 - Resources/Attachments/Pasted image 20250305204211.png",
-    "020 - Resources/Attachments/Pasted image 20250305204036.png",
-    "020 - Resources/Notes/Radiographs.md",
-    "020 - Resources/Notes/Centre of Ossification.md",
-    "010 - Areas/School/Lectures/1.3 - The Skeleton.md",
-    "020 - Resources/Notes/Cat Skeleton.md",
-    "020 - Resources/Attachments/Pasted image 20250305203606.png",
-    "020 - Resources/Notes/Chicken Skeleton.md",
-    "020 - Resources/Notes/Pig Skeleton.md",
-    "010 - Areas/School/Lectures/1.3 - General Industry.md",
-    "010 - Areas/School/Lectures/1.2 - Worldwide size of livestock Population.md",
-    "020 - Resources/Attachments/Screenshot 2025-03-04 at 2.32.00 pm.png",
+    "010 - Areas/School/Lectures/2.6 - Epithelium.md",
+    "020 - Resources/Notes/Glandular epithelia.md",
+    "020 - Resources/Notes/Exocrine glands.md",
+    "020 - Resources/Notes/Compound Glands.md",
+    "010 - Areas/School/Practicals/2 - Microscopic Anatomy.md",
+    "020 - Resources/Notes/Method of secretion.md",
+    "020 - Resources/Notes/Holocrine secretion.md",
+    "020 - Resources/Notes/Merocrine secretion.md",
+    "020 - Resources/Notes/Apocrine secretion.md",
+    "020 - Resources/Attachments/Screenshot 2025-03-08 at 8.42.05 pm.png",
+    "020 - Resources/Attachments/Screenshot 2025-03-08 at 8.41.37 pm.png",
+    "020 - Resources/Attachments/Screenshot 2025-03-08 at 8.40.52 pm.png",
+    "020 - Resources/Notes/Type of secretion.md",
+    "020 - Resources/Notes/Endocrine glands.md",
+    "020 - Resources/Notes/Tips for Identifying epithelium in histology sections.md",
+    "020 - Resources/Notes/Epithelia.md",
+    "020 - Resources/Notes/Basement membrane.md",
+    "020 - Resources/Notes/Lateral and Basal surface modifications.md",
+    "020 - Resources/Notes/Adhering type.md",
+    "020 - Resources/Attachments/Screenshot 2025-03-08 at 8.33.23 pm.png",
+    "020 - Resources/Notes/Communicating type.md",
+    "020 - Resources/Notes/Occluding type.md",
+    "020 - Resources/Notes/Cilia.md",
+    "020 - Resources/Notes/Microvilli and stereocilia.md",
+    "020 - Resources/Attachments/Screenshot 2025-03-08 at 8.30.23 pm.png",
+    "020 - Resources/Attachments/Screenshot 2025-03-08 at 8.26.00 pm.png",
+    "020 - Resources/Notes/Pseudostratified columnar epithelium.md",
+    "020 - Resources/Notes/Transitional epithelium.md",
+    "020 - Resources/Attachments/Screenshot 2025-03-08 at 8.20.53 pm.png",
+    "020 - Resources/Attachments/Screenshot 2025-03-08 at 8.20.12 pm.png",
+    "020 - Resources/Notes/Stratified Squamous Epithelium.md",
+    "020 - Resources/Notes/Keratinised epithelium.md",
+    "020 - Resources/Attachments/Screenshot 2025-03-08 at 8.18.31 pm.png",
+    "020 - Resources/Attachments/Screenshot 2025-03-08 at 8.17.48 pm.png",
+    "020 - Resources/Notes/Simple columnar epithelium.md",
+    "020 - Resources/Notes/Goblet cells.md",
+    "Sheep",
     "inputs",
-    "020 - Resources/Attachments/Screenshot 2025-03-04 at 2.29.52 pm.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-04 at 2.02.06 pm.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-04 at 2.01.18 pm.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-04 at 2.00.25 pm.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-04 at 1.56.32 pm.png",
     "010 - Areas/School/Case Studies",
     "repo",
     "repo",
@@ -345,7 +345,6 @@
     "Users/naomichang/Documents/GitHub",
     "Users/naomichang/Documents",
     "Users/naomichang",
-    "Users",
     "Note-Making Station.canvas"
   ]
 }

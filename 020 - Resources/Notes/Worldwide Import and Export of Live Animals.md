@@ -27,13 +27,10 @@ aliases:
 <!--SR:!2025-03-09,4,270-->
 
 # Requirements
-*Give an example of requirements around timing of voyages*
+*How is animal health and welfare defined in livestock systems in Australian and around the world*
 ~
 Sheep not allowed to be exported from WA to middle east in winter due to big temperature change
-
-*What does ESCAS do?*
-~
-Guarantees ownership claims when the animals arrive in a country - challenge = variations in welfare regulations
+[[ESCAS]] - Guarantees ownership claims when the animals arrive in a country - challenge = variations in welfare regulations
 # Export Location and Destination
 *Cattle and sheep export location and destination*
 ~

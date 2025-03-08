@@ -16,7 +16,7 @@ Producer representatives that coordinate with the government to solve shared con
 - [[Sheep Producers]]
 - [[Wool Producers]]
 - [[Goat industry Council]]
-- [[Alpaca]]
+- [[Alpacas and Llamas]]
 
 # Examples of Overseas Councils
 ~

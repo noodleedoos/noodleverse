@@ -1,3 +1,4 @@
+[[2025-03-08]] - 
 ---
 up:
   - "[[DVM1]]"
@@ -8,7 +9,7 @@ archive:
 ---
 ## All Units
 ```dataview
-list FROM #unit and [[]]
+list FROM #unit and [[]] sort file.name asc
 ```
 ## Lectures
 ```dataview
@@ -26,33 +27,3 @@ table status FROM #casestudy and [[]]
 sort file.name asc
 ```
 
-
-
-Archive
-
-- Explain the basic structure of connective tissues
-- [[Connective Tissue]]
-- [[Loose Areolar Connective Tissue]]
-- [[Connective Tissue Proper]]
-
-- Identify the cells and extracellular material found in connective tissues
-[[Collagen Fibres]]
-[[Reticular Fibre]]
-[[Elastic fibres]]
-
-[[Plasma Cell]]
-[[Mast Cell]]
-[[Astrocytes]]
-[[fibrocyte]]
-[[Melanocyte]]
-[[Mesenchymal Cell]]
-[[fibroblast]]
-
-[[Extracellular material]]
-
-## Notes
-
-[[Histology]]
-[[Microscope Types]]
-[[Histological Slide Preparation and Examination]]
-[[Loose Areolar Connective Tissue]]

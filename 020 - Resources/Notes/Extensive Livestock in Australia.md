@@ -11,14 +11,9 @@ aliases:
 [[Extensive Livestock]]
 
 # Things that Impact Livestock Production
-~
-- Rainfall
-- Irrigation
-- Temperature
-
-[[Rainfall in Australia]]
-[[Irrigation]]
-[[Temperature]]
+- [[Rainfall in Australia]]
+- [[Irrigation]]
+- [[Temperature]]
 
 # Tropical vs Temperate, Pasture Types, Seasonality and Climate Change
 [[Climate in Australia]]

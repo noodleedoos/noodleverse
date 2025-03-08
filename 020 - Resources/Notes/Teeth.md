@@ -30,6 +30,14 @@ Only in carnivore teeth, not in herbivorous buccal teeth
 ~
 [[Brachydont Teeth]], [[Hypsodont Teeth]]
 ![[Screenshot 2025-03-03 at 4.53.59 pm.png]]
+
+Teeth of the upper and lower arcade
+~
+[[Incisors]]
+[[Canines]]
+[[Premolars and MOlars]]
+
+
 # Structures
 *what structures are found in a tooth?* *what are their functions, what cells form them and describe their constituents.*
 ~
@@ -50,6 +58,7 @@ Only in carnivore teeth, not in herbivorous buccal teeth
 # Related Concepts
 [[Tooth Development]]
 [[Horse Teeth]]
+[[Dental Formula]]
 
 # Terminology
 ### Monophydont

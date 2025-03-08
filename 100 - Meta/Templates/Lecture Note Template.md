@@ -4,6 +4,6 @@ tags:
   - lecture
 Status:
 ---
-## Intended Learning Outcomes
+# Intended Learning Outcomes
 
-## Notes
+# Notes

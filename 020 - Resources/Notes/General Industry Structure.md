@@ -14,10 +14,11 @@ Status:
 - Australian agricultural research sets aside funds for emerging industries
 
 # Organisations involved in inputs/outputs
+*Detail common providers of inputs and output services in extensive livestock systems and the role of veterinarians*
 ~
 - [[Livestock Agents]]
 - [[Abattoirs]]
-- [[Veterinarians]]
+- [[Veterinarians in Extensive Industries]]
 - [[Fertiliser Companies]]
 - [[Genetic Companies]]
 - [[Feed Companies]]
@@ -27,7 +28,6 @@ Status:
 - [[Retailers]]
 - [[Wholesalers]]
 - [[Information Providers]]
-<!--SR:!2025-03-08,3,250-->
 
 # Research in Agriculture and Veterinary Science
 *How does it impact farms? Provide an example*

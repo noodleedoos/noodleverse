@@ -23,7 +23,7 @@ e.g. Australia/NZ
 
 # Related Concepts
 [[Hedging]]
-[[Biosecurity and Image]]
+[[Biosecurity in Extensive Animal Production Systems]]
 [[Data Integrity and Product Safety]]
 [[Production System Value]]
 

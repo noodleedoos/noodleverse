@@ -11,9 +11,11 @@ Status:
 ~
 mix inputs and measure it by $/ha, sustainability index, key performance indicators (KPI), margin, other metric
 # Key inputs for livestock system
+*Describe the major components of agricultural production systems.*
 ~
 - [[Land]]
 - [[Animals]]
 - [[Labour]]
 - [[Pasture Management]]
 - [[Infrastructure]]
+- [[Feed in Extensive Production Systems]]

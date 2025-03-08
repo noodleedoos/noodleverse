@@ -8,7 +8,7 @@ aliases:
 ---
 # Function
 ~
-- in herbivores and omnivores for high rates of wear
+- the only teeth in herbivores, and omnivores for high rates of wear
 
 
 # Formation

@@ -6,6 +6,12 @@ status:
 Summary:
 aliases:
 ---
-# Types
+# Definition
 ~
-Anthrax
+Disease already present in a country
+
+# Examples
+~
+[[Anthrax]]
+[[Mycobacterium paratuberculosis]]
+[[Multi Resistant Parasites]]

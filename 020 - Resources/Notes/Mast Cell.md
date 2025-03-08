@@ -6,7 +6,19 @@ status:
 Summary:
 aliases:
 ---
-# Granules
+# Characteristics
+~
+- granular cytoplasm makes it hard to see centred nucleus
+
+# Location
+~ 
+Close to blood vessels, low numbers in most connective tissues
+
+# Function
+~
+- degranulate when tissue damaged to release granules
+- Attack bacteria/parasites
+- trigger allergic reactions
 
 | Chemical                             | Purpose                            |
 | ------------------------------------ | ---------------------------------- |

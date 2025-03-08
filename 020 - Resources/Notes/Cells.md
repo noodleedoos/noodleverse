@@ -41,8 +41,8 @@ tags:
 
 | Suffix | Description              | Example        |
 | ------ | ------------------------ | -------------- |
-| -blast | not fully differentiated | [[fibroblast]] |
-| -ctye  | fully differentiated     | [[fibrocyte]]  |
+| -blast | not fully differentiated | [[Fibroblast]] |
+| -ctye  | fully differentiated     | [[Fibrocyte]]  |
 
 
 # Cell Types

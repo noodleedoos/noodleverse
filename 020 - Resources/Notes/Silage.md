@@ -8,4 +8,4 @@ Status:
 ---
 # Definition
 ~
-Higher moisture content than hay
+Higher moisture, quality and cost than [[Hay]]

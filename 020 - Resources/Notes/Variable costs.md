@@ -1,0 +1,11 @@
+---
+up: 
+tags:
+  - concept
+Summary: 
+aliases: 
+Status:
+---
+# Definition
+~
+costs that vary with size of enterprise (vaccinations for +20 cattle)

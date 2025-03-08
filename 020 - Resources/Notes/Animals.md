@@ -6,7 +6,8 @@ Summary:
 aliases: 
 Status:
 ---
-*Describe of animals in extensive animal production systems*
+# Management
+*Describe how management decisions impact animals in extensive production systems*
 ~
 - One species/multiple can spread risk/increase animal expertise
 - some only fatten, others have self replacing breed

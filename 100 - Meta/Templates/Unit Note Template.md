@@ -6,12 +6,12 @@ tags:
   - unit
 ---
 
-## Related Lectures
+# Related Lectures
 ```dataview
 table status FROM #lecture and [[]]
 ```
 
-## Related Concepts
+# Related Concepts
 ```dataview
 LIST FROM #concept and [[]]
 ```
