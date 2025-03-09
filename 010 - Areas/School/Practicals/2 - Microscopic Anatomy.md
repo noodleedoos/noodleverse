@@ -1,10 +1,13 @@
 ---
-up: 
+up:
+  - "[[Cells to Systems]]"
+  - "[[02. Cell Types and Tissues]]"
 tags:
   - practical
-status: 
 Summary: 
-aliases:
+aliases: 
+Status:
+  - 🌱
 ---
 # Intended Learning Outcomes
 - Identify and distinguish different cells and tissues in tissue sections.

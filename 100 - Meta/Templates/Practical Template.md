@@ -2,9 +2,9 @@
 up: 
 tags:
   - practical
-status: 
 Summary: 
-aliases:
+aliases: 
+Status:
 ---
 # Intended Learning Outcomes
 

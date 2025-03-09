@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1023547cef1eeb42",
+        "id": "e881abef7d41bf27",
         "type": "tabs",
         "children": [
           {
-            "id": "8255a846e16e0042",
+            "id": "cfaaf6bc96e92fa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Areas/School/Courses/Cells to Systems.md",
+                "file": "000 - Navigation/Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cells to Systems"
+              "title": "Home"
             }
           }
         ]
@@ -92,12 +92,12 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2ad0a5f6e9f09c33",
@@ -297,13 +297,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8255a846e16e0042",
+  "active": "cfaaf6bc96e92fa5",
   "lastOpenFiles": [
+    "100 - Meta/Templates/Practical Template.md",
+    "100 - Meta/Templates/Person Template.md",
+    "010 - Areas/School/Practicals/2 - Microscopic Anatomy.md",
+    "010 - Areas/School/Courses/Cells to Systems.md",
+    "010 - Areas/School/Practicals/1 - The Skeleton.md",
     "010 - Areas/School/Lectures/2.6 - Epithelium.md",
     "020 - Resources/Notes/Glandular epithelia.md",
     "020 - Resources/Notes/Exocrine glands.md",
     "020 - Resources/Notes/Compound Glands.md",
-    "010 - Areas/School/Practicals/2 - Microscopic Anatomy.md",
     "020 - Resources/Notes/Method of secretion.md",
     "020 - Resources/Notes/Holocrine secretion.md",
     "020 - Resources/Notes/Merocrine secretion.md",
@@ -329,12 +333,8 @@
     "020 - Resources/Notes/Transitional epithelium.md",
     "020 - Resources/Attachments/Screenshot 2025-03-08 at 8.20.53 pm.png",
     "020 - Resources/Attachments/Screenshot 2025-03-08 at 8.20.12 pm.png",
-    "020 - Resources/Notes/Stratified Squamous Epithelium.md",
-    "020 - Resources/Notes/Keratinised epithelium.md",
     "020 - Resources/Attachments/Screenshot 2025-03-08 at 8.18.31 pm.png",
     "020 - Resources/Attachments/Screenshot 2025-03-08 at 8.17.48 pm.png",
-    "020 - Resources/Notes/Simple columnar epithelium.md",
-    "020 - Resources/Notes/Goblet cells.md",
     "Sheep",
     "inputs",
     "010 - Areas/School/Case Studies",

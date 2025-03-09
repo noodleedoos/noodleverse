@@ -3,9 +3,10 @@ up:
   - "[[Cells to Systems]]"
 tags:
   - practical
-status: 
 Summary: 
-aliases:
+aliases: 
+Status:
+  - 🌳
 ---
 ## Intended Learning Outcomes
 - Demonstrate competence in following anatomical descriptions, required in veterinary practice to comprehend and carry out described veterinary procedures.
