@@ -35,7 +35,7 @@ Teeth of the upper and lower arcade
 ~
 [[Incisors]]
 [[Canines]]
-[[Premolars and MOlars]]
+[[Premolars and Molars]]
 
 
 # Structures

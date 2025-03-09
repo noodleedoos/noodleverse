@@ -34,7 +34,7 @@ Status:
 ~
 1. Deciduous: smaller than permanents, white crown
 2. Permanent: large/rectangular, yellowish crown from cementum
-3. Dental star changes position and shape starting from centrals to corners, from oval mediodistally to trapezoidal to triangular then oval in the labiolingual direction
+3. Cross section of incisor chages position and shape starting from centrals to corners, from oval mediodistally to trapezoidal to triangular then oval in the labiolingual direction
 ![[Pasted image 20250306213959.png]]
 *Changes to the shape and angle of the upper corner incisor over time*
 ~
@@ -47,6 +47,7 @@ Status:
 *Changes to the curvature of the dental arch of lower incisors*
 ~
 Semicircle to straight
+Caudal angle becomes smaller
 
 
 # Ox teeth aging

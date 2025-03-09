@@ -8,4 +8,4 @@ aliases:
 ---
 # Origin
 ~
-mandibular branch of the [[trigeminal nerve]]
+mandibular branch of the [[Cranial Nerve V - Trigeminal]]
