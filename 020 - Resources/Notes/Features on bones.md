@@ -8,7 +8,6 @@ aliases:
 ---
 # Features
 *Describe what are Head, condyle, articular facet, trochlea, epicondyle, tuberosity, tubercle, trochanter, process, fossa, cavity, foramen, fissure, canal, duct
-~
 
 | Feature         | Description                      |                                                                           |
 | --------------- | -------------------------------- | ------------------------------------------------------------------------- |

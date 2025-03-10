@@ -6,12 +6,12 @@ Summary:
 aliases: 
 Status:
 ---
-How can predation cause reproductive loss?
+# Predation in Australia
+*Describe common predators in Australia and less common predators*
 ~
-# Predation in australia
-~
-Wild dogs, foxees, pigs
+Wild dogs, foxes, pigs
 Less common - birds of prey, crows
+<!--SR:!2025-03-13,3,250-->
 
 ## Control methods
 ~
@@ -19,3 +19,4 @@ Less common - birds of prey, crows
 - shooting/baiting
 - safe containment areas
 - dog proof fences
+<!--SR:!2025-03-13,3,250-->

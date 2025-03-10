@@ -14,12 +14,14 @@ Laneways for stock movement
 Water and power supplies
 [[Silage]] storage
 [[Personal Transport]]
+<!--SR:!2025-03-13,3,250-->
 
 # Farm Infrastructure Requirements for Different Enterprises
 
 ## Dairy Farm
 ~
 - Dairy, silo, yards, landways, small paddock fencing (electric mostly), design regulations
+<!--SR:!2025-03-13,3,250-->
 
 ## Merino Sheep
 ~
@@ -35,6 +37,7 @@ Water and power supplies
 - Water infrastructure and shade
 - Hay shed
 - Silo
+<!--SR:!2025-03-13,3,250-->
 
 # Machinery
 * Provide 8 machines that you might find on an extensive production system.*

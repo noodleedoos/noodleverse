@@ -7,9 +7,11 @@ Summary:
 aliases:
 ---
 # Location
+*Where are teeth rooted in?*
 ~
 Rooted in alveolar bone
 ![[Screenshot 2025-03-03 at 4.50.58 pm.png]]
+<!--SR:!2025-03-13,3,257-->
 
 # Tooth Surfaces
 *What is the vestibular surface?*
@@ -20,27 +22,37 @@ Area between the lips, teeth and cheeks
 *When can we use the word palatine?*
 ~
 When referring to lingual teeth in the upper arcade
+<!--SR:!2025-03-14,4,274-->
 
 *When can we use interdental surface names like mesial and distal?*
 ~
 Only in carnivore teeth, not in herbivorous buccal teeth
 ![[Screenshot 2025-03-03 at 4.51.32 pm.png]]
+<!--SR:!2025-03-14,4,283-->
 
 # Tooth Types
 ~
 [[Brachydont Teeth]], [[Hypsodont Teeth]]
 ![[Screenshot 2025-03-03 at 4.53.59 pm.png]]
+<!--SR:!2025-03-14,4,281-->
 
 Teeth of the upper and lower arcade
 ~
 [[Incisors]]
 [[Canines]]
 [[Premolars and Molars]]
+<!--SR:!2025-03-14,4,277-->
 
 
 # Structures
 *what structures are found in a tooth?* *what are their functions, what cells form them and describe their constituents.*
 ~
+![](https://i.imgur.com/JLvIp5O.png)
+Enamel - ameloblasts
+Dentine - odontoblasts
+Cementum - cementoblasts
+<!--SR:!2025-03-14,4,284-->
+
 
 | Structure                | Formation                                                         | Function                             | Description                                                                                                                                                                                                                                                                               |
 | ------------------------ | ----------------------------------------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -53,7 +65,6 @@ Teeth of the upper and lower arcade
 | [[Alveolus]] (socket)    |                                                                   |                                      |                                                                                                                                                                                                                                                                                           |
 | [[Gingiva]]              |                                                                   | Cover alveolar bone and around teeth | ![[Screenshot 2025-03-04 at 11.34.20 am.png]]                                                                                                                                                                                                                                             |
 
-![[Screenshot 2025-03-03 at 5.01.37 pm.png]]
 
 # Related Concepts
 [[Tooth Development]]
@@ -65,11 +76,15 @@ Teeth of the upper and lower arcade
 ~
 mammals with one set of dentition
 e.g. rodents
+<!--SR:!2025-03-14,4,279-->
 
 ### Diphydont
 ~
 two sets of teeth
+<!--SR:!2025-03-14,4,280-->
+
 ### Polyphydont
 ~
-2+ sets of teeth 
+2+ sets of teeth
 e.g. elephants since they live a long time and eat an abrasive diet
+<!--SR:!2025-03-13,3,259-->

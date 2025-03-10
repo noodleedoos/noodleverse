@@ -16,5 +16,6 @@ aliases:
 - Metacarpal and metatarsal 3 and digit 3 is weight bearing
 - No acetabular bone (only in carnivores)
 - Fibula fused to tibia
+<!--SR:!2025-03-13,3,250-->
 
 ![[Screenshot 2025-03-03 at 3.11.37 pm.png]]

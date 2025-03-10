@@ -13,3 +13,4 @@ All incisors hypselodont
 Herbivorous - cheek teeth hypselodont
 Omnivorous - brachydont
 Most monophydont
+<!--SR:!2025-03-11,1,230-->

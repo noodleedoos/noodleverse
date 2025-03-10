@@ -22,6 +22,7 @@ Mucocutaneous Junction:
 ## Lip margin
 *Describe species variations in lip margin*
 ~
+<!--SR:!2025-03-13,3,250-->
 
 | Animal     | Variation                                                                               |
 | ---------- | --------------------------------------------------------------------------------------- |
@@ -30,23 +31,29 @@ Mucocutaneous Junction:
 | Ox         | Insensitive, thick, cone shaped buccal papillae<br>![[Pasted image 20250309131011.png]] |
 | Herbivores | Small gape = sucking water                                                              |
 | Carnivores | Large gape = lapping water                                                              |
+
+
 ### Philtrum
 *Describe what a philtrum is, which species it is found in*
 ~
 - Cleft marking division of upper lip
 - Dog, cat, camelids, sheep (for closer grazing)
+<!--SR:!2025-03-13,3,250-->
 
 # Muscles
-*Describe the superficial muscles in the head of an animal*
+*Describe the superficial muscles in the head of an animal and who innervates them*
 ~
+[[Orbicularis oris]], [[Levator nasolabialis]], [[Caninus]], [[Levator labii superioris and inferioris]] all innervated by [[[Cranial Nerve VII]]
+![](https://i.imgur.com/Jdfl1Ci.png)
+<!--SR:!2025-03-13,3,250-->
+## Summary Table
 
 | Muscle                                  | Function                                                           | Innervation           |
 | --------------------------------------- | ------------------------------------------------------------------ | --------------------- |
-| [[Orbicularis oris]]                    | Close lips. The only major muscle - the rest has species variation | [[Cranial Nerve VII - Facial]] |
-| [[Levator nasolabialis]]                | Dilate nostril, lift upper lip                                     | [[Cranial Nerve VII - Facial]] |
-| [[Caninus]]                             | Lift upper lip, sometimes dilate nostrils (snarl in dogs)          | [[Cranial Nerve VII - Facial]] |
-| Levator Labii superioris and inferioris | Lift upper/lower lip                                               | [[Cranial Nerve VII - Facial]] |
-![[Pasted image 20250309130654.png]]
+| [[Orbicularis oris]]                    | Close lips. The only major muscle - the rest has species variation | [[Cranial Nerve VII]] |
+| [[Levator nasolabialis]]                | Dilate nostril, lift upper lip                                     | [[Cranial Nerve VII]] |
+| [[Caninus]]                             | Lift upper lip, sometimes dilate nostrils (snarl in dogs)          | [[Cranial Nerve VII]] |
+| Levator Labii superioris and inferioris | Lift upper/lower lip                                               | [[Cranial Nerve VII]] |
 # Related Concepts
 [[Cranial Nerves]]
 [[Flehman Response]]

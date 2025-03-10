@@ -16,3 +16,4 @@ aliases:
 	- remnants of metacarpal and phalage bones
 - Increased number of phalanges in hind legs
 ![[Screenshot 2025-03-03 at 3.18.20 pm.png]]
+<!--SR:!2025-03-14,4,270-->

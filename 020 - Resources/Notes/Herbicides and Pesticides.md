@@ -11,6 +11,7 @@ Herbicides and Pesticides
 ~
 - High return on short term use
 - [[Round-Up]] allows [[minimum till production systems]] because there is less tractor work required -> less soil compaction
+<!--SR:!2025-03-14,4,272-->
 
 *What are some challenges relating to herbicides and pesticides?*
 ~

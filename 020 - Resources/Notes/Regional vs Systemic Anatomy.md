@@ -14,10 +14,12 @@ Systems with structures in every region MIN
 [[Cardiovascular System]]
 [[Nervous System]]
 [[Lymphatic System]]
+<!--SR:!2025-03-13,3,252-->
 
 # Localised Systems
 ~
 Systems confined to certain regions
+<!--SR:!2025-03-14,4,270-->
 
 | System                   | Region                              |
 | ------------------------ | ----------------------------------- |

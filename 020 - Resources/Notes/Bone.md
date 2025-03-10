@@ -7,7 +7,6 @@ aliases:
 Status:
 ---
 # Compact bone Structure
-~
 
 | Thing          | Structure                  | Function         |
 | -------------- | -------------------------- | ---------------- |

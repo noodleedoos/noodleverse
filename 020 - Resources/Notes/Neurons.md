@@ -21,12 +21,14 @@ Summary:
 - Irreplaceable
 - Amitotic - lose ability to divide
 - High metabolic rate
+<!--SR:!2025-03-13,3,250-->
 
 # Structure
 ~
 - Cell body/soma - nucleus, cytoplasm
 - Dendrites - branch out from cell body
 - Axon - long extension from soma. Transmit electrical impulses away from soma
+<!--SR:!2025-03-14,4,270-->
 
 
 # Number of Processes determine type of neurons

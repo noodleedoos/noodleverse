@@ -8,4 +8,5 @@ Status:
 ---
 # Function
 ~
-Product [[Extracellular material|Extracellular Matrix]] including connective tissue fibres
+Produce [[Extracellular material|Extracellular Matrix]] including connective tissue fibres
+<!--SR:!2025-03-13,3,250-->

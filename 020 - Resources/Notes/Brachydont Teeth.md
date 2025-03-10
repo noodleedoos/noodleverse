@@ -9,11 +9,13 @@ aliases:
 # Found in
 ~
 Carnivores
+<!--SR:!2025-03-14,4,270-->
 
 # Formation
 *Described the growth period of brachydont teeth*
 ~
 Limited growth period
+<!--SR:!2025-03-14,4,272-->
 
 # Structure
 - Anatomical crown = clinical and reserve crown

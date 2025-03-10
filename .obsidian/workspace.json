@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8471378dd021025c",
+        "id": "41b6b3ce08011248",
         "type": "tabs",
         "children": [
           {
-            "id": "bdd183be54266009",
+            "id": "6b46bfbfa26a1622",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010 - Areas/School/Practicals/2 - Microscopic Anatomy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2 - Microscopic Anatomy"
+              "title": "New tab"
             }
           }
         ]
@@ -68,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gestation periods",
+                "query": "superficial",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -96,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2ad0a5f6e9f09c33",
@@ -297,44 +282,44 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "bdd183be54266009",
+  "active": "6b46bfbfa26a1622",
   "lastOpenFiles": [
-    "010 - Areas/School/Courses/Cells to Systems.md",
-    "010 - Areas/School/Lectures/2.5 - Connective Tissue.md",
-    "010 - Areas/School/Lectures/2.6 - Epithelium.md",
-    "010 - Areas/School/Practicals/2 - Microscopic Anatomy.md",
-    "020 - Resources/Notes/Neurons.md",
-    "020 - Resources/Notes/Nerves.md",
-    "020 - Resources/Notes/Spinal Nerve.md",
-    "020 - Resources/Notes/Satellite cells.md",
-    "020 - Resources/Notes/Nervous Tissue.md",
-    "020 - Resources/Notes/Peripheral Nervous System.md",
-    "020 - Resources/Notes/Central Nervous System.md",
-    "020 - Resources/Notes/Skeletal Muscle.md",
+    "020 - Resources/Notes/Lips.md",
+    "010 - Areas/School/Assignments/CHCCSL003 Workbook.md",
+    "010 - Areas/School/Lectures/1.2 - The Language of Anatomy.md",
+    "020 - Resources/Notes/Histological Slide Preparation and Examination.md",
+    "020 - Resources/Notes/Tongue.md",
+    "020 - Resources/Notes/Cranial Nerve IX.md",
+    "020 - Resources/Notes/Cranial Nerves.md",
+    "020 - Resources/Notes/Cranial Nerve XII.md",
+    "020 - Resources/Notes/Cranial Nerve X.md",
+    "020 - Resources/Notes/Pharynx.md",
+    "020 - Resources/Attachments/Pasted image 20250309141232.png",
+    "020 - Resources/Notes/Mastication.md",
+    "020 - Resources/Notes/Buccinator Muscle.md",
+    "020 - Resources/Notes/Extrinsic Tongue Muscles.md",
+    "020 - Resources/Notes/Intrinsic Tongue Muscles.md",
+    "020 - Resources/Notes/Mylohyoideus Muscle.md",
+    "020 - Resources/Notes/Geniohyoidieus Muscle.md",
     "020 - Resources/Notes/Smooth Muscle Tissue.md",
-    "020 - Resources/Notes/Cardiac Muscle.md",
-    "020 - Resources/Notes/Connective Tissue.md",
-    "020 - Resources/Notes/Ligaments.md",
-    "020 - Resources/Notes/Glands.md",
-    "020 - Resources/Notes/Exocrine glands.md",
-    "020 - Resources/Notes/Simple branched alveolar gland.md",
+    "020 - Resources/Notes/Oestrus Cycle Length and Patterns.md",
+    "020 - Resources/Notes/Teeth.md",
+    "020 - Resources/Notes/Glandular epithelia.md",
+    "020 - Resources/Notes/Oral Mucosa.md",
+    "020 - Resources/Notes/Dental Formula.md",
+    "020 - Resources/Attachments/Screenshot 2025-03-03 at 5.01.37 pm.png",
+    "020 - Resources/Notes/Bone.md",
+    "020 - Resources/Notes/Lateral and Basal surface modifications.md",
+    "020 - Resources/Notes/Adhering type junctional complex.md",
+    "020 - Resources/Notes/Occluding type junctional complex.md",
+    "020 - Resources/Attachments/Screenshot 2025-03-03 at 4.01.03 pm.png",
+    "020 - Resources/Attachments/Screenshot 2025-03-08 at 4.00.50 pm.png",
+    "020 - Resources/Attachments/Screenshot 2025-03-03 at 4.12.10 pm.png",
+    "020 - Resources/Attachments/Pasted image 20250309140827.png",
     "020 - Resources/Attachments/Screenshot 2025-03-10 at 9.53.47 am.png",
     "020 - Resources/Attachments/Screenshot 2025-03-10 at 9.55.37 am.png",
     "020 - Resources/Attachments/Screenshot 2025-03-10 at 9.57.28 am.png",
-    "020 - Resources/Notes/Compound Glands.md",
     "020 - Resources/Attachments/Pasted image 20250310095410.png",
-    "020 - Resources/Notes/Cilia.md",
-    "020 - Resources/Attachments/Screenshot 2025-03-10 at 9.53.05 am.png",
-    "020 - Resources/Notes/Microvilli and stereocilia.md",
-    "020 - Resources/Attachments/Screenshot 2025-03-10 at 9.52.49 am.png",
-    "020 - Resources/Notes/Epithelia.md",
-    "020 - Resources/Notes/Epidermis.md",
-    "020 - Resources/Notes/Simple squamous epithelium.md",
-    "020 - Resources/Notes/Cartilage.md",
-    "020 - Resources/Attachments/Screenshot 2025-03-10 at 9.26.38 am.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-09 at 3.55.00 pm.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-09 at 3.53.45 pm.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-09 at 3.52.44 pm.png",
     "Sheep",
     "inputs",
     "010 - Areas/School/Case Studies",

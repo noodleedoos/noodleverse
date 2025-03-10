@@ -19,6 +19,7 @@ aliases:
 - rainfall
 - soil type
 - temperature - [[Annual Pastures]] vs [[Perrenial Pastures]]
+<!--SR:!2025-03-13,3,257-->
 
 # Trends in Pasture in Australia
 - [[Temperate C3 plants]] in Southern Australia

@@ -1,7 +1,13 @@
 {
   "settings": {
     "flashcardTags": [
-      "#concept"
+      "#concept",
+      "#unit",
+      "#lecture",
+      "#practical",
+      "#casestudy",
+      "#section",
+      "#course"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,

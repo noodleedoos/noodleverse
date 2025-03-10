@@ -10,6 +10,7 @@ aliases:
 ~
 - Nearly at limit of agricultural land in many areas
 - Increased intensification of current areas
+<!--SR:!2025-03-14,4,270-->
 
 # Agricultural Land in Australia
 
@@ -18,6 +19,7 @@ aliases:
 - old country
 - low soil fertility
 - low phosphorous
+<!--SR:!2025-03-13,3,250-->
 
 # Related Concepts
 [[Historical Innovation in Agriculture]]

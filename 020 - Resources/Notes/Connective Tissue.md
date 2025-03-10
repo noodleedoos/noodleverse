@@ -14,20 +14,23 @@ aliases:
 3. Energy source - [[Adipose]]
 4. Storage
 5. Inflammation/tissue repair
+<!--SR:!2025-03-13,3,252-->
 
 # Composition of Connective tissue
 ~
 - Amorphous [[Extracellular material]]
 - Cells
 - From [[Embryonic Tissue]]
-- 
+-
 ![[Screenshot 2025-03-08 at 7.52.43 pm.png]]
+<!--SR:!2025-03-14,4,270-->
 
-# Common Cells in Connective Tissue 
+# Common Cells in Connective Tissue
 *What are the cells that are in connective tissue? describe their characteristics and function*
 ~
 Please make amends for my masculine friends
 Overview table
+<!--SR:!2025-03-13,3,252-->
 
 | Cell                                                       | Location                                                                         | Characteristics                                                                                                                  | Function                                                                                                                                                                   | Image                                                                                   |
 | ---------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -51,6 +54,7 @@ Overview table
 ~
 ![[Pasted image 20241213154354.png]]
 ![[Pasted image 20241213154359.png]]
+<!--SR:!2025-03-14,4,272-->
 
 | Tissue                              | Description |
 | ----------------------------------- | ----------- |

@@ -11,6 +11,7 @@ aliases:
 *Why are bos indicus cattle useful?*
 ~
 Can withstand heat and ticks in Northern Australia
+<!--SR:!2025-03-14,4,270-->
 
 
 # Characteristics

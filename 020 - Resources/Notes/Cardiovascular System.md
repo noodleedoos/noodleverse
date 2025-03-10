@@ -8,7 +8,13 @@ Summary:
 aliases:
 ---
 # Structures
+*List 7 structures found in the cardiovascular system*
 ~
+heart, aorta, caudal vena caval, portal vein, cartoid artery, jugular vein, cranial vena cava
+<!--SR:!2025-03-13,3,250-->
+
+![](https://i.imgur.com/0aeigBc.png)
+
 
 | Structure         | Location                                             |
 | ----------------- | ---------------------------------------------------- |
@@ -19,8 +25,6 @@ aliases:
 | Carotid artery    | ventral to cervical vertebrae cranial to head        |
 | Jugular vein      | ventrolateral side of neck                           |
 | Cranial vena cava | cranial to heart from craniodorsal aspect            |
-
-![[Screenshot 2025-03-03 at 4.01.03 pm.png]]
 
 # Related Concepts
 [[Erosion Cast]]

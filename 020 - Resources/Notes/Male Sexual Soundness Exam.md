@@ -10,7 +10,7 @@ Status:
 *When does it take place and what should the exam include?*
 ~
 - Always examine several weeks before joining
-- Exam: 
+- Exam:
 	- CS
 	- teeth
 	- Musculoskeletal soundness
@@ -18,3 +18,4 @@ Status:
 	- Palpation of testes for symmetry and firmness
 	- Penis and prepuce for swelling and wounds, ability to protrude
 	- Semen exam
+<!--SR:!2025-03-13,3,250-->

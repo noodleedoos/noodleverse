@@ -15,9 +15,12 @@ aliases:
 3. Connections with [[Locomotor system]]
 4. Holding tissues together
 5. Energy Storage
+<!--SR:!2025-03-13,3,250-->
+
 # Types of Connective Tissue Proper
 *What are the types of connective tissue proper?*
 ~
+<!--SR:!2025-03-13,3,250-->
 
 | Connective Tissue Type              | Summary                         |
 | ----------------------------------- | ------------------------------- |

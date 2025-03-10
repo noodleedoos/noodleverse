@@ -13,3 +13,4 @@ Spine - for muscle attachment
 Acromion - for muscle attachment
 ![[Pasted image 20250305204211.png]]
 ![[Pasted image 20250305204036.png]]
+<!--SR:!2025-03-13,3,250-->

@@ -20,10 +20,12 @@ aliases:
 7. Stain with [[haemotoxylin]] and [[Eosin Stain]]
 8. Coverslip
 ![[Pasted image 20241213133935.png]]
+<!--SR:!2025-03-11,1,232-->
 
 # Examination Considerations
 ~
 - 2D representation of 3D structure
+<!--SR:!2025-03-14,4,270-->
 
 ## Artefacts
 *What are some examples of artefacts in histological slides?*
@@ -35,11 +37,12 @@ aliases:
 - shrinkage of tissue
 ![[Pasted image 20241213134044.png]]
 # Terminology
-
+<!--SR:!2025-03-13,3,250-->
+## Staining Characteristics of H&E
 *What are the differences in staining characteristics of H&E?*
 ~
-## Staining Characteristics of H&E
-~
+[[Eosinophillic]] - pink cytoplasm
+[[Basophillic]] - nucleus blue (particularly DNA and RNA)
 
 | Staining Characteristic | Description | Mechanism                                                  |
 | ----------------------- | ----------- | ---------------------------------------------------------- |

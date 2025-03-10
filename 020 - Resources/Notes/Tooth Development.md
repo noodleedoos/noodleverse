@@ -9,17 +9,17 @@ aliases:
 # Overview
 *describe how teeth develop in general*
 ~
-in sum: 
-- ectoderm -> dental lamina -> tooth buds -> enamel organ -> deciduous teeth and permanent molars (permanent teeth from seeparate enale organs), 
-	- mesenchymal cells outside enamel organ -> dental sac -> 
+in sum:
+- ectoderm -> dental lamina -> tooth buds -> enamel organ -> deciduous teeth and permanent molars (permanent teeth from seeparate enale organs),
+	- mesenchymal cells outside enamel organ -> dental sac ->
 		- internal enamel epithelial cells->[[ameloblasts]]
 		- inner layer of dental sac->[[cementoblasts]]
 		- uppermost layer of cells in dental papilla -> [[odontoblasts]]
 	- dental papilla upper layer->odontoblasts
 **In More Detail:**
-1. **Ectoderm** in Stomodeum (oral cavity) **thickens to form dental lamina** 
+1. **Ectoderm** in Stomodeum (oral cavity) **thickens to form dental lamina**
 2. Bud stage: **dental lamina forms tooth buds**
-3. Cap stage: **dental buds expand to form enamel organ** which encloses **dental papilla** (mesenchymal condensation - see [[neural crest-derived mesenchyme]]). 
+3. Cap stage: **dental buds expand to form enamel organ** which encloses **dental papilla** (mesenchymal condensation - see [[neural crest-derived mesenchyme]]).
 	1. **Deciduous teeth and permanent molars** develop from these enamel organs
 	2. **Permanent teeth form from separate enamel organs** from buds on lingual aspect of dental lamina
 4. Bell stage - invagination of dental papillla, enamel organ becomes more concave, **mesenchymal cells outside enamel organ form dental sac**
@@ -35,3 +35,4 @@ in sum:
 7. Root grows, teeth pushed to oral cavity for crown eruption.
 8. Permanent tooth but migrates to socket of temporary tooth for enamel organ formation, which degrades the temporary tooth.
 ![[Screenshot 2025-03-04 at 10.45.26 am.png]]![[Screenshot 2025-03-04 at 10.51.40 am.png]]![[Screenshot 2025-03-04 at 11.42.14 am.png]]
+<!--SR:!2025-03-13,3,250-->

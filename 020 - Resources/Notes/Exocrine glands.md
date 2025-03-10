@@ -7,8 +7,10 @@ aliases:
 Status:
 ---
 # Overview
+*What do they do and how?*
 ~
 Release the secretory product (e.g. milk, mucus, sweat) via a system of ducts that open onto of the surfaces of the body which are in contact with the external world (skin, respiratory tract, etc).
+<!--SR:!2025-03-13,3,255-->
 
 # Morphology
 ~
@@ -18,11 +20,13 @@ Release the secretory product (e.g. milk, mucus, sweat) via a system of ducts th
 - [[Compound Glands]]
 ![[Screenshot 2025-03-08 at 8.40.52 pm.png]]
 ![[Screenshot 2025-03-08 at 8.41.37 pm.png]]
+<!--SR:!2025-03-14,4,272-->
 
 
 # Summary table of Types
 ~
 ![](https://i.imgur.com/hmnyOk6.png)
+<!--SR:!2025-03-14,4,270-->
 
 
 | Type                                       | Structure                                                            | Example Image                                                                                                     |

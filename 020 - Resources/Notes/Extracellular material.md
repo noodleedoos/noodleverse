@@ -10,6 +10,8 @@ aliases:
 # Types
 *What are the types of extracellular material?*
 ~
+[[Ground Substance]] and fibrous
+<!--SR:!2025-03-14,4,270-->
 
 | Type                                       | Subtype                                                                                                          | Example |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------- |

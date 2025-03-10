@@ -9,11 +9,13 @@ aliases:
 # Overview
 ## Structures and Location
 ~
+![](https://i.imgur.com/aLVGxrD.png)
+<!--SR:!2025-03-14,4,270-->
+
+![](https://i.imgur.com/Efqx4Gs.png)
 
 | Structure | Location                           |
 | --------- | ---------------------------------- |
 | Kidneys   | dorsocranial to abdomen            |
 | Bladder   | Ventral and caudal part of abdomen |
 |           |                                    |
-![[Screenshot 2025-03-03 at 4.12.10 pm.png]]
-![[Screenshot 2025-03-03 at 4.12.16 pm.png]]

@@ -23,8 +23,10 @@ aliases:
 1. [[Mouth]]
 2. [[Pharynx]]
 3. [[Alimentary Canal]]
+<!--SR:!2025-03-13,3,257-->
 
 ### Parts found within:
+*6 places*
 ~
 - Mouth
 - Pharynx
@@ -33,7 +35,11 @@ aliases:
 - Abdomen
 - Pelvis
 ![[Screenshot 2025-03-03 at 4.10.35 pm.png]]
+<!--SR:!2025-03-14,4,274-->
+
+
 ### Related Organs
+*6 organs*
 ~
 - Teeth
 - Tongue
@@ -41,7 +47,10 @@ aliases:
 - Stomach
 - Liver
 - Intestines
+<!--SR:!2025-03-13,3,257-->
+
 # Related Concepts
 ```dataview
 table Summary where contains(up, [[]])
 ```
+<!--SR:!2025-03-11,1,234-->

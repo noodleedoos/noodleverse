@@ -7,7 +7,9 @@ status:
 Summary: 
 aliases:
 ---
-![[Pasted image 20250309140827.png]]
+
+![](https://i.imgur.com/QQqf7H8.png)
+
 
 # Structure
 - The caudal boundary of the oral cavity is demarcated by the palatoglossal arches that extend from the soft palate to the body of the tongue
@@ -20,15 +22,22 @@ aliases:
 
 # Function
 ~
+Air - from [[Nasopharynx]] to [[larynx]] to [[Strategic Animal Health]]
+Food  - from [[[Oropharynx]] to [[Laryngopharynx]] to [[Oesophagus]]
+![](https://i.imgur.com/VvXYm1Q.png)
+<!--SR:!2025-03-14,4,272-->
 
 | Function | Passage                                                 |
 | -------- | ------------------------------------------------------- |
 | Air      | From naasopharynx to larynx to trachea                  |
 | Food     | From [[oropharynx]] to [[laryngopharynx]] to oesophagus |
-![[Pasted image 20250309141232.png]]
+
+
 # Pharyngeal Muscles
 *What are the functions of the 3 pharyngeal muscles?*
 ~
+Dilators, shorteners, constrictors
+<!--SR:!2025-03-14,4,270-->
 
 | "Name"      | Structure                                                                                                                                                                          | Function                                                                   |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
@@ -38,5 +47,6 @@ aliases:
 
 # Innervation of Pharynx
 ~
-[[Cranial Nerve VII - Facial]] and [[Cranial Nerve X - Vagus]]
+[[Cranial Nerve VII]] and [[Cranial Nerve X]]
 ![[Screenshot 2025-03-09 at 2.24.38 pm.png]]
+<!--SR:!2025-03-11,1,232-->

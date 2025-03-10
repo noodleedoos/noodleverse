@@ -15,3 +15,4 @@ Status:
 - Wool: [[Merino]]
 - Meat: [[Poll Dorset]], [[Dorper]] - shedding
 - Milk [[East friesan sheep]]
+<!--SR:!2025-03-14,4,270-->

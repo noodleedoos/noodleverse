@@ -14,3 +14,4 @@ aliases:
 - Spleen
 - Lymph nodes clustered at body openings
 ![[Screenshot 2025-03-03 at 4.04.48 pm.png]]
+<!--SR:!2025-03-11,1,230-->

@@ -19,7 +19,7 @@ tags:
 ![[Pasted image 20241209120614.png]]
 
 *Describe the function of the major organelles*
-~
+## Summary Table
 
 | Structure                 | Description                                         | Function                                                                                                                        |
 | ------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,10 +34,12 @@ tags:
 | [[Cytoskeleton]]          | Microtubles, microfilaments, intermediate filaments | Intracellular scaffolding<br><br>Support and organise cellular components                                                       |
 |                           |                                                     |                                                                                                                                 |
 |                           |                                                     |                                                                                                                                 |
-# Naming Cells
 
+# Naming Cells
 *How are cells named according to differentiation?*
 ~
+examples - [[Fibroblast]] and [[Fibrocyte]]
+<!--SR:!2025-03-13,3,254-->
 
 | Suffix | Description              | Example        |
 | ------ | ------------------------ | -------------- |

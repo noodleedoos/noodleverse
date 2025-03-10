@@ -15,8 +15,10 @@ Status:
 # Function
 ~
 - holding and tearing
+<!--SR:!2025-03-14,4,272-->
 
 # Location
 ~
 - Embedded in incisive bone
+<!--SR:!2025-03-14,4,270-->
 

@@ -13,3 +13,4 @@ aliases:
 *Provide an example of increasing wealth leading to changes in consumption of livestock products*
 ~
 ![[Pasted image 20241213155113.png]]
+<!--SR:!2025-03-14,4,270-->

@@ -11,7 +11,8 @@ Fertiliser Use
 ~
 - Increases phosphorus, nitrogen
 - Trace minerals cobalt and seleneium
-- Lime for acid soil areas 
+- Lime for acid soil areas
 (Related: [[Agricultural Land]])
+<!--SR:!2025-03-13,3,250-->
 
 see: [[hedging]]

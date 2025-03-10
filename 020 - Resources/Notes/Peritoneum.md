@@ -9,9 +9,12 @@ aliases:
 # Types of Peritoneum
 ~
 ![[Screenshot 2025-03-03 at 11.07.58 am.png]]
+<!--SR:!2025-03-14,4,272-->
+
 ## Parietal peritoneum
 ~
 on the outside
+<!--SR:!2025-03-13,3,252-->
 
 ## Visceral peritoneum
 *Where can we find visceral peritoneum?*
@@ -36,7 +39,9 @@ surrounds the viscera (organs)
 *What is the function of peritoneal fluid?*
 ~
 lubrication, immunity.
+<!--SR:!2025-03-13,3,252-->
 
 *How is peritoneal fluid* returned to the vascular system?
 ~
 Lymphatics
+<!--SR:!2025-03-14,4,270-->
