@@ -12,6 +12,10 @@ tags:
 status: 
 Summary:
 ---
+# Structure
+~
+[[Peripheral Nerves]]
+[[Ganglia]]
 ![[Screenshot 2025-03-03 at 4.04.04 pm.png]]
 # Sensory Division
 - Afferent - picks up sensory stimuli

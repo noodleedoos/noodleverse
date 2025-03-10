@@ -15,7 +15,7 @@ Status:
 # Total numbers on property equation
 ~
 Animals per hectare x total hectares grazed
-<!--SR:!2025-03-08,3,250-->
+<!--SR:!2025-03-11,2,230-->
 
 
 # Animal Health and Veterinary Costs

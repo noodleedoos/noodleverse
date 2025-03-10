@@ -14,4 +14,4 @@ squamous epithelia.
 ![[Screenshot 2025-03-08 at 8.17.48 pm.png]]
 # Example
 !
-[[Keratinised epithelium]]
+[[Keratinised Stratified Squamous Epithelium]]

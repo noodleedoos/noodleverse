@@ -12,7 +12,7 @@ aliases:
 - [[B Lymphocyte]]
 
 
-# Characteristics
+# Histology
 ~
 - Radially arranged chromatin in round nucleus to the side
 - Abundant basophilic cytoplasm

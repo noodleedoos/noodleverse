@@ -17,7 +17,7 @@ Close to blood vessels, low numbers in most connective tissues
 # Function
 ~
 - degranulate when tissue damaged to release granules
-- Attack bacteria/parasites
+- Attack bacteria/parasites - phagocytosis
 - trigger allergic reactions
 
 | Chemical                             | Purpose                            |

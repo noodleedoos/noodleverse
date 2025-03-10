@@ -15,7 +15,7 @@ aliases:
 2. Mechanical/chemical digestion
 3. Absorbing food
 4. Storing and disposing waste
-<!--SR:!2025-03-09,4,270-->
+<!--SR:!2025-03-25,16,290-->
 
 ## Structure
 ### 3 Regions

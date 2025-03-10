@@ -8,6 +8,11 @@ aliases:
   - VETS30030
 archive:
 ---
+## Unit
+```dataview
+table Status FROM #unit and [[]]
+```
+
 ## Lectures
 ```dataview
 table Status FROM #lecture and [[]]

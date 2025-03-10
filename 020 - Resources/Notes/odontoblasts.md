@@ -10,7 +10,7 @@ aliases:
 # Location
 ~
 processes extend outer margin of pulp cavity into dentine
-<!--SR:!2025-03-08,3,250-->
+<!--SR:!2025-03-17,8,250-->
 
 # Related Concepts
 [[Horse Teeth]]

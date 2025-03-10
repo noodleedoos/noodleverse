@@ -16,6 +16,8 @@ Base is in contact with fibres of nerves that convey sense of taste to brain fro
 - Rostral 2/3rds of tongue from [[Cranial Nerve VII - Facial]]
 - Caudal 1/3rd of tongue from [[Cranial Nerve IX - Glossopharyngeal]]
 
-# LOcation
+# Location
+*Where can taste buds be found, and on what?*
 ~
-Soft palate, epiglotis, pharynx, epithelium of gustatory papillae
+Soft palate, epiglottis, pharynx, epithelium of gustatory papillae
+<!--SR:!2025-03-13,4,270-->

@@ -6,13 +6,13 @@ status:
 Summary:
 aliases:
 ---
-# Costs Associated with Establishing New pastures
+# 4 Costs Associated with Establishing New pastures
 ~
 - seed
 - fertiliser
 - cost of sowing
 - lost grazing opportunity
-<!--SR:!2025-03-09,4,270-->
+<!--SR:!2025-03-19,10,270-->
 
 # Factors causing Variations
 ~
@@ -28,7 +28,7 @@ aliases:
 ~
 - Animals get variety
 - Clover fixes N into soil that rye can use for growth
-<!--SR:!2025-03-09,4,272-->
+<!--SR:!2025-03-24,15,292-->
 
 # Related Concepts
 [[Pasture Toxicity]]

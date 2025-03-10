@@ -8,7 +8,7 @@ aliases:
 ---
 # Characteristics
 ~
-Large cell
+Large [[Leukocytes]] cell
 Migrated to the tissue
 ![[Screenshot 2025-03-08 at 7.56.25 pm.png]]
 # Function

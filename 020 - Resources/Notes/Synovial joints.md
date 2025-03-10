@@ -7,6 +7,7 @@ aliases:
 Status:
 ---
 # Overview
+*What are they?*
 ~
 fluid filled joints
-<!--SR:!2025-03-09,4,270--> 
+<!--SR:!2025-03-23,14,290--> 

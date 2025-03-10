@@ -9,7 +9,7 @@ Status:
 # Characteristics
 ~
 -  cell shape varies with distension of the organ
-- Relaxed - it seems to be formed by many cell layers. 
+- Relaxed - it seems to be formed by many cell layers.
 	- basal = cuboidal or columnar shape.
 	- Layers of polyhedral cells
 	- Superficial = which have a convex, dome-shaped luminal surface. In the
@@ -18,6 +18,7 @@ Status:
 	- superficial layer of large, low cuboidal or squamous cells
 	- resembles stratified squamous epithelium.
 ![[Screenshot 2025-03-08 at 8.20.12 pm.png]]
+<!--SR:!2025-03-12,3,250-->
 
 # Location
 ~

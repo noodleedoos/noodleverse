@@ -18,4 +18,4 @@ Status:
 - proliferate quickly
 - produce protein, [[Extracellular material]]
 	- have lots of RNA in cytoplasm
-- synthesises/secretes [[collagen]] and other extracellular matrix components
+- synthesises/secretes [[collagen]] and other extracellular matrix components like [[proteoglycans]]**

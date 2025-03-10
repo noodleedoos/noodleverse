@@ -12,4 +12,6 @@ tags:
 status: 
 Summary:
 ---
+# Structure
+~
 Spinal cord and brain

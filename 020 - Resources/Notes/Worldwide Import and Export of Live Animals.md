@@ -24,7 +24,7 @@ aliases:
 *Quantitative comparison of live animals to fresh/frozen meat*
 ~
 - much less
-<!--SR:!2025-03-09,4,270-->
+<!--SR:!2025-03-24,15,290-->
 
 # Requirements
 *How is animal health and welfare defined in livestock systems in Australian and around the world*

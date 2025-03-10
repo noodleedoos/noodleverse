@@ -14,8 +14,10 @@ aliases:
 on the outside
 
 ## Visceral peritoneum
+*Where can we find visceral peritoneum?*
 ~
 surrounds the viscera (organs)
+<!--SR:!2025-03-12,3,250-->
 
 ### Connecting peritoneum
 *What are 3 types of connecting peritoneum?*

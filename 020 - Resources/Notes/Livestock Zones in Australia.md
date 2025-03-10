@@ -28,8 +28,8 @@ Northern NSW and North East (Queensland)
 ![[Screenshot 2025-03-04 at 2.00.25 pm.png]]
 
 # Dairy Zones
+*What 4 places in Australia are common for dairy cattle to be found?*
 ~
-
 - SE Australia
 - SW Australia
 - Victoria

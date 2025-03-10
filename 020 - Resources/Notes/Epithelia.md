@@ -3,14 +3,35 @@ up:
 tags:
   - concept
 Summary: 
-aliases: 
+aliases:
+  - Epithelium
 Status:
 ---
+# Stucture
+~
+Cell dense layer that covers internal and external surface, attached to basement membrane
+Can regenerate, avascular, polarized
 # Forms of Epithelium
+*What are the 2 forms of epithelium?*
 ~
 • [[Surface epithelium]] – sheets of cells that cover external surfaces and line internal surfaces of the body
 • [[Glandular epithelium]] – secretory cells of glands
 
+# Functions
+~
+1. Protection
+2. Secretion
+3. Absorption
+4. Digestion
+5. Filtration
+
+
+
+# Surface Specialisations
+~
+- [[Microvilli and stereocilia]]
+- [[Cilia]]
+- [[Glands]]
 # Classification based on 
 ~
 ## Cell layers
@@ -26,12 +47,17 @@ height and the nuclei lie at different levels
 
 # Types
 ~
-[[Simple squamous epithelium]]
-[[Simple cuboidal epithelium]]
-[[Simple columnar epithelium]]
-[[Stratified Squamous Epithelium]]
-[[Transitional epithelium]]
-[[Pseudostratified columnar epithelium]]
+
+| Epithelium                                     | Function                         | Example                  |
+| ---------------------------------------------- | -------------------------------- | ------------------------ |
+| [[Simple squamous epithelium]]                 | secretion/transprt               | [[Lungs]] Epithelium     |
+| [[Stratified Squamous Epithelium]]             | Physical protection and strength | Epithelium of [[Vagina]] |
+| [[Keratinised Stratified Squamous Epithelium]] | Protection, prevent water loss   | [[Epidermis]]            |
+| [[Simple cuboidal epithelium]]                 | Secrete/transport                | Bronchiole in lung       |
+| [[Stratified Cuboidal epithelium]]             | Protection, extra strength       | Ovary                    |
+| [[Simple columnar epithelium]]                 |                                  |                          |
+| [[Pseudostratified columnar epithelium]]       |                                  | Nasal cavity             |
+| [[Simple columnar epithelium]]                 |                                  | Small Intestine          |
 
 
 # Surface characteristics

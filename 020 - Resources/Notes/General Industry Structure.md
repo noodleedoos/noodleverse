@@ -37,7 +37,7 @@ Over the last 50 years, Australian farms using the same amount of land are 3x mo
 Benefits producers
 see also: [[Research and Development Corporations|RDCs]]
 ![[Screenshot 2025-03-04 at 2.29.52 pm.png]]
-<!--SR:!2025-03-06,1,230-->
+<!--SR:!2025-03-10,1,210-->
 
 *Describe the trend in farm size and amount over time*
 ~

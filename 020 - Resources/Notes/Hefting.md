@@ -9,4 +9,4 @@ Status:
 # Definition
 ~
 stock go to same area every year
-<!--SR:!2025-03-08,3,250-->
+<!--SR:!2025-03-19,10,270-->

@@ -24,6 +24,7 @@ Water and power supplies
 ## Merino Sheep
 ~
 - Shearing shed, sheep yards, silo, hay shed
+<!--SR:!2025-03-12,3,250-->
 
 # Feeding Infrastructure
 ~
@@ -36,6 +37,7 @@ Water and power supplies
 - Silo
 
 # Machinery
+* Provide 8 machines that you might find on an extensive production system.*
 ~
 - Tractor and utility vehicle
 - Northern Australia - small helicopter
@@ -45,4 +47,4 @@ Water and power supplies
 - Grain enterprises may have harvester
 - spray equipment
 - Contractors used for specialised equipment like livestock transport or sowing pasture
-<!--SR:!2025-03-08,3,250-->
+<!--SR:!2025-03-17,8,250-->

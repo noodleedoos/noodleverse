@@ -10,6 +10,7 @@ Status:
 ~
 [[Temperate deer]], [[goats]] and [[Long wool british breed sheep]]
 Young born at favourable time of year for higher survival rate
+<!--SR:!2025-03-12,3,250-->
 
 ## Considerations
 ~

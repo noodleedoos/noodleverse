@@ -14,12 +14,16 @@ tags:
 status: 
 Summary:
 ---
+# Overview
+*Describe the lifespan of neurons, how replaceable they are and why, and their metabolic rate*
+~
 - Longest lived cells in the body
 - Irreplaceable
 - Amitotic - lose ability to divide
 - High metabolic rate
 
 # Structure
+~
 - Cell body/soma - nucleus, cytoplasm
 - Dendrites - branch out from cell body
 - Axon - long extension from soma. Transmit electrical impulses away from soma
@@ -38,3 +42,6 @@ Summary:
 
 
 Surrounded by [[Glial cells]]
+
+# Related concepts
+[[Nerves]]
