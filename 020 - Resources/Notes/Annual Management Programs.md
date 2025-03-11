@@ -16,7 +16,7 @@ Status:
 <!--SR:!2025-03-12,2,248-->
 
 # Beef Cattle Example
-*Compare and contrast why differing farm management systems sell livestock at varying ages and weights.*
+*Compare and contrast why differing farm management systems sell livestock at varying ages and weights. What is a traditional calving ssystem vs new? What are the outcomes?*
 ~
 In western Australia,
 Tradition: calve early autumn, sell vealer end of spring.
@@ -27,5 +27,5 @@ Swap calving to late winter = better feed supply:nutritional demand
 - wean calves as grass reduces and grow on supplementary feed
 (cheaper to supplementary feed calves than cows)
 ![[Pasted image 20250306132832.png]]
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-13,2,230-->
 

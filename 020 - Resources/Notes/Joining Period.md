@@ -20,7 +20,7 @@ e.g joining period of 2 cycles for beef cattle will be
 e.g. joining period of 3 cycles for sheep will be
 ~
 7-8 weeks as each cycle is 17 days
-<!--SR:!2025-03-11,1,232-->
+<!--SR:!2025-03-14,3,252-->
 
 # Heat detection
 *Describe the use of heat detection in natural mating vs supervised/AI mating for cattle, small ruminants, alpaca and deet*

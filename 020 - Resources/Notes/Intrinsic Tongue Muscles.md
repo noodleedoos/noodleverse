@@ -9,9 +9,9 @@ Status:
 # Innervation
 ~
 [[Cranial Nerve XII]]
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-14,3,250-->
 
 # Function
 ~
 Protrude tongue
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-14,3,250-->

@@ -26,8 +26,9 @@ rapid traceback if exotic disease identified
 <!--SR:!2025-03-13,3,268-->
 
 # Regulatory Systems for Product Safety Compliance
+*What are two regulatory systems for product safety compliance?*
 ~
 - [[Withholding Period]]
 - [[Export Slaughter Interval]]
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-13,2,230-->
 

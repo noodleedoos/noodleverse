@@ -21,4 +21,4 @@ aliases:
 *How can you measure the health of a tooth regarding gingiva?*
 ~
 depth of sulcus
-<!--SR:!2025-03-11,1,228-->
+<!--SR:!2025-03-14,3,248-->

@@ -25,6 +25,14 @@ Close to blood vessels, low numbers in most connective tissues
 - trigger allergic reactions
 <!--SR:!2025-03-13,3,252-->
 
+# Chemicals it produces
+- [[Histamine]]
+- [[Heparin]]
+- [[serotonin]]
+- [[Proteases]]
+
+## Summary
+
 | Chemical                             | Purpose                            |
 | ------------------------------------ | ---------------------------------- |
 | [[Heparin]]                          | anticoagulant                      |

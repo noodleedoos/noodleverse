@@ -16,7 +16,7 @@ aliases:
 *How many households around the world are involved in milk production?*
 ~
 150 million households
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-14,3,250-->
 
 *Describe world milk production percentages*
 ~

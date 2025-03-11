@@ -26,7 +26,7 @@ Status:
 	- rostral portion of hard palate
 - heavy keratinised mucosa overlying a thick layer of dense connective tissue
 - Palatine glands (minor salivary) are present in all domestic species except pigs
-<!--SR:!2025-03-11,1,228-->
+<!--SR:!2025-03-12,1,208-->
 
 ## Bone associated:
 ~
@@ -40,4 +40,4 @@ What are the layers of the soft palate? Do they have any salivary glands?
 - minor salivary glands (palatine)
 - 3 paired muscles which shorten, tense and raise the palate
 ![[Pasted image 20250309132205.png]]
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-12,1,210-->

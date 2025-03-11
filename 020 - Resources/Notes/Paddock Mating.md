@@ -6,7 +6,7 @@ Summary:
 aliases: 
 Status:
 ---
-# Common in Which animals
+# Common in 4 animals
 ~
 Beef cattle, sheep, deer, goats
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-13,2,230-->

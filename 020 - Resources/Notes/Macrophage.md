@@ -29,7 +29,7 @@ Migrated to the tissue
 *What are macrophages derived from?*
 ~
 - Derived from blood monocytes
-<!--SR:!2025-03-11,1,232-->
+<!--SR:!2025-03-14,3,252-->
 
 
 

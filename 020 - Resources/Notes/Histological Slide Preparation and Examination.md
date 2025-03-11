@@ -20,7 +20,7 @@ aliases:
 7. Stain with [[haemotoxylin]] and [[Eosin Stain]]
 8. Coverslip
 ![[Pasted image 20241213133935.png]]
-<!--SR:!2025-03-11,1,232-->
+<!--SR:!2025-03-13,2,232-->
 
 # Examination Considerations
 ~

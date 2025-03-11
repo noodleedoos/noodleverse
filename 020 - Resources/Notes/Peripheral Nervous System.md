@@ -23,7 +23,7 @@ Summary:
 # Sensory Division
 ~
 - Afferent - picks up sensory stimuli
-<!--SR:!2025-03-11,1,232-->
+<!--SR:!2025-03-14,3,252-->
 
 ## Special Senses
 ~

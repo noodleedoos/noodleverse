@@ -11,7 +11,7 @@ aliases:
 - Temperature data
 - Rainfall/evaporation data
 - Soil temperature
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-14,3,250-->
 
 # Melbourne
 ~

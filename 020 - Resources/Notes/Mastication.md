@@ -13,8 +13,10 @@ Work around the [[Temporomandibular joint]]
 Jaw closing - [[Temporalis Muscle]], [[Masseter Muscle]], [[Pterygoid muscle]] by [[Cranial Nerve V]]
 Jaw opening - [[Digastric Muscle]] [[Cranial Nerve VII|Facial Nerve]]caudally, [[Cranial Nerve V]] rostrally
 Move food into oral cavity from vestibules - [[Buccinator Muscle]] [[Cranial Nerve VII|Facial Nerve]]
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-12,1,228-->
+
 ![](https://i.imgur.com/afnDRqo.png)
+<!--SR:!2025-03-12,1,210-->
 
 
 

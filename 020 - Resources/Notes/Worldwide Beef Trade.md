@@ -16,4 +16,4 @@ aliases:
 ~
 - Exporters ABAU Australia, Brazil, Argentina, USA
 - Importers China, USA (lower value lean beef)
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-14,3,250-->

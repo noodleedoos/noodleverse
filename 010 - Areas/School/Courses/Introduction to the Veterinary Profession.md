@@ -8,13 +8,18 @@ aliases:
   - VETS30030
 archive:
 ---
-## Unit
+# Unit
 ```dataview
 table Status FROM #unit and [[]]
 ```
 
-## Lectures
+# Lectures
 ```dataview
 table Status FROM #lecture and [[]]
+```
+
+# Workshops
+``` dataview
+table from #workshop and [[]] sort file.name asc
 ```
 ## Notes 

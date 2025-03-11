@@ -18,6 +18,6 @@ Status:
 - The large body cavities
 - Heart
 - blood vessels and lymph vessels are typically lined by a simple squamous epithelium
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-13,2,230-->
 
 ![[Screenshot 2025-03-08 at 8.11.05 pm.png]]

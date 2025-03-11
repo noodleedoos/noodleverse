@@ -12,7 +12,7 @@ LIST
 FROM #area and !"100 - Meta"
 WHERE archive!=true
 ```
-lalala
+
 ```button
 name panic button
 type command

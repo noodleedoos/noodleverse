@@ -15,10 +15,10 @@ Status:
 <!--SR:!2025-03-12,2,248-->
 
 # Dog Teeth aging
-*What happens to dog teeth as they age?*
+*What happens to specific dog teeth as they age?*
 ~
 - Triscupid points on incisors, canine points worn away
-<!--SR:!2025-03-11,1,228-->
+<!--SR:!2025-03-13,2,228-->
 
 # Horses
 *9 Criteria used to age horses in order of accuracy*
@@ -65,7 +65,7 @@ Caudal angle becomes smaller
 - Milk tooth (no permanent), 2 tooth, 4 tooth, 6 tooth, 8 tooth/full mouth
 - 5 years: incisors in wear, occlusal table levelling 6-9 years from centrals to corners
 ![[Pasted image 20250306220527.png]]
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-12,1,210-->
 
 
 # Sheep

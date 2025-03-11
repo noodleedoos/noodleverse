@@ -12,13 +12,21 @@ aliases:
 
 
 # Structure
+~
 - The caudal boundary of the oral cavity is demarcated by the palatoglossal arches that extend from the soft palate to the body of the tongue
+- Funnel shaped muscular tube
 - Common to the respiratory and digestive system
 - Has three parts:
 	- [[Oropharynx]]
 	- [[Nasopharynx]]
 	- [[Laryngopharynx]]
 - The [[Epiglottis]]
+- [[Lymphoid tissue]], also in [[Tonsils]]
+![](https://i.imgur.com/UJ1jTrO.png)
+
+## Layers
+~
+Mucosa with mucous glands, collagen and elastic fibres
 
 # Function
 ~
@@ -48,5 +56,6 @@ Dilators, shorteners, constrictors
 # Innervation of Pharynx
 ~
 [[Cranial Nerve VII]] and [[Cranial Nerve X]]
+Motor and sensory: also [[Cranial Nerve IX]]
 ![[Screenshot 2025-03-09 at 2.24.38 pm.png]]
-<!--SR:!2025-03-11,1,232-->
+<!--SR:!2025-03-13,2,232-->

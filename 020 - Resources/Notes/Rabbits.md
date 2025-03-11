@@ -15,4 +15,4 @@ Status:
 - Pulp cavity does not extend far - can be clipped
 - incisors grow up to 10mm monthly, cheek 4mm
 ![[Pasted image 20250306202904.png]]
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-14,3,250-->

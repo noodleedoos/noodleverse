@@ -15,7 +15,7 @@ Diseases not present in Australia
 ~
 [[Foot and Mouth Disease]]
 [[Bovine Spongiform Encephalopathy]]
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-14,3,250-->
 
 # How to limit disease regarding extensive production*
 ~

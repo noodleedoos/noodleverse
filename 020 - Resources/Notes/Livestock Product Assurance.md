@@ -13,7 +13,7 @@ Status:
 - Used by red meat industry for consumer protection
 - Fill out [[National Vendor Declaration Form]]
 - LPA learning program to learn
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-14,3,250-->
 
 # 7 Requirements to fulfil LPA
 ~

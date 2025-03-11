@@ -29,4 +29,4 @@ C7, T13, L7, S3, C however long tail is
 sesamoid bones at back of stifle joint
 	many canines do not have digit 1
 ![[Screenshot 2025-03-03 at 2.38.18 pm.png]]
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-12,1,210-->

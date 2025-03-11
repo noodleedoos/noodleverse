@@ -38,8 +38,8 @@ Release the secretory product (e.g. milk, mucus, sweat) via a system of ducts th
 | [[Simple branched alveolar gland]]         | Large lumen                                                          | ![](https://i.imgur.com/WFzEy0T.png)<br>                                                                          |
 | [[Compound tubular exocrine gland]]        | straight secretory units attached to branched duct                   | [[Brunner glands]] of small intestine<br>![](https://i.imgur.com/3NwCxex.png)                                     |
 |                                            |                                                                      |                                                                                                                   |
-| [[Compound alveolar exocrine gland]]       | Saclike secretory units connected to branched duct                   | [[Mammary glands]], [[Parotid salivary glands]], [[Pancreatic acini]]<br>![](https://i.imgur.com/au84iV8.png)<br> |
-| [[Compound tubuloalveolar exocrine gland]] | straight and saclike secretory units connected to branched duct      | [[Submandibular salivary glands]], [[Sublingual salivary glands]]<br>![](https://i.imgur.com/gCIr17E.png)<br>     |
+| [[Compound alveolar exocrine gland]]       | Saclike secretory units connected to branched duct                   | [[Mammary glands]], [[Parotid Salivary Glands]], [[Pancreatic acini]]<br>![](https://i.imgur.com/au84iV8.png)<br> |
+| [[Compound tubuloalveolar exocrine gland]] | straight and saclike secretory units connected to branched duct      | [[Submandibular salivary glands]], [[Sublingual Salivary Glands]]<br>![](https://i.imgur.com/gCIr17E.png)<br>     |
 
 
 

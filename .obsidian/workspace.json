@@ -4,20 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "41b6b3ce08011248",
+        "id": "c7e66e273ddd6ec3",
         "type": "tabs",
         "children": [
           {
-            "id": "6b46bfbfa26a1622",
+            "id": "2204b830266419cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "020 - Resources/Notes/Simple Stomach.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Simple Stomach"
+            }
+          },
+          {
+            "id": "97520ab67e46e9f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020 - Resources/Notes/Avian Stomach.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Avian Stomach"
+            }
+          },
+          {
+            "id": "59350327df32d050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020 - Resources/Notes/Margo Plicatus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Margo Plicatus"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2ad0a5f6e9f09c33",
@@ -282,36 +346,37 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "6b46bfbfa26a1622",
+  "active": "97520ab67e46e9f8",
   "lastOpenFiles": [
-    "020 - Resources/Notes/Lips.md",
-    "010 - Areas/School/Assignments/CHCCSL003 Workbook.md",
-    "010 - Areas/School/Lectures/1.2 - The Language of Anatomy.md",
-    "020 - Resources/Notes/Histological Slide Preparation and Examination.md",
-    "020 - Resources/Notes/Tongue.md",
-    "020 - Resources/Notes/Cranial Nerve IX.md",
-    "020 - Resources/Notes/Cranial Nerves.md",
-    "020 - Resources/Notes/Cranial Nerve XII.md",
-    "020 - Resources/Notes/Cranial Nerve X.md",
-    "020 - Resources/Notes/Pharynx.md",
+    "020 - Resources/Notes/Gizzard.md",
+    "020 - Resources/Notes/Avian Stomach.md",
+    "020 - Resources/Notes/Proventriculus.md",
+    "020 - Resources/Notes/Simple Stomach.md",
+    "020 - Resources/Notes/Compound Stomach.md",
+    "020 - Resources/Notes/Compound Non-Glandular Forestomach.md",
+    "020 - Resources/Notes/Pig Stomach.md",
+    "020 - Resources/Notes/Horse Stomach.md",
+    "020 - Resources/Notes/Saccus Caecus.md",
+    "020 - Resources/Notes/Margo Plicatus.md",
+    "020 - Resources/Notes/Dog Stomach.md",
+    "020 - Resources/Notes/Glandular region of simple stomach.md",
+    "020 - Resources/Notes/Pyloric Region of Simple Stomach.md",
+    "020 - Resources/Notes/Fundic Region of Simple Stomach.md",
+    "020 - Resources/Notes/ECL Cells.md",
+    "020 - Resources/Notes/Mast Cell.md",
+    "020 - Resources/Notes/D Cells.md",
+    "020 - Resources/Notes/G cells.md",
+    "020 - Resources/Notes/Cardiac Region of Simple Stomach.md",
+    "020 - Resources/Notes/Gastric Ulceration in the Horse.md",
+    "020 - Resources/Notes/Simple Stomach Mucosa.md",
+    "020 - Resources/Notes/Greater omentum.md",
+    "020 - Resources/Notes/Omental Bursa.md",
+    "020 - Resources/Attachments/Pasted image 20250311160044.png",
+    "010 - Areas/School/Lectures/3.7 - Simple Stomach and Abomasum.md",
+    "010 - Areas/School/Lectures/3.6 - The Compound stomach.md",
+    "020 - Resources/Notes/Abomasum.md",
     "020 - Resources/Attachments/Pasted image 20250309141232.png",
-    "020 - Resources/Notes/Mastication.md",
-    "020 - Resources/Notes/Buccinator Muscle.md",
-    "020 - Resources/Notes/Extrinsic Tongue Muscles.md",
-    "020 - Resources/Notes/Intrinsic Tongue Muscles.md",
-    "020 - Resources/Notes/Mylohyoideus Muscle.md",
-    "020 - Resources/Notes/Geniohyoidieus Muscle.md",
-    "020 - Resources/Notes/Smooth Muscle Tissue.md",
-    "020 - Resources/Notes/Oestrus Cycle Length and Patterns.md",
-    "020 - Resources/Notes/Teeth.md",
-    "020 - Resources/Notes/Glandular epithelia.md",
-    "020 - Resources/Notes/Oral Mucosa.md",
-    "020 - Resources/Notes/Dental Formula.md",
     "020 - Resources/Attachments/Screenshot 2025-03-03 at 5.01.37 pm.png",
-    "020 - Resources/Notes/Bone.md",
-    "020 - Resources/Notes/Lateral and Basal surface modifications.md",
-    "020 - Resources/Notes/Adhering type junctional complex.md",
-    "020 - Resources/Notes/Occluding type junctional complex.md",
     "020 - Resources/Attachments/Screenshot 2025-03-03 at 4.01.03 pm.png",
     "020 - Resources/Attachments/Screenshot 2025-03-08 at 4.00.50 pm.png",
     "020 - Resources/Attachments/Screenshot 2025-03-03 at 4.12.10 pm.png",
@@ -319,7 +384,6 @@
     "020 - Resources/Attachments/Screenshot 2025-03-10 at 9.53.47 am.png",
     "020 - Resources/Attachments/Screenshot 2025-03-10 at 9.55.37 am.png",
     "020 - Resources/Attachments/Screenshot 2025-03-10 at 9.57.28 am.png",
-    "020 - Resources/Attachments/Pasted image 20250310095410.png",
     "Sheep",
     "inputs",
     "010 - Areas/School/Case Studies",

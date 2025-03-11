@@ -23,14 +23,14 @@ Status:
 ![[Screenshot 2025-03-06 at 8.10.15 pm.png]]
 
 ## Canines
-*Describe the difference in canines in males vs females*
+*Describe the difference in canines in males vs females. What kind of teeth are they and what is their function and structure?*
 ~
 Stallions and Geldings mostly have 4 that erupt from 4-6 years old
 Mares - canines absent/rudimentary
 Found in diastema
-Brachydont because they don;t grow continually, but they have a long reserve crown
+Brachydont because they don't grow continually, but they have a long reserve crown
 Unknown function, maybe fighting
-<!--SR:!2025-03-11,1,230-->
+<!--SR:!2025-03-13,2,230-->
 
 ## Premolars/Molars
 *Describe the cheek teeth in horses, when does the special tooth erupt? What are these teeth called together? What covers the crown? What might happen to the teeth and why?*
@@ -41,4 +41,4 @@ Enamel not continuous, some dentine exposed, cementum around enamel crown
 Maxillary teeth wider apart and wider than mandibular, result in sharp points on buccal aspect of maxillary and lingual aspect of mandibular called hooks that require floating (filing)
 ![[Screenshot 2025-03-06 at 8.18.00 pm.png]]
 ![[Pasted image 20250306201641.png]]
-<!--SR:!2025-03-11,1,232-->
+<!--SR:!2025-03-14,3,252-->

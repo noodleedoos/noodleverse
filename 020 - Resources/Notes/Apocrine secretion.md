@@ -16,4 +16,4 @@ Status:
 *Where does apocrine secretions occur?*
 ~
 - apocrine sweat glands, the mammary glands and the prostate.
-<!--SR:!2025-03-11,1,232-->
+<!--SR:!2025-03-14,3,252-->
