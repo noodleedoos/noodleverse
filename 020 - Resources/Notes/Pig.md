@@ -13,4 +13,8 @@ Status:
 - Lower incisors project forward for digging (brachydont)
 - Canines = tusks - hypsodont teeth for fighting (hypselodont in males)
 - Cheek teeth have rounded cusps for grinding (brachydont)
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-15,2,230-->
+
+
+# Related concepts
+[[Pig Stomach]]

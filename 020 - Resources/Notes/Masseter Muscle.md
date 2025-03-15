@@ -11,8 +11,9 @@ Status:
 ~
 - Originate from maxillary region and zygomatic arch
 - Insert from wide area of caudal mandible
+- ![](https://i.imgur.com/spTaarK.png)
 ![[Pasted image 20250309140202.png]]
-<!--SR:!2025-03-12,1,228-->
+<!--SR:!2025-03-15,3,248-->
 
 
 # Function
@@ -22,4 +23,4 @@ Status:
 - Move lower jaw laterally when contracted on one side (origin lateral to insertion
 	- Greater sideways movement in herbivores than in carnivores
 - Protrude lower jaw
-<!--SR:!2025-03-13,2,230-->
+<!--SR:!2025-03-18,5,230-->

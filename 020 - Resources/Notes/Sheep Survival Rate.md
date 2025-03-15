@@ -13,5 +13,5 @@ survival to weaning = 72.4% (loss 32% for twins, 45% for multiple)
 6% dead within 24 hours, 14% by day 7, +3% by 7-30, +8% between 30-110 days
 [[Pregnancy Testing]]
 [[Soundness exam]]
-<!--SR:!2025-03-13,2,230-->
+<!--SR:!2025-03-20,7,250-->
 

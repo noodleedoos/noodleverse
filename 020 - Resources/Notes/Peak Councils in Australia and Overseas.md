@@ -10,7 +10,7 @@ Status:
 *What are they? What is their aim?*
 ~
 Producer representatives that coordinate with the government to solve shared concerns
-<!--SR:!2025-03-13,3,268-->
+<!--SR:!2025-03-22,9,268-->
 
 # Examples of Australian Peak Councils
 ~
@@ -20,10 +20,10 @@ Producer representatives that coordinate with the government to solve shared con
 - [[Wool Producers]]
 - [[Goat industry Council]]
 - [[Alpacas and Llamas]]
-<!--SR:!2025-03-12,2,248-->
+<!--SR:!2025-03-17,5,248-->
 
 # Examples of Overseas Councils
 ~
 National Cattlemans Associations in USA
 Beef USA
-<!--SR:!2025-03-13,2,230-->
+<!--SR:!2025-03-18,5,230-->

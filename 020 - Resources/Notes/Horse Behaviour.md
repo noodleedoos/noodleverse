@@ -19,33 +19,33 @@ Mutual grooming
 ~
 Walk slowly most of the day
 Sleep standing up
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-25,12,270-->
 
 # Communication
 *How do they communicate? What does a submissive position look like?*
 ~
 Body language, ear/tail position, facial expression, vocalisation
 Submission - lower head, look away
-<!--SR:!2025-03-12,2,248-->
+<!--SR:!2025-03-19,7,268-->
 
 # Aggression
 ~
 Threat: head toss/extension, ears back, stare, lifting leg, bite
 In unstable groups: strikes, charging, kicking
 Built for flight not fight
-<!--SR:!2025-03-12,2,248-->
+<!--SR:!2025-03-17,5,248-->
 
 # Management of horses
 *How should you house horses? Do they like to be alone or together?*
 ~
 At least 1 companion
-<!--SR:!2025-03-12,2,248-->
+<!--SR:!2025-03-19,7,268-->
 
 ## Common Ailments of Poor Management
 ~
 Stomach ulcers - not allowed to graze
-Stereotypic behaviour 
-<!--SR:!2025-03-12,2,248-->
+Stereotypic behaviour
+<!--SR:!2025-03-17,5,248-->
 
 ## Stereotypic behaviour
 ~
@@ -55,12 +55,13 @@ Related to eating and moving - unfulfiled motivation for grazing and locomotion
 - Fence/box walking
 - pacing
 - wood chewing
+<!--SR:!2025-03-16,3,260-->
 
 ## Innate horse behaviour contributing to fence injuries
 ~
 - Flight behaviour, prey, used to open spaces
 - Leg gets caught, fight to free themselves
-<!--SR:!2025-03-13,2,249-->
+<!--SR:!2025-03-20,7,269-->
 
 ## Problems with stable confinement and minimisation strategies
 ~
@@ -68,6 +69,7 @@ Related to eating and moving - unfulfiled motivation for grazing and locomotion
 - Herd behaviour - companion
 - Injuries from slamming into walls
 - Boredom - enrichment
+<!--SR:!2025-03-17,4,280-->
 
 # Catching a horse
 <!--SR:!2025-03-14,3,269-->
@@ -86,14 +88,14 @@ Related to eating and moving - unfulfiled motivation for grazing and locomotion
 ## Problems when tying horse to fence
 ~
 - Not adequate restraint, causes panic and injury if tries to escape
-<!--SR:!2025-03-13,2,249-->
+<!--SR:!2025-03-20,7,269-->
 
 ## How to halter a horse successfully
 ~
 1. Approach calmly to not trigger flight response
 2. Make sure horse knows you are present so it doesn't get spooked
 3. Consider blind spots - put lead rope on then halter from side
-<!--SR:!2025-03-13,2,249-->
+<!--SR:!2025-03-20,7,269-->
 
 ## Considerations when examining a horse
 *Where should you examine a nervous horse and what resources might you need?*
@@ -102,6 +104,7 @@ Related to eating and moving - unfulfiled motivation for grazing and locomotion
 - In sight of paddock - separation anxiety
 - Use cross-ties, sedation, treats, companion animal for support
 - Make sure owner is present
+<!--SR:!2025-03-16,3,260-->
 
 # Horse Body Language
 <!--SR:!2025-03-14,3,269-->
@@ -115,7 +118,7 @@ Related to eating and moving - unfulfiled motivation for grazing and locomotion
 - Nostrils flared and scrunched
 - Ears back - listening behind, doesn't want to leave
 ![](https://i.imgur.com/rmrCv3R.png)
-<!--SR:!2025-03-13,2,249-->
+<!--SR:!2025-03-20,7,269-->
 
 ## Relaxed horse
 ~
@@ -124,13 +127,13 @@ Related to eating and moving - unfulfiled motivation for grazing and locomotion
 - Relaxed eyes, lips and tail
 - Ears forward
 ![](https://i.imgur.com/jXNfmtY.png)
-<!--SR:!2025-03-13,2,249-->
+<!--SR:!2025-03-20,7,269-->
 
 ## Tail
 *What does it mean if tail is swishing?*
 ~
 Swishing - For the flies if not being ridden, might be injured/uncomfortable, or annoyed
-<!--SR:!2025-03-13,2,249-->
+<!--SR:!2025-03-20,7,269-->
 
 # Treating a Horse
 

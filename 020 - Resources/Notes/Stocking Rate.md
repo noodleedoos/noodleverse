@@ -32,4 +32,4 @@ Breeding femalesDSE*# + 0.9#*weanerDSE + 0.03#*bullDSE = Total DSE
 (if we have 100% cows, we are hoping for 90% weaners, AKA 45% female, 45% male)
 Typo here: should be 10000 not 1000
 ![](https://i.imgur.com/PO7vGlK.png)
-<!--SR:!2025-03-13,3,255-->
+<!--SR:!2025-03-25,12,275-->

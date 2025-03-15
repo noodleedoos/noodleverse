@@ -8,8 +8,16 @@ Status:
 ---
 # Structure
 ~
-- Intercalated discs - dark bands between cells
-- Cylindrical central nuclei
-<!--SR:!2025-03-13,3,250-->
-
+- [[Intercalated discs]] - dark bands between cells
+- Central nuclei
+- Branching
+- Striated
 ![](https://i.imgur.com/zcKUF5m.png)
+<!--SR:!2025-03-24,11,270-->
+# Location
+~
+Found in wall of heart
+
+# Function
+~
+Involuntary, supplied by autonomic NS

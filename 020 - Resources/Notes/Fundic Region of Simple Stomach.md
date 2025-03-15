@@ -18,14 +18,16 @@ Status:
 
 # Fundic Glands of Gastric Mucosa
 ~
+Separated into neck, body and base region
 **Glandular Cells**
 - Tubular glands
 - [[Mucous neck cells]] - cuboidal, flat basal nuclei, basophillic cytoplasm
 - [[Chief cells]] - cuboidal/pyramidal, basal basophillic cytoplasm, produce enzymes
-- [[Parietal Cells]] - large pyramidal cells, eosinic cytoplasm, produce HCl
-**Endocrine Cells**
+- [[Parietal Cells]] - large pyramidal cells, eosinic cytoplasm due to lots of mitochondria, produce HCl
+Also some:
+**Endocrine Cells** with no characteristic appearrance
 - [[G cells]]
 - [[D Cells]]
-- [[Mast Cell]]
+- [[Mast Cells]]
 - [[ECL Cells]]
 ![](https://i.imgur.com/DNQJ2NH.png)

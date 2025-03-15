@@ -8,8 +8,13 @@ status:
 Summary: initiate and transmit electrical impulses
 aliases:
 ---
-# Structure
+# Anatomical division
 ~
 [[Central Nervous System]] and [[Peripheral Nervous System]]
 [[Neurons]] and supporting cells
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-24,11,270-->
+
+# Structure of Nervous Tissue in CNS
+~
+1. [[Neurons]]
+2. [[Neuroglial Cells]]

@@ -16,4 +16,4 @@ Consider change in value of livestock on the enterprise
 ~
 Animals entering = purchases + births (natural increase)
 Animals exiting = sales + deaths + rations (eaten on farm)
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-25,12,270-->

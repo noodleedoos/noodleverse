@@ -8,10 +8,11 @@ aliases:
 Status:
 ---
 # Stucture
+*What is the structure of the epithelium? What is it attached to? What can it do? What are its features?*
 ~
 Cell dense layer that covers internal and external surface, attached to basement membrane
 Can regenerate, avascular, polarized
-<!--SR:!2025-03-13,3,254-->
+<!--SR:!2025-03-25,12,274-->
 
 # Forms of Epithelium
 *What are the 2 forms of epithelium?*
@@ -27,7 +28,7 @@ Can regenerate, avascular, polarized
 3. Absorption
 4. Digestion
 5. Filtration
-<!--SR:!2025-03-13,3,252-->
+<!--SR:!2025-03-24,11,272-->
 
 
 
@@ -47,12 +48,11 @@ Cell layers and shape
 
 ## Cell layers
 *What are the different ways cells can be layered in epithelium?*
-~
 1. Simple epithelia – a single cell layer thick
 2. Stratified epithelia – two or more layers of cells
 3. Pseudostratified epithelia – appear to be stratified, because the cells vary in
 height and the nuclei lie at different levels
-<!--SR:!2025-03-13,3,254-->
+<!--SR:!2025-03-25,12,274-->
 
 ## Shape
 ~
@@ -60,7 +60,7 @@ height and the nuclei lie at different levels
 2. Cuboidal cells – Height and width of the cells are the same
 3. Columnar cells – cells are taller than they are wide
 ![[Screenshot 2025-03-08 at 8.10.00 pm.png]]
-<!--SR:!2025-03-13,3,254-->
+<!--SR:!2025-03-25,12,274-->
 
 # Types
 

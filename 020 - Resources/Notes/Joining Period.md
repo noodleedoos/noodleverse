@@ -34,4 +34,4 @@ Supervised Mating/AI:
 - For horses - Ultrasound of follicles
 - Assess acceptance of male in a paddock
 - Alpaca and deer - male in the paddock
-<!--SR:!2025-03-13,3,252-->
+<!--SR:!2025-03-24,11,272-->

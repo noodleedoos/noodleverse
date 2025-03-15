@@ -10,25 +10,23 @@ Status: 🌱
 ~
 - Fermentation chamber
 
-![](https://i.imgur.com/JB1PUb7.png)
-
+<!--SR:!2025-03-17,4,270-->
 
 # Structures
+*how much of the abdominal cavity does it take up? which is the glandular and non glandular regions?*
 ~
 - 3/4 of abdominal cavity
-- Relative sizes of 4 compartments vary with age
-	- Rumen biggest in adult cattle
-	- Reticulum smallest in cattle
-	- At birth, abomasum largest compartment since not grazing yet
-[[Compound Non-Glandular 
-Forestomach]] - lined by stratified squamous kertitized epithelium. 
+[[Compound Non-Glandular Forestomach]] - lined by stratified squamous kertitized epithelium.
 - [[Reticulum]]
-- [[Rumen]]
-- [[Omasum]]
+- [[Rumen]] - biggest in adult cattle
+- [[Omasum]] - smallest compartment in adult cattle
 **Glandular Stomach**
 - [[Abomasum]]
+- [[Gastric groove]]
+![](https://i.imgur.com/JB1PUb7.png)
+<!--SR:!2025-03-16,3,250-->
 
-[[Gastric groove]]
+
 
 ## Summary Table
 
@@ -48,15 +46,22 @@ Veins drain into portal vein
 
 # Innervation
 ~
-Branches from Dorsal and Central trunks of vagus nerve
+Branches from Dorsal and ventral trunks of vagus nerve
+![](https://i.imgur.com/6eAkvAB.png)
+
+<!--SR:!2025-03-16,3,250-->
 
 
 # Comparison
 *Small ruminants - sheep and goats*
 ~
-- Reticulum slightly larger, in contact with ventral abdominal floor
-- Ventral sac of rumen, slightly larger, more to midline
+- Reticulum slightly larger
+- Ventral sac of rumen relatively larger
 - Caudoventral blind sac of rumen - extends more caudally than dorsal
 - Omasum - smallest compartment
-- Abomasum - relatively larger, usually in direct contact with liver
+- Abomasum - relatively larger
 ![](https://i.imgur.com/6ksGBYJ.png)
+
+*Relative sizes of stomach compartments vary with age*
+~
+	- At birth, abomasum largest compartment since not grazing yet

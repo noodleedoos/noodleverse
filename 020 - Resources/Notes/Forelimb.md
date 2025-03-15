@@ -10,7 +10,7 @@ aliases:
 *What is the pectoral girdle made of in a universal quadruped?*
 ~
 Scapula, clavicle, coracoid
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-21,8,250-->
 
 
 *What is the antebrachium?*
@@ -24,14 +24,14 @@ Radius and ulna
 1. radial, intermediate, ulnar, accessory (on palmar and lateral aspect)
 2. carpal bones names medial to lateral
 ![[Screenshot 2025-03-03 at 2.25.02 pm.png]]
-<!--SR:!2025-03-13,3,252-->
+<!--SR:!2025-03-25,12,272-->
 
 
 # [[Joints]]
 ~
 shoulder, elbow, radiocarpa, carpometacarpal, metacarpophalageal, middle carple, interphalangeal
 ![[Screenshot 2025-03-03 at 2.27.07 pm.png]]
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-24,11,270-->
 
 ## Related Concepts
 [[Dog Skeleton]]

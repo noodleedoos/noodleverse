@@ -14,13 +14,13 @@ aliases:
 ## Parietal peritoneum
 ~
 on the outside
-<!--SR:!2025-03-13,3,252-->
+<!--SR:!2025-03-25,12,272-->
 
 ## Visceral peritoneum
 *Where can we find visceral peritoneum?*
 ~
 surrounds the viscera (organs)
-<!--SR:!2025-03-12,3,250-->
+<!--SR:!2025-03-22,10,270-->
 
 ### Connecting peritoneum
 *What are 3 types of connecting peritoneum?*
@@ -39,7 +39,7 @@ surrounds the viscera (organs)
 *What is the function of peritoneal fluid?*
 ~
 lubrication, immunity.
-<!--SR:!2025-03-13,3,252-->
+<!--SR:!2025-03-25,12,272-->
 
 *How is peritoneal fluid* returned to the vascular system?
 ~

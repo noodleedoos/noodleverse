@@ -9,4 +9,5 @@ Status:
 # Cause
 ~
 No mucous protection from stomach acid, common in racers with high grain diets since organic acid builds
-![](https://i.imgur.com/r80VuqY.png)
+![](https://i.imgur.com/yfAcR3A.png)
+

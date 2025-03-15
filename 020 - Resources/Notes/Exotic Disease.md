@@ -9,7 +9,7 @@ aliases:
 # Definition
 ~
 Diseases not present in Australia
-<!--SR:!2025-03-13,3,268--> 
+<!--SR:!2025-03-24,11,288--> 
 
 # Examples
 ~
@@ -17,11 +17,11 @@ Diseases not present in Australia
 [[Bovine Spongiform Encephalopathy]]
 <!--SR:!2025-03-14,3,250-->
 
-# How to limit disease regarding extensive production*
+# How to limit disease regarding extensive production
 ~
 Protocols
 stop exports to countries - financial impact
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-23,10,270-->
 
 # Related concepts
 [[Endemic Disease]]

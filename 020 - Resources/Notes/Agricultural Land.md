@@ -19,7 +19,7 @@ aliases:
 - old country
 - low soil fertility
 - low phosphorous
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-25,12,270-->
 
 # Related Concepts
 [[Historical Innovation in Agriculture]]

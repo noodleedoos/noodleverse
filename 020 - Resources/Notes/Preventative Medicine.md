@@ -10,7 +10,7 @@ Status:
 *How can we reduce dystocia by preventative measures?*
 ~
 Looking at genetics and physical characteristics and nutrition to reduce dystocia via management
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-22,9,250-->
 
 # Impact on role of veterinarian
 ~
@@ -21,7 +21,7 @@ Change role from emergency management to preventative, reduce [[Fire Brigade Med
 ~
 - Improved animal welfare
 - improved financial outcomes
-<!--SR:!2025-03-13,3,268-->
+<!--SR:!2025-03-25,12,288-->
 
 # Who Researches this?
 ~

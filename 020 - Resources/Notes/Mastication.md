@@ -9,14 +9,17 @@ Status:
 # Muscles of Mastication
 *Where do muscles of mastication work? What are they and their innervation?*
 ~
+TMP 5
+D 5,7
+B 7
 Work around the [[Temporomandibular joint]]
 Jaw closing - [[Temporalis Muscle]], [[Masseter Muscle]], [[Pterygoid muscle]] by [[Cranial Nerve V]]
 Jaw opening - [[Digastric Muscle]] [[Cranial Nerve VII|Facial Nerve]]caudally, [[Cranial Nerve V]] rostrally
 Move food into oral cavity from vestibules - [[Buccinator Muscle]] [[Cranial Nerve VII|Facial Nerve]]
-<!--SR:!2025-03-12,1,228-->
-
+![](https://i.imgur.com/4RH04pX.png)
+![](https://i.imgur.com/UXJ2YIt.png)
 ![](https://i.imgur.com/afnDRqo.png)
-<!--SR:!2025-03-12,1,210-->
+<!--SR:!2025-03-16,3,230-->
 
 
 

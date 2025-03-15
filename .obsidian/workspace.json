@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c7e66e273ddd6ec3",
+        "id": "d85c8cae7234ff6b",
         "type": "tabs",
         "children": [
           {
-            "id": "2204b830266419cc",
+            "id": "b2e538f7652bcb54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020 - Resources/Notes/Simple Stomach.md",
+                "file": "010 - Areas/School/Lectures/3.10 - Role of blood and blood cells in homeostasis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Simple Stomach"
+              "title": "3.10 - Role of blood and blood cells in homeostasis"
             }
           },
           {
-            "id": "97520ab67e46e9f8",
+            "id": "243a79cef8314d9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020 - Resources/Notes/Avian Stomach.md",
+                "file": "020 - Resources/Notes/Leukocytes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Avian Stomach"
-            }
-          },
-          {
-            "id": "59350327df32d050",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "020 - Resources/Notes/Margo Plicatus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Margo Plicatus"
+              "title": "Leukocytes"
             }
           }
         ],
@@ -117,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "superficial",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -346,35 +322,35 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "97520ab67e46e9f8",
+  "active": "243a79cef8314d9d",
   "lastOpenFiles": [
-    "020 - Resources/Notes/Gizzard.md",
-    "020 - Resources/Notes/Avian Stomach.md",
-    "020 - Resources/Notes/Proventriculus.md",
-    "020 - Resources/Notes/Simple Stomach.md",
-    "020 - Resources/Notes/Compound Stomach.md",
-    "020 - Resources/Notes/Compound Non-Glandular Forestomach.md",
-    "020 - Resources/Notes/Pig Stomach.md",
-    "020 - Resources/Notes/Horse Stomach.md",
-    "020 - Resources/Notes/Saccus Caecus.md",
-    "020 - Resources/Notes/Margo Plicatus.md",
-    "020 - Resources/Notes/Dog Stomach.md",
-    "020 - Resources/Notes/Glandular region of simple stomach.md",
-    "020 - Resources/Notes/Pyloric Region of Simple Stomach.md",
-    "020 - Resources/Notes/Fundic Region of Simple Stomach.md",
-    "020 - Resources/Notes/ECL Cells.md",
-    "020 - Resources/Notes/Mast Cell.md",
-    "020 - Resources/Notes/D Cells.md",
-    "020 - Resources/Notes/G cells.md",
-    "020 - Resources/Notes/Cardiac Region of Simple Stomach.md",
-    "020 - Resources/Notes/Gastric Ulceration in the Horse.md",
-    "020 - Resources/Notes/Simple Stomach Mucosa.md",
-    "020 - Resources/Notes/Greater omentum.md",
-    "020 - Resources/Notes/Omental Bursa.md",
+    "020 - Resources/Notes/Blood cells.md",
+    "010 - Areas/School/Lectures/3.10 - Role of blood and blood cells in homeostasis.md",
+    "020 - Resources/Notes/Leukocytes.md",
+    "020 - Resources/Notes/Lymphocytes.md",
+    "020 - Resources/Notes/Monocytes.md",
+    "020 - Resources/Notes/Basophils.md",
+    "020 - Resources/Notes/Eosinophils.md",
+    "020 - Resources/Notes/Neutrophils.md",
+    "020 - Resources/Notes/Mast Cells.md",
+    "020 - Resources/Notes/Plasma Cell.md",
+    "020 - Resources/Notes/Neoplasia.md",
+    "020 - Resources/Notes/Dendritic Cells.md",
+    "020 - Resources/Notes/T Cells.md",
+    "020 - Resources/Notes/Helper T Cells.md",
+    "020 - Resources/Notes/Antigen Presenting Cells.md",
+    "020 - Resources/Notes/Macrophage.md",
+    "020 - Resources/Notes/cytokines.md",
+    "020 - Resources/Notes/Granulocytes.md",
+    "020 - Resources/Notes/Hydrolytic enzymes.md",
+    "020 - Resources/Notes/Chemotacic factors.md",
+    "020 - Resources/Notes/Polymorphonuclear.md",
+    "020 - Resources/Notes/Platelets.md",
+    "020 - Resources/Notes/Coagulation.md",
+    "020 - Resources/Notes/aggregation.md",
+    "020 - Resources/Notes/Haemopoietic Stem Cells.md",
+    "020 - Resources/Notes/Red Blood cells.md",
     "020 - Resources/Attachments/Pasted image 20250311160044.png",
-    "010 - Areas/School/Lectures/3.7 - Simple Stomach and Abomasum.md",
-    "010 - Areas/School/Lectures/3.6 - The Compound stomach.md",
-    "020 - Resources/Notes/Abomasum.md",
     "020 - Resources/Attachments/Pasted image 20250309141232.png",
     "020 - Resources/Attachments/Screenshot 2025-03-03 at 5.01.37 pm.png",
     "020 - Resources/Attachments/Screenshot 2025-03-03 at 4.01.03 pm.png",

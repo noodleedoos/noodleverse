@@ -19,5 +19,5 @@ Swallowing
 # Structure
 *Describe the arrangement of fibres in the mylohyoideus*
 ~
-Transversely oriented fibres
-<!--SR:!2025-03-13,3,250-->
+Transversely oriented fibres (horizontal striations)
+<!--SR:!2025-03-22,9,250-->

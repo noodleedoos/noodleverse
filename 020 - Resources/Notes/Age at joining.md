@@ -11,7 +11,7 @@ Status:
 ~
 60-70% of adult bodyweight
 How: - the larger the animal, the longer before it will be mature enough to successfully mate/cope with weight of animal [[Mating Methods]]
-<!--SR:!2025-03-13,3,252-->
+<!--SR:!2025-03-23,10,272-->
 
 # Males
 ~

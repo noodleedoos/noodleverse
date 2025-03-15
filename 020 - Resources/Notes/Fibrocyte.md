@@ -20,4 +20,4 @@ Status:
 - Less active than fibroblasts
 - Support [[Connective Tissue]]
 - Produce [[Collagen Fibres]] following injury
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-25,12,270-->

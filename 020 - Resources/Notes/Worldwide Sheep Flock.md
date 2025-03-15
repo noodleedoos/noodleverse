@@ -11,7 +11,7 @@ aliases:
 - Less sheep than cattle, around 1 billion unevenly distributed
 - Hotspots where there is rainfall
 - Hair type sheep breeds common in tropical areas
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-23,10,270-->
 
 
 *What can lead to inaccurate counts of worldwide flock?*

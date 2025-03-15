@@ -12,7 +12,7 @@ list FROM #unit and [[]] sort file.name asc
 ```
 ## Lectures
 ```dataview
-table status FROM #lecture and [[]]
+table status FROM #lecture and [[]] sort file.name asc
 ```
 
 ## Practicals

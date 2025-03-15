@@ -16,6 +16,9 @@ Summary:
 ~
 [[Peripheral Nerves]]
 [[Ganglia]]
+[[Cranial Nerves]]
+[[Neuromuscular Junctions]]
+![](https://i.imgur.com/a5IvEM2.png)
 ![[Screenshot 2025-03-03 at 4.04.04 pm.png]]
 <!--SR:!2025-03-14,4,270-->
 

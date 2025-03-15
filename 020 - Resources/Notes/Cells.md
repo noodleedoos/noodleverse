@@ -39,7 +39,7 @@ tags:
 *How are cells named according to differentiation?*
 ~
 examples - [[Fibroblast]] and [[Fibrocyte]]
-<!--SR:!2025-03-13,3,254-->
+<!--SR:!2025-03-24,11,274-->
 
 | Suffix | Description              | Example        |
 | ------ | ------------------------ | -------------- |

@@ -19,4 +19,4 @@ Slaughter all stock
 Producers and veterinarians should be aware of early signs
 Don't feed swill
 don't bring in meat
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-23,10,270-->

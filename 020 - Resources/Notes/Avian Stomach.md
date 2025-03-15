@@ -3,13 +3,16 @@ up:
 tags:
   - concept
 Summary: 
-aliases: 
+aliases:
+  - Bird stomach
 Status:
 ---
 # Structure
 ~
 [[Proventriculus]]  separated by narrow channel called isthmus to [[Gizzard]]
+![](https://i.imgur.com/HHRXBYf.png)
 ![](https://i.imgur.com/26UsWVu.png)
+<!--SR:!2025-03-15,3,250-->
 
 # Processing food
 1. Food enters proventriculus

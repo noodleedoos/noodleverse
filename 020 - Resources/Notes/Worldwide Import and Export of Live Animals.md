@@ -33,7 +33,7 @@ aliases:
 ~
 Sheep not allowed to be exported from WA to middle east in winter due to big temperature change
 [[ESCAS]] - Guarantees ownership claims when the animals arrive in a country - challenge = variations in welfare regulations
-<!--SR:!2025-03-13,3,259-->
+<!--SR:!2025-03-24,11,279-->
 
 
 # Export Location and Destination
@@ -41,4 +41,4 @@ Sheep not allowed to be exported from WA to middle east in winter due to big tem
 ~
 - Cattle from Au to Indonesia and other Asian ports
 - Sheep from Au to middle east (longer journey, different climatic conditions)
-<!--SR:!2025-03-13,3,259-->
+<!--SR:!2025-03-21,8,259-->

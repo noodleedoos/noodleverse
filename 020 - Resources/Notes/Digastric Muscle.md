@@ -13,4 +13,4 @@ Status:
 - Origin: Occipital bone (jugular process) of skull, caudal to temporomandibular joint
 - Insertion - Mandible (ventral aspect)
 ![[Pasted image 20250309140147.png]]
-<!--SR:!2025-03-12,1,210-->
+<!--SR:!2025-03-14,2,210-->

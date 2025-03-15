@@ -22,14 +22,14 @@ etymology: reticulum means little net
 - collagen and extracellular matrix glycoproteins
 - [[Type III Collagen]] most abundant
 - Produced by [[reticulocytes]] and [[fibroblasts]] meshlike delicate
-<!--SR:!2025-03-13,3,268-->
+<!--SR:!2025-03-23,10,288-->
 
 # Location
 *Where can reticular fibres be found?*
 ~
 - [[Liver]]
 - [[Spleen]]
-- [[Lymph Node]]
+- [[Lymph Nodes]]
 - [[Bone Marrow]]
 - [[Pancreas]]
 - [[Adrenal glands]]
@@ -37,4 +37,4 @@ etymology: reticulum means little net
 - [[Secretory Cells]]
 - [[Endocrine glands]]
 -
-<!--SR:!2025-03-12,2,230--> 
+<!--SR:!2025-03-18,5,230--> 

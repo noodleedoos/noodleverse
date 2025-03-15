@@ -22,7 +22,7 @@ FTE - full time equivalent
 *Describe the age profile of industry in comparison to Australian workforces*
 ~
 Generally older than average workforce
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-25,12,270-->
 
 # Measurement
 *How is labour measured and what is a reasonable benchmark for a low input system?*
@@ -37,6 +37,6 @@ Expressed as FTE/ha or FTE/DSE
 *What enterprise type has higher than what, and why?*
 ~
 [[self replacing]] has higher FTE/DSE than fattening enterprise since animals are handled less in the latter
-<!--SR:!2025-03-13,3,256-->
+<!--SR:!2025-03-21,8,256-->
 
 

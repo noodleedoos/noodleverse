@@ -10,7 +10,7 @@ Status:
 ~
 - single layer of flattened, scale- or plate-like cells.
 - Nuclei - flattened or ovoid, i.e. egg-shaped,
-<!--SR:!2025-03-13,3,268-->
+<!--SR:!2025-03-22,9,268-->
 
 # Location
 ~
@@ -18,6 +18,6 @@ Status:
 - The large body cavities
 - Heart
 - blood vessels and lymph vessels are typically lined by a simple squamous epithelium
-<!--SR:!2025-03-13,2,230-->
+<!--SR:!2025-03-20,7,250-->
 
 ![[Screenshot 2025-03-08 at 8.11.05 pm.png]]

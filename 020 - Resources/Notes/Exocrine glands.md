@@ -10,7 +10,7 @@ Status:
 *What do they do and how?*
 ~
 Release the secretory product (e.g. milk, mucus, sweat) via a system of ducts that open onto of the surfaces of the body which are in contact with the external world (skin, respiratory tract, etc).
-<!--SR:!2025-03-13,3,255-->
+<!--SR:!2025-03-23,10,275-->
 
 # Morphology
 ~

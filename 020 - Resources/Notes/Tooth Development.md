@@ -35,4 +35,4 @@ in sum:
 7. Root grows, teeth pushed to oral cavity for crown eruption.
 8. Permanent tooth but migrates to socket of temporary tooth for enamel organ formation, which degrades the temporary tooth.
 ![[Screenshot 2025-03-04 at 10.45.26 am.png]]![[Screenshot 2025-03-04 at 10.51.40 am.png]]![[Screenshot 2025-03-04 at 11.42.14 am.png]]
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-25,12,270-->

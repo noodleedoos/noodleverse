@@ -18,4 +18,4 @@ Status:
 	- Palpation of testes for symmetry and firmness
 	- Penis and prepuce for swelling and wounds, ability to protrude
 	- Semen exam
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-24,11,270-->

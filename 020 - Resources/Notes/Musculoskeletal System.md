@@ -15,8 +15,8 @@ aliases:
 - Muscles
 - Tendons
 - Ligaments
-- Fascia
+- Fascia (casing of connective tissue)
 ![[Screenshot 2025-03-03 at 3.56.46 pm.png]]
-<!--SR:!2025-03-12,3,250-->
+<!--SR:!2025-03-20,8,250-->
 
 

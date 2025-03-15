@@ -25,4 +25,4 @@ Abdomen
 Pelvis
 On Body surface
 ![[Screenshot 2025-03-03 at 4.13.16 pm.png]]
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-23,10,270-->

@@ -7,20 +7,20 @@ aliases:
 Status:
 ---
 # Group Behaviour
-*Describe how sheep behave together and the prominance of territorial behaviour*
+*Describe how sheep behave together and the prominence of territorial behaviour*
 ~
 Rest closely together, disperse for grazing
 find bedding ground
 When scared, bunch together
 Weakest sheep to middle of herd
-<!--SR:!2025-03-12,2,248-->
+<!--SR:!2025-03-17,5,248-->
 
 # Grazing behaviour
 *Describe when and how much sheep graze*
 ~
 Graze 8-16km/day depending on water and feed
 Early morning and late afternoon
-<!--SR:!2025-03-12,1,210-->
+<!--SR:!2025-03-15,3,230-->
 
 # Social Hierarchy
 *Who is often on top? How do sheep express threats, submission? When do they vocalise?*
@@ -39,7 +39,7 @@ Isolation and dogs stressful
 Move gently with food
 Confinement facilities and drafting gates
 Move whole mob then draft lame
-<!--SR:!2025-03-13,2,248-->
+<!--SR:!2025-03-20,7,268-->
 
 # Problems with sheep
 ## Body
@@ -54,7 +54,7 @@ AKA "Cast" (dinnerbone/grumm)
 Lying on side, then accidentally onto their backs
 Common in pregnant, fat, heavy fleece
 Consequences - bloating, pressure in lungs -> respiratory problems, limb circulation/muscle damage
-<!--SR:!2025-03-13,2,248-->
+<!--SR:!2025-03-20,7,268-->
 
 *If a sheep needs to be housed by itself, what should you consider?*
 ~
@@ -64,6 +64,7 @@ Consequences - bloating, pressure in lungs -> respiratory problems, limb circula
 *Why might you not notice an injured sheep?*
 ~
 Prey animals hide injury
+<!--SR:!2025-03-17,4,276-->
 
 # Catching a sheep
 *What do you need to consider when catching a sheep?*
@@ -71,7 +72,7 @@ Prey animals hide injury
 - Holding yard - use food if unfamiliar
 - Herd - bring whole mob of sheep with lame sheep
 - Stay behind driving line, within flight zone
-<!--SR:!2025-03-13,2,248-->
+<!--SR:!2025-03-20,7,268-->
 
 ## How to handle a lame sheep and examine its feet
 ~

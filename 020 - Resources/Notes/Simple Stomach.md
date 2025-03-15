@@ -14,46 +14,55 @@ Status:
 - Rugae allow stretching, become more linear closer to pyloric sphincter
 4 Regions
 - Cardiac
-- Fundus (widest)
+	- Fundus (widest part) latin for bowl
 - Body
 - Pyloric (tubular region terminates at pyloric sphincter)
 ![](https://i.imgur.com/Myn3XPN.png)
 ![](https://i.imgur.com/cJRYVUo.png)
+<!--SR:!2025-03-14,1,230-->
 
 
 # External Features
 ## Surfaces
+*Describe the simple stomach in relation to other organs*
 ~
 - Parietal (cranial) up against liver
 - Visceral (caudal) up against intestines
+
+
 ## Curvatures
 ~
 - Lesser - dorsal border
 - Greater - ventral border
 
 ![](https://i.imgur.com/CQIs4DR.png)
+<!--SR:!2025-03-14,1,226-->
 
 ## Extremities
+*WHere are the inlets and outlets?*
 ~
 - Cardia - inlet from oesophagus
 - Pylorus - outlet to duodenum
 ![](https://i.imgur.com/Nyte0Yv.png)
+<!--SR:!2025-03-14,1,228-->
 
 # Location
 ~
-Transvers, largely to left of median plan
+Transverse, largely to left of median plan
 Cardia - closer to midline
 Fundus and body - left
-Pylorus - right
+Pylorus  - right
 ![[Pasted image 20250311160044.png]]
 
 # Supporting Membranes
+What membranes can be found around the stomach
 ~
 - [[Greater omentum]] (7)
-- Lesser omentum (8) 
+- Lesser omentum (8)
 	- Hepatogastric ligament
 	- Hepatoduodenal ligament with portal vein, hepatic artery, bile duct and lymphatic duct
 - ![](https://i.imgur.com/GC60Uiq.png)
+<!--SR:!2025-03-16,3,250-->
 
 
 # Blood Supply to stomach
@@ -61,19 +70,23 @@ Pylorus - right
 - Branches of celiac artery to greater omentum and spleen
 - Branches of hepatic artery to gastro-duodental artery and portal vein liver
 - Branches of left gastric artery to lesser omentum
+- Veins drain into portal vein
 ![](https://i.imgur.com/mgyBEE7.png)
+<!--SR:!2025-03-16,3,250-->
 
 # Innervation
 ~
 - Parasympathetic and sympathetic nervous system
 	- Branches of Vagus and sympathetic nerves
+
 # Stomach Wall Layers
 ~
 1. [[Simple Stomach Mucosa]]
 2. Submucosa
-3. Muscularis externa (outer longitudinal, middle circular, inner oblique)
+3. Muscularis externa (3 layers outer longitudinal, middle circular, inner oblique)
 4. Serosa - simple squamous mesothelial cells secrete peritoneal fluid
 ![](https://i.imgur.com/DopddU7.png)
+<!--SR:!2025-03-14,1,226-->
 
 # Simple Stomach Regions
 ~

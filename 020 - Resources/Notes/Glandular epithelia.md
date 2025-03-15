@@ -11,7 +11,7 @@ Status:
 *What is glandular epithelia? What is their function?*
 ~
 • Cells or aggregations of cells that function to secrete.
-<!--SR:!2025-03-13,3,252-->
+<!--SR:!2025-03-23,10,272-->
 
 # Types
 ~

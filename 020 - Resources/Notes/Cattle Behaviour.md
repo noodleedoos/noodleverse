@@ -15,7 +15,7 @@ Status:
 - Females + offspring, adults males in bachelor groups
 - Little aggression due to stable hierarchy
 - Grooming behaviour - affiliative behaviour - they have friends:)
-<!--SR:!2025-03-13,3,252-->
+<!--SR:!2025-03-23,10,272-->
 
 # Grazing behaviour
 *When and for how long do cattle graze? How does production impact their grazing behaviour*
@@ -48,7 +48,7 @@ Status:
 - Normal: threats - stare, head tossing, foot stamping
 - Aggression at perceived threat - head butting, charging
 - Attack/Defence - kicking/striking
-<!--SR:!2025-03-13,3,252-->
+<!--SR:!2025-03-25,12,272-->
 
 # Handling Cattle
 *What should you consider in handling cattle?*

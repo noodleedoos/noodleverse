@@ -12,13 +12,13 @@ Status:
 - Malocclusion
 - Filing/trimming
 - Dietary, environment and behavioural causes
-<!--SR:!2025-03-12,2,248-->
+<!--SR:!2025-03-17,5,248-->
 
 # Dog Teeth aging
 *What happens to specific dog teeth as they age?*
 ~
 - Triscupid points on incisors, canine points worn away
-<!--SR:!2025-03-13,2,228-->
+<!--SR:!2025-03-19,6,248-->
 
 # Horses
 *9 Criteria used to age horses in order of accuracy*
@@ -32,7 +32,7 @@ Status:
 7. Angle of incisors
 8. Hook on upper incisor (irrelevant - not associated with any age)
 9. Galvayne's groove (groove in labial surface of upper corner incisor, now uselesss)
-<!--SR:!2025-03-12,2,248-->
+<!--SR:!2025-03-15,2,228-->
 
 *Changes to horse incisors over time*
 ~
@@ -47,13 +47,13 @@ Status:
 - 10+ years - crown tall
 - lower incisors become more oblique, caudal angle becomes smaller
 ![[Pasted image 20250306215416.png]]
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-21,8,250-->
 
 *Changes to the curvature of the dental arch of lower incisors*
 ~
 Semicircle to straight
 Caudal angle becomes smaller
-<!--SR:!2025-03-12,2,248-->
+<!--SR:!2025-03-19,7,268-->
 
 
 # Ox teeth aging
@@ -65,7 +65,7 @@ Caudal angle becomes smaller
 - Milk tooth (no permanent), 2 tooth, 4 tooth, 6 tooth, 8 tooth/full mouth
 - 5 years: incisors in wear, occlusal table levelling 6-9 years from centrals to corners
 ![[Pasted image 20250306220527.png]]
-<!--SR:!2025-03-12,1,210-->
+<!--SR:!2025-03-15,2,210-->
 
 
 # Sheep
@@ -73,4 +73,4 @@ Caudal angle becomes smaller
 - After 8 tooth/full mouth -> broken mouth 0> gummy mouth
 ![[Pasted image 20250306220808.png]]
 ![[Pasted image 20250306220724.png]]
-<!--SR:!2025-03-13,3,266-->
+<!--SR:!2025-03-23,10,286-->

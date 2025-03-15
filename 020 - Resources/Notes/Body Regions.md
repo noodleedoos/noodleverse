@@ -24,9 +24,8 @@ carpus, metacarpus and digits
 <!--SR:!2025-03-14,4,270-->
 
 # Pelvic or Hindlimb Regions
-~
 rump/gluteal, thigh, crus, tarsus, metatarsus, digital
-<!--SR:!2025-03-13,3,258-->
+<!--SR:!2025-03-23,10,278-->
 
 *What is pes?*
 ~
@@ -40,4 +39,4 @@ Thoracic cavity - cranial to diaphragm
 Abdominal cavity - caudal to diaphragm and cranial to pelvic inlet
 Pelvic cavity - caudal to pelvic inlet
 ![[Screenshot 2025-03-03 at 3.48.54 pm.png]]
-<!--SR:!2025-03-13,3,252-->
+<!--SR:!2025-03-23,10,272-->

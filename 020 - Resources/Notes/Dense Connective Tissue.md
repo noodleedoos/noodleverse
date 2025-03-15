@@ -9,7 +9,7 @@ aliases:
 # Structure
 ~
 More fibres, fewer cells
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-24,11,270-->
 
 # Function
 ~
@@ -21,4 +21,4 @@ Withstand greater mechanical forces
 ~
 [[Regular Dense Connective Tissue]]
 [[Dense Irregular Connective Tissue]]
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-24,11,270-->

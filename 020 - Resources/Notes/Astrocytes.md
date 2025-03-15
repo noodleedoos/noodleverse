@@ -12,3 +12,5 @@ tags:
 status: 
 Summary:
 ---
+# Structure
+![](https://i.imgur.com/RLIfQvu.png)

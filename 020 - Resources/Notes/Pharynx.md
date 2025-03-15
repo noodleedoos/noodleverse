@@ -21,7 +21,7 @@ aliases:
 	- [[Nasopharynx]]
 	- [[Laryngopharynx]]
 - The [[Epiglottis]]
-- [[Lymphoid tissue]], also in [[Tonsils]]
+- [[Lymphoid tissue]] scattered and also in [[Tonsils]]
 ![](https://i.imgur.com/UJ1jTrO.png)
 
 ## Layers
@@ -58,4 +58,6 @@ Dilators, shorteners, constrictors
 [[Cranial Nerve VII]] and [[Cranial Nerve X]]
 Motor and sensory: also [[Cranial Nerve IX]]
 ![[Screenshot 2025-03-09 at 2.24.38 pm.png]]
-<!--SR:!2025-03-13,2,232-->
+<!--SR:!2025-03-18,5,232-->
+
+

@@ -30,7 +30,7 @@ Mares - canines absent/rudimentary
 Found in diastema
 Brachydont because they don't grow continually, but they have a long reserve crown
 Unknown function, maybe fighting
-<!--SR:!2025-03-13,2,230-->
+<!--SR:!2025-03-20,7,250-->
 
 ## Premolars/Molars
 *Describe the cheek teeth in horses, when does the special tooth erupt? What are these teeth called together? What covers the crown? What might happen to the teeth and why?*

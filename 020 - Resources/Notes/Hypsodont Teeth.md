@@ -10,7 +10,7 @@ aliases:
 *What type of animal has hypsodont teeth? and why?*
 ~
 - the only teeth in herbivores, and omnivores for high rates of wear
-<!--SR:!2025-03-13,3,254-->
+<!--SR:!2025-03-23,10,274-->
 
 
 # Formation
@@ -26,7 +26,7 @@ how does the structure of a hypsodont tooth differ from a brachydont tooth?
 - Cement covers crown and root
 - No neck
 ![[Screenshot 2025-03-03 at 4.55.36 pm.png]]
-<!--SR:!2025-03-13,3,255-->
+<!--SR:!2025-03-23,10,275-->
 
 
 # Related Concepts

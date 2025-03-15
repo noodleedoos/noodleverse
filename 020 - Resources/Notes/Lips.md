@@ -16,13 +16,18 @@ Status:
 	1. Contains minor salivary glands (labial glands) with duct opening through oral mucosa
 3. Muscle, tendon
 - Skin is external
+
 Mucocutaneous Junction:
+~
 - The junction between the skin and the oral mucosa
 ![[Pasted image 20250309130223.png]]
+<!--SR:!2025-03-14,1,234-->
+
+
 ## Lip margin
 *Describe species variations in lip margin*
 ~
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-21,8,250-->
 
 | Animal     | Variation                                                                               |
 | ---------- | --------------------------------------------------------------------------------------- |
@@ -38,15 +43,18 @@ Mucocutaneous Junction:
 ~
 - Cleft marking division of upper lip
 - Dog, cat, camelids, sheep (for closer grazing)
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-25,12,270-->
 
 # Muscles
 *Describe the superficial muscles in the head of an animal and who innervates them*
 ~
 [[Orbicularis oris]], [[Levator nasolabialis]], [[Caninus]], [[Levator labii superioris and inferioris]] all innervated by [[[Cranial Nerve VII]]
 ![](https://i.imgur.com/Jdfl1Ci.png)
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-17,4,272-->
+
+
 ## Summary Table
+<!--SR:!2025-03-23,10,270-->
 
 | Muscle                                  | Function                                                           | Innervation           |
 | --------------------------------------- | ------------------------------------------------------------------ | --------------------- |

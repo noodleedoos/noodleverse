@@ -11,4 +11,4 @@ Status:
 ~
 more intensive operations have more vaccinations
 Treatment in different seasons/age/immunity varies efficiency
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-24,11,270-->

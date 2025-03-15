@@ -11,7 +11,7 @@ aliases:
  Evaporation/evapotranspiration = less water for plant growth
  <10c = reduced growth
  <6c = mostly stopped
-<!--SR:!2025-03-13,3,252-->
+<!--SR:!2025-03-24,11,272-->
 
 # Average Daily Minimum Temperature in Australia
 *Describe the trend in temperature across australia*

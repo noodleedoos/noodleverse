@@ -8,7 +8,7 @@ Status:
 ---
 # Structure
 ~
-Prominent longitudinal innermost folds that face lumen
+Longitudinal innermost folds that face lumen
 2-3 layers 
 - [[Stratified Squamous Epithelium]]
 	- Keratinised in horse, ruminant and pig

@@ -14,6 +14,7 @@ Serous, protein rich
 # Histology
 ~
 Stain basophillic because protein rich
+they are seriously purple!
 
 # Structure
 ~
@@ -21,4 +22,4 @@ Stain basophillic because protein rich
 - Oval basal nuclei
 - Basophillic perinuclear cytoplasm
 - Secretory granules in apical cytoplasm
-![](https://i.imgur.com/b07u6OH.png)
+![](https://i.imgur.com/RQ0oiRC.png)

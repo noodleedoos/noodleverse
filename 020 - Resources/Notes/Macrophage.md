@@ -6,7 +6,7 @@ status:
 Summary:
 aliases:
 ---
-# Characteristics
+# Structure
 *What type of cell is a macrophage? What size is it?*
 ~
 Large [[Leukocytes]] cell
@@ -22,8 +22,10 @@ Migrated to the tissue
 - Produces[[ lysosomal proteases]], [[cytokines]], [[prostaglandins]]
 - Wound healing and muscle regeneration
 - Immune function
+- Clear dead/dying tissue
+- Produce [[cytokines]]
 ![[Screenshot 2025-03-08 at 7.56.45 pm.png]]
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-21,8,250-->
 
 # Origin
 *What are macrophages derived from?*

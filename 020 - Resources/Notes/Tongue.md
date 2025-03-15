@@ -7,6 +7,7 @@ aliases:
 Status:
 ---
 # Structure
+*What are the 3 parts of the tongue?*
 ~
 - Root - Attached to hyoid apparatus
 - Body - Attached to mandible
@@ -14,18 +15,23 @@ Status:
 - Tongue is connected to the floor of the oral cavity by lingual frenulum
 ![[Pasted image 20250309132258.png]]
 ![[Pasted image 20250309132303.png]]
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-22,9,250-->
 
 
-## Layers
+## Mucosa Layer of tongue
 ~
+Mucosa
 - The mucosal epithelium on the dorsum - thick and keratinised and bears numerous lingual papillae
 - Mucosal epithelium on the ventral aspect is non-keratinised
 - The mucosa has abundant capillaries and arteriovenous anastomoses
 	- These participate in thermoregulation (e.g. heat loss - panting)
+<!--SR:!2025-03-14,1,235-->
+
+## Location of Salivary glands in tongue
+~
 - Minor salivary glands are in the submucosa (lingual glands)
 - Serous gustatory glands open into the sulcus of the [[Vallate or Circumvallate Papillae]]
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-21,8,250-->
 
 
 ## See Also
@@ -42,7 +48,7 @@ Horse - Median dorsal lingual cartilage, foliate papillae
 Pig - foliate papillae
 Ox - no foliate papillae
 Cat - cavopapillae
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-23,10,270-->
 
 | Species    | Variation                                                                                                                                                                                                                                        |     |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
@@ -61,7 +67,7 @@ Cat - cavopapillae
 ~
 [[Mylohyoideus Muscle]], [[Geniohyoidieus Muscle]]
 ![](https://i.imgur.com/qFlJzfh.png)
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-23,10,270-->
 
 
 ### Summary Table
@@ -86,11 +92,10 @@ Cat - cavopapillae
 ![[Pasted image 20250309134707.png]]
 
 # Tongue Innervation Summary
-~
 Intrinsic/extrinsic muscles by [[Cranial Nerve XII]]
 Sensory/somatic: rostral 2/3rd [[Cranial Nerve V]], caudal [[Cranial Nerve IX]]
 Sensory/taste: rostral 2/3rd [[Cranial Nerve VII]], caudal [[Cranial Nerve IX]]
-<!--SR:!2025-03-13,3,252-->
+<!--SR:!2025-03-25,12,272-->
 
 | Function         | Location                                  | Innervation                                                                     |
 | ---------------- | ----------------------------------------- | ------------------------------------------------------------------------------- |

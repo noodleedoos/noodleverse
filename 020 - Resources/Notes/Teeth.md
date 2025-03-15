@@ -11,7 +11,7 @@ aliases:
 ~
 Rooted in alveolar bone
 ![[Screenshot 2025-03-03 at 4.50.58 pm.png]]
-<!--SR:!2025-03-13,3,257-->
+<!--SR:!2025-03-24,11,277-->
 
 # Tooth Surfaces
 *What is the vestibular surface?*
@@ -87,4 +87,4 @@ two sets of teeth
 ~
 2+ sets of teeth
 e.g. elephants since they live a long time and eat an abrasive diet
-<!--SR:!2025-03-13,3,259-->
+<!--SR:!2025-03-24,11,279-->

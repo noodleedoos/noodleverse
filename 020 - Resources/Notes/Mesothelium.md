@@ -8,4 +8,4 @@ Status:
 ---
 # Definition
 ~
-Simple squamous epithelium that lines body cavities and organs to form special slippery protection
+Simple squamous epithelium that lines body cavities and organs to form special slippery protection, secretes peritoneal fluid

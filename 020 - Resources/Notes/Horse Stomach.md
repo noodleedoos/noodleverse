@@ -8,14 +8,13 @@ aliases:
 Status:
 ---
 # Structure
+*Shape, location
 ~
 J Shaped
 Relatively small (grazer)
-Greater omentum relatively small
-Located 10-13th rib, never distend beyond costal arch since they have 18 ribs
-
-![Uploading file...qtxgd]()
-
+Greater omentum relatively small (grazer - dont need much fat storage)
+transverse orientation
+Located 10-13th of 18 ribs, never distend beyond costal arch since they have 18 ribs
 
 # Unique structures in horse stomach
 ~
@@ -23,16 +22,17 @@ Located 10-13th rib, never distend beyond costal arch since they have 18 ribs
 - [[Margo Plicatus]]
 - Oblique angle of oesophagus x cardia and thick smooth muscle wall close to cardia makes vomiting rare
 # Non Glandular (oesophageal region of stomach)
+*Layers*
 ~
 1. Stratified squamous keratinised epithelium
 2. Lamina propria - mucosa
-3. Muscularis mucosae (smooth muscle) strands demarcate where mucosa stops
-4. Submucosa with loose connective tissue and blood vessels
-5. Muscularis externa (tunica muscularis)
+	1. Muscularis mucosae (smooth muscle) strands demarcate where mucosa stops
+3. Submucosa with loose connective tissue and blood vessels
+4. Muscularis externa (tunica muscularis)
 	1. Outer longitudinal
 	2. Middle circular
 	3. Inner oblique
-6. Serosa - mesothelial cells secrete peritoneal fluid, blood vessels and nerves
+5. Serosa - mesothelial cells secrete peritoneal fluid, blood vessels and nerves
 ![](https://i.imgur.com/e3GGZrg.png)
 
 

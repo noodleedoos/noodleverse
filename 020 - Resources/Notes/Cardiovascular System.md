@@ -10,11 +10,11 @@ aliases:
 # Structures
 *List 7 structures found in the cardiovascular system*
 ~
-heart, aorta, caudal vena caval, portal vein, cartoid artery, jugular vein, cranial vena cava
-<!--SR:!2025-03-13,3,250-->
-
+[[Heart]], [[Arterial system]], [[microcirculation]], [[venous system]]
 ![](https://i.imgur.com/0aeigBc.png)
+![](https://i.imgur.com/QYlRlUf.png)
 
+[[Blood Vessels]]
 
 | Structure         | Location                                             |
 | ----------------- | ---------------------------------------------------- |

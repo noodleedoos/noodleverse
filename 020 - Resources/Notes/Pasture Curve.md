@@ -11,7 +11,7 @@ Status:
 Green pasture starts March, peak Oct, rapid decline by Dec, replaced with decreasing dry pasture
 ![[Pasted image 20250306131123.png]]
 Slightly variable by fertiliser, irrigation, environment changes
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-23,10,270-->
 
 *When is the best time for calving/lambing in SE Australia?*
 ~

@@ -8,11 +8,10 @@ Status:
 ---
 # Layers
 ~
-Epithelium
-Lamina prpria
+Mucosa (epithelium, lamina propria)
 Submucosa
 Muscular tunic
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-21,8,250-->
 
 | Layer          | Structure                                                                                                                       | Location                     |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |

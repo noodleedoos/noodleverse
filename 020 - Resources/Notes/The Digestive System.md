@@ -23,7 +23,7 @@ aliases:
 1. [[Mouth]]
 2. [[Pharynx]]
 3. [[Alimentary Canal]]
-<!--SR:!2025-03-13,3,257-->
+<!--SR:!2025-03-15,2,237-->
 
 ### Parts found within:
 *6 places*
@@ -47,7 +47,7 @@ aliases:
 - Stomach
 - Liver
 - Intestines
-<!--SR:!2025-03-13,3,257-->
+<!--SR:!2025-03-25,12,277-->
 
 # Related Concepts
 ```dataview

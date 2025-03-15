@@ -14,17 +14,17 @@ Timing of parturition, time and length of mating
 <!--SR:!2025-03-14,4,272-->
 
 # Importance of reproduction
-*How can we maintain* group size?
+*How can we maintain* group size and why should we?
 ~
 1. Maintain group size
 2. Replace dead and those beyond effecting breeding age (Cast for age = CFA)
 3. Allow genetic selection
-<!--SR:!2025-03-13,3,257-->
+<!--SR:!2025-03-22,9,257-->
 
 # Percentage Requirements to maintain group and why
 ~
 - 50-60% so females can replaced culled
-<!--SR:!2025-03-13,3,254-->
+<!--SR:!2025-03-21,8,254-->
 
 # Impact on production
 ~
@@ -36,7 +36,7 @@ Must give birth to produce milk
 ~
 - Reduced handling in last third of gestation and post parturition
 - increase feed/attention in pregnant/lactating
-<!--SR:!2025-03-13,3,257-->
+<!--SR:!2025-03-21,8,257-->
 
 # Impacts of Reproduction on Animal health
 *What are 2 risks related to this, and how does ages in a self replacing group impact this?*
@@ -44,7 +44,7 @@ Must give birth to produce milk
 - STDs,
 - disease risk during pregnancy/lactation
 - Different ages in self replacing group means only a certain age group might be infected
-<!--SR:!2025-03-13,3,254-->
+<!--SR:!2025-03-24,11,274-->
 
 # Key Events in a reproduction system
 ~
@@ -87,7 +87,7 @@ Must give birth to produce milk
 3. Pre-weanning
 4. Post-weaning
 5. Adult
-<!--SR:!2025-03-13,3,252-->
+<!--SR:!2025-03-23,10,272-->
 
 # Estimate reproductive wastage
 ~
@@ -102,7 +102,7 @@ Must give birth to produce milk
 4. [[Predation]]
 5. [[Environment]]
 6. Poor condition score
-<!--SR:!2025-03-13,3,257-->
+<!--SR:!2025-03-25,12,277-->
 
 # Measures to improve success
 *3 ways*

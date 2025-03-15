@@ -10,7 +10,7 @@ Status:
 *How does a manager maximise sustainable profit? How can it be measured?*
 ~
 mix inputs and measure it by $/ha, sustainability index, key performance indicators (KPI), margin, other metric
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-24,11,270-->
 
 
 # Key inputs for livestock system
@@ -22,4 +22,4 @@ mix inputs and measure it by $/ha, sustainability index, key performance indicat
 - [[Pasture Management]]
 - [[Infrastructure]]
 - [[Feed in Extensive Production Systems]]
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-25,12,270-->

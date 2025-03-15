@@ -14,7 +14,7 @@ Status:
 # Function
 ~
 • This specialization makes the epithelium waterproof, so is found in the mammalian skin
-<!--SR:!2025-03-13,3,252-->
+<!--SR:!2025-03-22,9,252-->
 
 
 # Histology
@@ -22,4 +22,4 @@ Status:
 - Dark pink layer of skin anchored to lamina propria
 - Underlying loose connective tissue supplies vasculature
 ![[Screenshot 2025-03-08 at 8.18.31 pm.png]]
-<!--SR:!2025-03-13,3,252-->
+<!--SR:!2025-03-23,10,272-->

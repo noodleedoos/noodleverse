@@ -7,9 +7,10 @@ aliases:
 Status:
 ---
 # Definition and Function
+*7 steps of deglutition*
 ~
 Voluntary swallowing, then taken over by reflex once food reaches pharynx
-In sum: mastication, insalivation, apex to palate, mylohyoideus and extrinsic tongue muscles, reflexes - soft palate raised, larynx glottis closed, hyoid apparatus rostral, pharynx shortened, constrictors to oesophagus, persistalsis to stomach
+In sum: mastication, insalivation, apex of tongue to palate, mylohyoideus and extrinsic tongue muscles, reflexes when contact pharyngeal mucosa - soft palate raised, glottis closes, hyoid apparatus rostral, shorteners, constrictors, persistalsis
 1. Bolus of food prepared by mastication and insalivation
 2. Apex of tongue pressed against palate
 3. Contraction of [[Mylohyoideus Muscle]] and [[Extrinsic Tongue Muscles]] to propel food into pharnyx
@@ -18,3 +19,4 @@ In sum: mastication, insalivation, apex to palate, mylohyoideus and extrinsic to
 6. Bolus moves to [[oesophagus]] by pharyngeal constrictors
 7. [[Peristalsis]] conveys bolus to stomach
 ![](https://i.imgur.com/unvaTFT.png)
+<!--SR:!2025-03-16,3,250-->

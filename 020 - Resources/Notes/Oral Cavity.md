@@ -20,7 +20,7 @@ Status:
 - [[Salivary glands]]
 - [[Pharynx]]
 - [[Oral Mucosa]]
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-25,12,270-->
 
 # Function
 *List 9 functions*
@@ -36,7 +36,7 @@ Status:
 - Grooming
 - Temperature regulation
 	- E.g. panting
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-24,11,270-->
 
 # Boundaries
 ~
@@ -46,4 +46,4 @@ Ventral - floor of oral cavity and tongue
 Caudal boundary - palatoglossal arches (from soft palate and root of tongue)
 Dorsal boundary - [[Hard and Soft palate]]
 ![[Pasted image 20250309125331.png]]
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-25,12,270-->

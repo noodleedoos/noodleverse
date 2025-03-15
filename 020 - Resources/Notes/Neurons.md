@@ -12,7 +12,9 @@ lecture:
 tags:
   - concept
 status: 
-Summary:
+Summary: 
+aliases:
+  - nerve cell
 ---
 # Overview
 *Describe the lifespan of neurons, how replaceable they are and why, and their metabolic rate*
@@ -21,13 +23,16 @@ Summary:
 - Irreplaceable
 - Amitotic - lose ability to divide
 - High metabolic rate
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-25,12,270-->
 
 # Structure
 ~
-- Cell body/soma - nucleus, cytoplasm
-- Dendrites - branch out from cell body
-- Axon - long extension from soma. Transmit electrical impulses away from soma
+- Cell body/soma - nucleus, cytoplasm, [[Nissl grandules]]
+- Dendrites - cytoplasmic process branch out from cell body
+- Axon - long process from soma. Transmit electrical impulses away from soma
+- [[Central Nervous System]]
+![](https://i.imgur.com/yKWWFpj.png)
+
 <!--SR:!2025-03-14,4,270-->
 
 
@@ -43,7 +48,7 @@ Summary:
 [[Interneurons]]
 
 
-Surrounded by [[Glial cells]]
+Surrounded by [[Neuroglial Cells]]
 
 # Related concepts
 [[Nerves]]

@@ -9,19 +9,20 @@ Status:
 # Structure
 ~
 - Fills left half of abdominal cavity
-- Extends across midline caudally and lesser ventrally
-- Dorsal sac in contact with upper part of left flank - palpated via rectum
+- Extends across midline caudally and a little ventrally
+- Dorsal sac in contact with upper part of left flank - palpated or [[auscultation]] via rectum
 ![](https://i.imgur.com/Re3ZXEj.png)
 
 # External features
 ~
-- Dorsal curvature: attached to sublumbar muscles on left by peritoneum and connective tissue
+- Dorsal curvature: 
 	- Spleen on dorsal aspect
 - Ventral curvature: on floor of abdomen, superficial wall of omental bursa between
-- Parietal/left surface (lateral
+- Parietal/left surface (lateral) attached to sublumbar muscles on left by peritoneum and connective tissue
 - Viceral/right surface (medial) - related to omasum, abomasum, intestines, liver. grooves that demarcate sacs
 ![](https://i.imgur.com/emONxYY.png)
 ![](https://i.imgur.com/wcxlyM8.png)
+<!--SR:!2025-03-14,1,232-->
 
 # Rumen Sacs
 ~
@@ -32,6 +33,7 @@ Status:
 - cranial sac
 - Insula ruminis (not proper sac - just indentation)
 ![](https://i.imgur.com/pxnydzW.png)
+<!--SR:!2025-03-17,4,270-->
 
 # External Grooves
 ~
@@ -56,11 +58,13 @@ Caudal pillar
 ![](https://i.imgur.com/ZQL8V3b.png)
 
 # Rumen papillae
+*What are 3 functions of it? Describe them in the different regions of the rumen.*
 ~
 Increase SA for absorption, for mixing, heating rods to speed up fermentation
 - Ventral and Dorsal blind sacs have long/numerous
 - Ventral sac - fewer, less prominent
 - Roof - short/absent (gas bubbles)
+<!--SR:!2025-03-16,3,252-->
 
 # Functions
 ~
@@ -68,6 +72,7 @@ Fermentation chamber
 Ruminal contractions to mix iingesta, microbial fermantaiton to release[[Volatile Fatty Acids]]
 Absorption of VFAs, sodium, water
 Rumination and eructation
+<!--SR:!2025-03-16,3,250-->
 
 # Rumen Gas
 ~

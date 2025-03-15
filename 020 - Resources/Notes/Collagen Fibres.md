@@ -20,4 +20,4 @@ Summary: most abundant connective tissue. nucleated, white fibrous tissue
 - White fibrous tissue
 - Mostly [[Type 1 Collagen]] variation in specialised tissue
 ![[Pasted image 20241213153720.png]]
-<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-25,12,270-->
