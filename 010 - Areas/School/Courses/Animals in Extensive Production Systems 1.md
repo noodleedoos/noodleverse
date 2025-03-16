@@ -23,9 +23,9 @@ table status FROM #lecture and [[]]
 sort file.name asc
 ```
 
-## Workshops
+## Workshops and Case Studies
 
 ```dataview
-table status FROM #workshop and [[]]
+table status FROM #workshop or #casestudy and [[]]
 sort file.name asc
 ```

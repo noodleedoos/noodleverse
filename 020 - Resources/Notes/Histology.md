@@ -21,3 +21,8 @@ Eosinophillic, stains pink with [[Eosin Stain]]
 <!--SR:!2025-03-14,4,270-->
 
 [[Histological Slide Preparation and Examination]]
+
+# Related
+[[Skin Histology]]
+[[Bone Histology]]
+[[Tendon Histology]]

@@ -6,7 +6,8 @@ tags:
   - practical
 Summary: 
 aliases: 
-Status: 🪴
+Status:
+  - 🪴
 ---
 # Intended Learning Outcomes
 - Identify and distinguish different cells and tissues in tissue sections.
@@ -28,3 +29,6 @@ Status: 🪴
 - [[Skeletal Muscle]]
 - [[Cardiac Muscle]]
 [[Nervous Tissue]]
+
+
+[[Histology]]

@@ -8,9 +8,11 @@ archive:
 ---
 ## All Units
 ```dataview
-list FROM #unit and [[]] sort file.name asc
+table status FROM #unit and [[]] sort file.name asc
 ```
-## Lectures
+
+
+# Lectures
 ```dataview
 table status FROM #lecture and [[]] sort file.name asc
 ```

@@ -3,7 +3,8 @@ up:
 tags:
   - concept
 Summary: 
-aliases: 
+aliases:
+  - Multiple Enterprises
 Status:
 ---
 # Common integrations of enterprises in Australia
@@ -14,10 +15,12 @@ Status:
 - [[Goats x sheep]]
 <!--SR:!2025-03-21,8,250-->
 
-# Reasons for integration
+# Considerations for multiple enterprises
 ~
+Fincancial risks spread to multiple outputs for more stability
 [[Grazing management]]
 [[Parasite Management]]
+Cattle and sheep cand graze dduring winter
 <!--SR:!2025-03-14,4,270-->
 
 # Less common integrations of enterprises in Australia

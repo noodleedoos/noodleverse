@@ -22,3 +22,7 @@ status:
 Behaviour is caused by the cause of an action and its consequences
 
 Contrasts: [[Classical Conditioning]]
+
+# Obedience training
+~
+![](https://i.imgur.com/iwoqnD8.png)

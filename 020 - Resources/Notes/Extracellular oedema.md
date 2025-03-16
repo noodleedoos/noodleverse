@@ -10,6 +10,10 @@ Status:
 ~
 - Accumulation in interstitial tissues or in body cavities
 
+# Types
+~
+Pitting oedema
+![Uploading file...g3dpl]()
 
 # Causes of Extracellular Oedema
 Disturbance in [[Starling's Forces]]

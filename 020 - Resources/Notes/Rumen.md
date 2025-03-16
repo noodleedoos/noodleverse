@@ -80,3 +80,10 @@ Rumen gas cap normal - left paralumbar fossa last few ribs
 Removed by eructation
 [[Ruminal tympany]]
 ![](https://i.imgur.com/A8zFv3f.png)
+
+
+# Protein Metabolism
+~
+Dietary protein and microbial protein absorbed
+Urea passes through gut wall and can be used as source of N 
+![](https://i.imgur.com/E6zYhU0.png)

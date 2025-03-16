@@ -7,4 +7,9 @@ aliases:
   - Dry Sheep Equivalent
 Status:
 ---
-Not lactating or pregantn
+# In Victoria
+~
+Wether 
+Not lactating or pregant 
+2 year old 4
+5kg 7.7MJ of ME 

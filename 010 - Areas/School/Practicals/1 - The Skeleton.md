@@ -15,7 +15,7 @@ Status:
 - Apply appropriate descriptive names for major bone features such as crests, tuberosities, processes, fossae, and foramina, required to translate the meaning of veterinary texts to the animal in front of you.
 ## Notes
 
-[[Radiographs]]
+[[Radiography]]
 [[Scapula]]
 [[Os Coxae]]
 [[Synovial joints]]

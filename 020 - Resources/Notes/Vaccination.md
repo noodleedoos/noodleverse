@@ -11,4 +11,16 @@ Status:
 ~
 more intensive operations have more vaccinations
 Treatment in different seasons/age/immunity varies efficiency
-<!--SR:!2025-03-24,11,270-->
+
+# How is it delivered?
+~
+Subcutaneous injection high on neck
+Needle size from 16-20G with 1/2 inch needle
+Autodosing vaccine administrator - pillow pack
+Most require cold chain (refrigerated), expiry date
+Give without cleaning, avoid post rainfall to avoid infection
+
+# Common Vaccinations
+~
+[[Clostridium]]
+[[Botulism]]

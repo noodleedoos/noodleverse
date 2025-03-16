@@ -5,6 +5,8 @@ course:
   - "[[Cells to Systems]]"
 tags:
   - unit
+Status:
+  - 🌳
 ---
 
 ## Related Lectures

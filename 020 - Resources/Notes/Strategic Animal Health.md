@@ -14,6 +14,6 @@ Birth time and external environment
 # Examples of Strategic Animal Health
 *Detail likely anthelmintic and vaccination protocols for livestock enterprises as part of annual management.*
 ~
-[[Lamb Docking]]
+[[Lamb Tail Docking]]
 [[SE Australia 2 summer drench program]]
 <!--SR:!2025-03-23,10,272-->

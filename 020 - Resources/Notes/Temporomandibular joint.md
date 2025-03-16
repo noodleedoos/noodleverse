@@ -25,4 +25,13 @@ carnivore - [[Temporalis Muscle]], bony processes restrict movement
 | --------- | ----------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------- |
 | Herbivore | Flat articular surfaces                   | [[Pterygoid muscle]]<br>[[Masseter Muscle]] | Lateral to medial excursions of mandibular for grinding of food between cheek teeth |
 | Carnivore | Bony processes restrict movement to hinge | [[Temporalis Muscle]]                       | Vertical force to grasp and kill                                                    |
-![[Pasted image 20250309140730.png]]<!--SR:!2025-03-13,3,250-->
+<!--SR:!2025-03-13,3,250-->
+
+
+
+What does this image show?
+![[Pasted image 20250309140730.png]]
+~
+Circles - condyloid processes of mandible (the articulating surface for TMJ)
+Power stroke - jaw closing
+The shape of the bones around the TMJ restrict movement on the left (carnivore)

@@ -12,18 +12,8 @@ aliases:
 - consistent for cattle, planning for sheep
 <!--SR:!2025-03-22,9,250-->
 
-# NLIS Tags
-*What are they? Where are they required and for what species?*
-~
-- lifetime tracking of livestock
-- Each movement updated on national database
-- eNLIS tags required for sheep in VIC
-<!--SR:!2025-03-16,7,250-->
+ [[Eartags]]
 
-## Benefits
-~
-rapid traceback if exotic disease identified
-<!--SR:!2025-03-24,11,288-->
 
 # Regulatory Systems for Product Safety Compliance
 *What are two regulatory systems for product safety compliance?*

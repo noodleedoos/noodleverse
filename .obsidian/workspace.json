@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d85c8cae7234ff6b",
+        "id": "19e17e90b777c7d3",
         "type": "tabs",
         "children": [
           {
-            "id": "b2e538f7652bcb54",
+            "id": "c8f288fa72e57ddd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Areas/School/Lectures/3.10 - Role of blood and blood cells in homeostasis.md",
+                "file": "020 - Resources/Notes/Tendon Histology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3.10 - Role of blood and blood cells in homeostasis"
-            }
-          },
-          {
-            "id": "243a79cef8314d9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "020 - Resources/Notes/Leukocytes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Leukocytes"
+              "title": "Tendon Histology"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -322,34 +297,34 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "243a79cef8314d9d",
+  "active": "c8f288fa72e57ddd",
   "lastOpenFiles": [
-    "020 - Resources/Notes/Blood cells.md",
-    "010 - Areas/School/Lectures/3.10 - Role of blood and blood cells in homeostasis.md",
-    "020 - Resources/Notes/Leukocytes.md",
-    "020 - Resources/Notes/Lymphocytes.md",
-    "020 - Resources/Notes/Monocytes.md",
-    "020 - Resources/Notes/Basophils.md",
-    "020 - Resources/Notes/Eosinophils.md",
-    "020 - Resources/Notes/Neutrophils.md",
-    "020 - Resources/Notes/Mast Cells.md",
-    "020 - Resources/Notes/Plasma Cell.md",
-    "020 - Resources/Notes/Neoplasia.md",
-    "020 - Resources/Notes/Dendritic Cells.md",
-    "020 - Resources/Notes/T Cells.md",
-    "020 - Resources/Notes/Helper T Cells.md",
-    "020 - Resources/Notes/Antigen Presenting Cells.md",
-    "020 - Resources/Notes/Macrophage.md",
-    "020 - Resources/Notes/cytokines.md",
-    "020 - Resources/Notes/Granulocytes.md",
-    "020 - Resources/Notes/Hydrolytic enzymes.md",
-    "020 - Resources/Notes/Chemotacic factors.md",
-    "020 - Resources/Notes/Polymorphonuclear.md",
-    "020 - Resources/Notes/Platelets.md",
-    "020 - Resources/Notes/Coagulation.md",
-    "020 - Resources/Notes/aggregation.md",
-    "020 - Resources/Notes/Haemopoietic Stem Cells.md",
-    "020 - Resources/Notes/Red Blood cells.md",
+    "020 - Resources/Notes/Histology.md",
+    "020 - Resources/Notes/Tendon Histology.md",
+    "020 - Resources/Notes/Bone Histology.md",
+    "020 - Resources/Notes/Skin Histology.md",
+    "010 - Areas/School/Practicals/2 - Microscopic Anatomy.md",
+    "010 - Areas/School/Courses/Cells to Systems.md",
+    "010 - Areas/Doctor of Veterinary Medicine.md",
+    "010 - Areas/School/Courses/Introduction to the Veterinary Profession.md",
+    "010 - Areas/School/Lectures/02.03 - Safety on Extramural Placements and Farms.md",
+    "000 - Navigation/Home.md",
+    "010 - Areas/School/Assignments/LAST ONE!!.md",
+    "010 - Areas/Diploma of Counselling.md",
+    "010 - Areas/School/Lectures/04.12 - Endocrine System and Signalling Pathways - Signal Transduction and Second Messengers.md",
+    "010 - Areas/School/Units/04. Chemical and Electrical Communication.md",
+    "010 - Areas/School/Units/03. Cell Structure and Transport of Molecules around the Body.md",
+    "010 - Areas/School/Lectures/04.11 - Principles of Cell Communication.md",
+    "010 - Areas/School/Lectures/03.10 - Role of blood and blood cells in homeostasis.md",
+    "010 - Areas/School/Lectures/03.09 - Transport across membranes.md",
+    "010 - Areas/School/Units/02. Cell Types and Tissues.md",
+    "010 - Areas/School/Lectures/03.08 - Transport of Molecules around the Body.md",
+    "010 - Areas/School/Lectures/02.07 - Muscle and Nervous Tissue.md",
+    "010 - Areas/School/Lectures/02.06 - Epithelium.md",
+    "010 - Areas/School/Units/01 - Homeostasis, skeleton and body plan.md",
+    "010 - Areas/School/Lectures/02.05 - Connective Tissue.md",
+    "010 - Areas/School/Sections/DVM1.md",
+    "010 - Areas/School/Courses/Animals in Extensive Production Systems 1.md",
     "020 - Resources/Attachments/Pasted image 20250311160044.png",
     "020 - Resources/Attachments/Pasted image 20250309141232.png",
     "020 - Resources/Attachments/Screenshot 2025-03-03 at 5.01.37 pm.png",

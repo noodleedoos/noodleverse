@@ -13,8 +13,9 @@ Diseases not present in Australia
 
 # Examples
 ~
-[[Foot and Mouth Disease]]
+[[Foot and Mouth Disease]] - lameness but sometimes no signs in sheep. Vesicles more common in cattle and pigs
 [[Bovine Spongiform Encephalopathy]]
+[[Maedi Visna]] - pneumonia, wasting. we have a caprine version in Australia (CAE)
 <!--SR:!2025-03-14,3,250-->
 
 # How to limit disease regarding extensive production

@@ -9,7 +9,7 @@ archive:
 ---
 ## Lectures
 ```dataview
-table Status FROM #lecture and [[]]
+table Status FROM #lecture and [[]] sort file.name asc
 ```
 
 ## Practicals

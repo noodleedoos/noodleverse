@@ -13,7 +13,7 @@ Refers to regulations like stock movement
 # Role of veterinarians in the government
 ~
 - District veterinary officer working with animal health officers, over seen by regional distract, then chief veterinary officer CVO
-- [[2.5 - Biosecurity and the Role of Veterinarians]]
+- [[02.05 - Biosecurity and the Role of Veterinarians]]
 <!--SR:!2025-03-14,4,270-->
 
 # Related Concepts

@@ -15,11 +15,11 @@ table Status FROM #unit and [[]]
 
 # Lectures
 ```dataview
-table Status FROM #lecture and [[]]
+table Status FROM #lecture and [[]] sort file.name asc
 ```
 
 # Workshops
 ``` dataview
-table from #workshop and [[]] sort file.name asc
+table status from #workshop and [[]] sort file.name asc
 ```
 ## Notes 

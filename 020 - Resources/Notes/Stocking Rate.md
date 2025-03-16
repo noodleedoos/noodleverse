@@ -16,11 +16,7 @@ How many animals you can have on your farm
 ~
 - SR = 1.3(R-250)/25
 - 1.3 times the yearly rainfall in mm minus 250, divided by 25
-<!--SR:!2025-03-14,4,270-->
-
 1.3 x (650 - 250) / 25 = 20.8 [[DSE]]/ha
-<!--SR:!2025-03-11,1,230-->
-
 1. Determine size of farm
 2. Determine Stocking rate
 3. Determine how many specific animals it can manage

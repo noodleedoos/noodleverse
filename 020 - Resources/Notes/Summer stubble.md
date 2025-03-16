@@ -3,7 +3,9 @@ up:
 tags:
   - concept
 Summary: 
-aliases: 
+aliases:
+  - Stubble
+  - straw
 Status:
 ---
 # Definition

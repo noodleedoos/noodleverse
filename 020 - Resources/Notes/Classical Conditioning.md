@@ -17,3 +17,9 @@ status:
 ---
 ## Principle
 Stimuli and responses
+
+# Managing Emotional Response
+~
+Involves amygdala, autonomic response (adrenaline, pupil size, salivation, heart rate
+Modify behaviours with [[Desensitisation]] and [[Counter-Conditioning]]
+![](https://i.imgur.com/J5S6jxv.png)

@@ -6,6 +6,10 @@ Summary:
 aliases: 
 Status:
 ---
+# Definition
+~
+Removing young from dam
+Removing milk source
 # Considerations
 ~
 - if animal can consume and maintain itself on the diet

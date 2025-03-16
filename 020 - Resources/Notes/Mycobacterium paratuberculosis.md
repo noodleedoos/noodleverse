@@ -4,7 +4,7 @@ tags:
   - concept
 Summary: 
 aliases:
-  - John's Disease
+  - Johne's Disease
 Status:
 ---
 # Definition
