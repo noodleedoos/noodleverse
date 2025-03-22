@@ -11,7 +11,7 @@ Status:
 # Function
 ~
 - Mediate allergic response
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-03-31,11,270-->
 
 # Types
 ~

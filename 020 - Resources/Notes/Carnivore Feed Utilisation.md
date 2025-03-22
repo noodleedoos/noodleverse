@@ -1,5 +1,6 @@
 ---
-up: 
+up:
+  - "[[Carnivores]]"
 tags:
   - concept
 Summary: 

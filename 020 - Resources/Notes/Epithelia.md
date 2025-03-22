@@ -41,9 +41,8 @@ Can regenerate, avascular, polarized
 
 
 # Classification based on
-~
 Cell layers and shape
-<!--SR:!2025-03-14,4,276-->
+<!--SR:!2025-04-01,14,296-->
 
 
 ## Cell layers
@@ -84,4 +83,4 @@ Epithelial cells have three distinct surfaces
 9. Apical (or free) surface
 ![[Screenshot 2025-03-08 at 8.26.00 pm.png]]
 [[Lateral and Basal surface modifications]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-02,15,290-->

@@ -15,4 +15,4 @@ Status:
 ~
 - Energy, storage, insulation, protection
 - Coalesce in cytoplasm to form fat droplet - no immature in adult animal
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-03,16,290-->

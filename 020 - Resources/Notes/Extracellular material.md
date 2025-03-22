@@ -15,5 +15,5 @@ aliases:
 
 | Type                                       | Subtype                                                                                                          | Example |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------- |
-| Amorphous (shapeless) [[ground substance]] | Fluid - [[plasma]] in [[Blood]], [[Lymph]]<br>Jelly-like - [[Vitreous Humor]]<br>Solid - [[Cartilage]], [[Bone]] |         |
+| Amorphous (shapeless) [[Ground Substance]] | Fluid - [[Plasma]] in [[Blood]], [[Lymph]]<br>Jelly-like - [[Vitreous Humor]]<br>Solid - [[Cartilage]], [[Bone]] |         |
 | Fibrous                                    | [[Collagen Fibres]], [[Reticular Fibre]], [[Elastic fibres]]                                                     |         |

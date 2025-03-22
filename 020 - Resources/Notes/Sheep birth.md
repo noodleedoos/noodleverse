@@ -11,5 +11,5 @@ aliases:
 1. Oxytocin causes uterine contractions
 2. Uterine contractions causes lamb to push against cervix
 3. Stretching of cervix causes nerve impulses to brain to release more oxytocin
-![[Pasted image 20241212171925.png]]
+![](https://i.imgur.com/oKxtglq.png)
 <!--SR:!2025-03-23,10,270-->

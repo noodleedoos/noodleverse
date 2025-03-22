@@ -10,7 +10,7 @@ Status:
 ~
 Genioglossus from chin, styloglossus, hyoglossus from hyoid
 ![](https://i.imgur.com/4cF5XKK.png)
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-02,15,292-->
 
 
 # Function

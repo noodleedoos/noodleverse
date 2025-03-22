@@ -34,7 +34,7 @@ status:
 - Report breaches of rights
 - Follow organisational policies/procedures
 - Work within boundaries of job description
-- Comply with [[duty of care]]
+- Comply with [[Duty of care]]
 - Work within level of training
 - Maintain busness confidentiality and personal information privacy
 - Willingness to learn and train in new skills

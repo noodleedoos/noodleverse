@@ -10,7 +10,7 @@ Status:
 *What cavities do the cheeks form? What are the layers and any associated muscles??*
 ~
 - Forms the walls of the oral cavity caudal to lips and together with the lips form the vestibule
-- Layers as of [[lips]] (oral mucosa, submucosa, muscle),
+- Layers as of [[Lips]] (oral mucosa, submucosa, muscle),
 1. Muscular tunic formed by buccinator muscle
 	- Herringbone arrangement of the muscle fibres
 	- Contract to shorten and squeeze the vestibule closed

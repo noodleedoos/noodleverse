@@ -9,7 +9,7 @@ aliases:
 # Types of Peritoneum
 ~
 ![[Screenshot 2025-03-03 at 11.07.58 am.png]]
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-05,16,292-->
 
 ## Parietal peritoneum
 ~
@@ -44,4 +44,4 @@ lubrication, immunity.
 *How is peritoneal fluid* returned to the vascular system?
 ~
 Lymphatics
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-02,15,290-->

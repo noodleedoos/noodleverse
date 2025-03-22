@@ -19,7 +19,7 @@ Systems with structures in every region MIN
 # Localised Systems
 ~
 Systems confined to certain regions
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-02,15,290-->
 
 | System                   | Region                              |
 | ------------------------ | ----------------------------------- |

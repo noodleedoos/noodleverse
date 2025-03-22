@@ -38,14 +38,14 @@ Food  - from [[[Oropharynx]] to [[Laryngopharynx]] to [[Oesophagus]]
 | Function | Passage                                                 |
 | -------- | ------------------------------------------------------- |
 | Air      | From naasopharynx to larynx to trachea                  |
-| Food     | From [[oropharynx]] to [[laryngopharynx]] to oesophagus |
+| Food     | From [[Oropharynx]] to [[Laryngopharynx]] to oesophagus |
 
 
 # Pharyngeal Muscles
 *What are the functions of the 3 pharyngeal muscles?*
 ~
 Dilators, shorteners, constrictors
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-03,16,290-->
 
 | "Name"      | Structure                                                                                                                                                                          | Function                                                                   |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |

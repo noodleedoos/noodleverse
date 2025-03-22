@@ -12,7 +12,7 @@ Status:
 - Malocclusion
 - Filing/trimming
 - Dietary, environment and behavioural causes
-<!--SR:!2025-03-17,5,248-->
+<!--SR:!2025-03-31,13,248-->
 
 # Dog Teeth aging
 *What happens to specific dog teeth as they age?*
@@ -32,7 +32,7 @@ Status:
 7. Angle of incisors
 8. Hook on upper incisor (irrelevant - not associated with any age)
 9. Galvayne's groove (groove in labial surface of upper corner incisor, now uselesss)
-<!--SR:!2025-03-15,2,228-->
+<!--SR:!2025-03-25,5,228-->
 
 *Changes to horse incisors over time*
 ~

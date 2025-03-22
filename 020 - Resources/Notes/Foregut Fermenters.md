@@ -29,3 +29,8 @@ Rechewed food multiple times
 Acetic, butyric, and propionic acid absorbed across rumen
 Microbial and plant based proteins
 
+
+# # Benefits of Foregut Fermentation in comparison to Hindgut
+- In hindgut, Cellulose not fermented until after passing through stomach and small intestine
+- Absorption of products from cellulose fermentation is less efficient in colon, so more nutrients are lost in feces
+

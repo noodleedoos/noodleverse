@@ -9,7 +9,7 @@ Status:
 # Innervation
 ~
 [[Cranial Nerve XII]]
-<!--SR:!2025-03-14,3,250-->
+<!--SR:!2025-03-22,2,230-->
 
 # Function
 ~

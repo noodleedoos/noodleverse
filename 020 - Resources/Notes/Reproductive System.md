@@ -15,7 +15,7 @@ aliases:
 - pelvis
 - on body surface
 ![[Screenshot 2025-03-03 at 4.12.31 pm.png]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-02,15,290-->
 
 
 ## Structure of Female Reproductive System

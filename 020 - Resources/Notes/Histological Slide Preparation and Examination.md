@@ -19,8 +19,8 @@ aliases:
 6. Dry on warmer
 7. Stain with [[haemotoxylin]] and [[Eosin Stain]]
 8. Coverslip
-![[Pasted image 20241213133935.png]]
-<!--SR:!2025-03-20,7,252-->
+![](https://i.imgur.com/zn3TxiU.png)
+<!--SR:!2025-04-07,18,252-->
 
 # Examination Considerations
 ~
@@ -35,8 +35,7 @@ aliases:
 - folds in sections
 - Air bubbles in mounting medium
 - shrinkage of tissue
-![[Pasted image 20241213134044.png]]
-# Terminology
+![](https://i.imgur.com/b7OZgxG.png)
 <!--SR:!2025-03-17,4,274-->
 
 ## Staining Characteristics of H&E

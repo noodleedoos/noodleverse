@@ -9,7 +9,7 @@ Status:
 # Definition
 ~
 Period of time males are in the paddock with females, is conducted expressed as number of cycles or number of weeks, commonly 2-3 cycles as dependent on [[Oestrus Cycle Length and Patterns]] or 2 cycles for [[Artificial Insemination]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-06,16,290-->
 
 # Examples
 e.g joining period of 2 cycles for beef cattle will be
@@ -20,7 +20,7 @@ e.g joining period of 2 cycles for beef cattle will be
 e.g. joining period of 3 cycles for sheep will be
 ~
 7-8 weeks as each cycle is 17 days
-<!--SR:!2025-03-14,3,252-->
+<!--SR:!2025-03-27,8,252-->
 
 # Heat detection
 *Describe the use of heat detection in natural mating vs supervised/AI mating for cattle, small ruminants, alpaca and deet*

@@ -50,7 +50,7 @@ Mucocutaneous Junction:
 ~
 [[Orbicularis oris]], [[Levator nasolabialis]], [[Caninus]], [[Levator labii superioris and inferioris]] all innervated by [[[Cranial Nerve VII]]
 ![](https://i.imgur.com/Jdfl1Ci.png)
-<!--SR:!2025-03-17,4,272-->
+<!--SR:!2025-04-02,15,292-->
 
 
 ## Summary Table

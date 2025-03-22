@@ -10,7 +10,7 @@ aliases:
 # Alias
 ~
 Gullet
-<!--SR:!2025-03-16,3,266-->
+<!--SR:!2025-03-29,11,286-->
 
 # Function
 ~
@@ -25,7 +25,7 @@ Simple musclular tube from cricoid cartilage of larynx to cardia of stomach
 1. [[Cervical Oesophagus]]
 2. [[Thoracic Oesophagus]]
 3. [[Abdominal Oesophagus]]
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-03-21,3,250-->
 
 ## Layers
 ~
@@ -49,13 +49,14 @@ inner to outer
 # Innervation
 ~
 - Branches of vagus and [[Sympathetic Nerves]]
-<!--SR:!2025-03-15,2,249-->
+<!--SR:!2025-03-23,5,249-->
 
 # Species variation
 ## Birds
+*Where is the oesophagus located?*
 ~
 Oesophagus in right side of neck in cervical region
 [[Crop]] - saccular diverticulum of oesophagus cranial to thoracic inlet
 ![](https://i.imgur.com/lr9B3mS.png)
 ![](https://i.imgur.com/f2F2NzW.png)
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-03-20,2,230-->

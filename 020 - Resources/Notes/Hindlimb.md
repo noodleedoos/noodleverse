@@ -10,7 +10,7 @@ aliases:
 *What is the pelvic girdle made of?*
 ~
 - left and right hip bones aka os coxae, including the illium, ischium, pubis and acetabulum which contains the acetabular bone
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-01,14,290-->
 
 *What does the tarsus region contain?*
 ~

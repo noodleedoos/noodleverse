@@ -56,8 +56,9 @@ Low papillae
 
 # Species Variation
 ~
+relatively bigger in sheep than cows
 - 5% total stomach capacity in ox, 7-8% in sheep
-<!--SR:!2025-03-14,1,226-->
+<!--SR:!2025-03-20,2,226-->
 
 # Function
 ~

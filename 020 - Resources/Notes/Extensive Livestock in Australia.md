@@ -17,7 +17,7 @@ aliases:
 
 # Tropical vs Temperate, Pasture Types, Seasonality and Climate Change
 [[Climate in Australia]]
-[[Pasture Types]]
+[[Pastures]]
 [[Length of Growing Season]]
 [[Impacts of Climate Change on Agriculture]]
 [[Extensive Livestock in Australia]]

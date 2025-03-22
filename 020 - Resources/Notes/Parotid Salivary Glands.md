@@ -33,6 +33,6 @@ Duct from lateral surface of masseter to opening in vestibule adjacent to upper 
 Duct medial to ventral border of mandible, crosses ventral border of mandible laterally, enters vestibule adjacent to upper P4
 ![](https://i.imgur.com/UkSfbWP.png)
 ![](https://i.imgur.com/pQ7NgBU.png)
-<!--SR:!2025-03-14,1,232-->
+<!--SR:!2025-03-21,3,252-->
 
 

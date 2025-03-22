@@ -24,13 +24,13 @@ Status:
 - 10-14hrs resting/ruminating
 - Time budget driven by milking for dairy cows
 - Behavioural synchronisation
-<!--SR:!2025-03-14,4,274-->
+<!--SR:!2025-04-02,15,294-->
 
 # Sensing
 *How do cattle sense the world?*
 ~
 - Wide field of vision, ears rotate to sound
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-03-28,10,272-->
 
 ## Social communication
 *How do cows communicate with us and each other?*
@@ -40,7 +40,7 @@ Status:
 - Ear, head, tail, body position
 - Pheromones
 - Facial expression easy for humans to detect - Look for wrinkling under eye, white eye, droopy ears
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-03,16,290-->
 
 # Aggression
 *How do cattle show aggression normally? How do they react to a threat?*

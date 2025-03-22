@@ -12,7 +12,7 @@ What are groups of horses called and what are they made of? What behaviour do th
 Herds with subgroups called bands, with mares/offspring, 1-2 stallions
 Males in bachelor bands
 Mutual grooming
-<!--SR:!2025-03-14,3,250-->
+<!--SR:!2025-03-30,12,270-->
 
 # Grazing Behaviour
 *What do horses do throughout their day?*
@@ -45,7 +45,7 @@ At least 1 companion
 ~
 Stomach ulcers - not allowed to graze
 Stereotypic behaviour
-<!--SR:!2025-03-17,5,248-->
+<!--SR:!2025-04-04,17,268-->
 
 ## Stereotypic behaviour
 ~
@@ -104,7 +104,7 @@ Related to eating and moving - unfulfiled motivation for grazing and locomotion
 - In sight of paddock - separation anxiety
 - Use cross-ties, sedation, treats, companion animal for support
 - Make sure owner is present
-<!--SR:!2025-03-16,3,260-->
+<!--SR:!2025-03-30,12,280-->
 
 # Horse Body Language
 <!--SR:!2025-03-14,3,269-->
@@ -127,13 +127,13 @@ Related to eating and moving - unfulfiled motivation for grazing and locomotion
 - Relaxed eyes, lips and tail
 - Ears forward
 ![](https://i.imgur.com/jXNfmtY.png)
-<!--SR:!2025-03-20,7,269-->
+<!--SR:!2025-04-14,25,289-->
 
 ## Tail
 *What does it mean if tail is swishing?*
 ~
 Swishing - For the flies if not being ridden, might be injured/uncomfortable, or annoyed
-<!--SR:!2025-03-20,7,269-->
+<!--SR:!2025-04-15,26,289-->
 
 # Treating a Horse
 

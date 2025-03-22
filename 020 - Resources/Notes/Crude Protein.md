@@ -6,9 +6,11 @@ Summary:
 aliases: 
 Status:
 ---
-# Definition
+# Definition, importance and benefits
 ~
 Protein content 
+Second most important measure after energy, particularly for young/lactating
+Allows maximisation of intake
 
 # Types
 ~

@@ -11,7 +11,7 @@ Status:
 ~
 Angle of jaw, duct at sublingual caruncle
 ![](https://i.imgur.com/FStNibB.png)
-<!--SR:!2025-03-15,2,245-->
+<!--SR:!2025-03-19,1,225-->
 
 
 # Characteristics
@@ -23,7 +23,7 @@ Angle of jaw, duct at sublingual caruncle
 ~
 Produces serous and mucous secretions ([[Mixed Glands]])
 ![](https://i.imgur.com/haDsxM8.png)
-<!--SR:!2025-03-16,3,265-->
+<!--SR:!2025-03-29,11,285-->
 
 
 # Species variation

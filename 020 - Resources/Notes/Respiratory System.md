@@ -12,7 +12,7 @@ aliases:
 ## Structures and Location
 ~
 Head (nasal passages), neck, trachea, lungs thorax regions
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-03,16,290-->
 
 
 ![[Screenshot 2025-03-03 at 4.07.45 pm.png]]

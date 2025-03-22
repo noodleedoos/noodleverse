@@ -21,6 +21,6 @@ status:
 - [[Flooding]]
 
 ## Ethical Issues
-- potential [[trauma]] of confronting [[Phobias]]
+- potential [[Trauma]] of confronting [[Phobias]]
 
 [What is Exposure Therapy? PTSD, Anxiety, OCD - YouTube](https://youtu.be/mlJy85EQrCI) #processthis 

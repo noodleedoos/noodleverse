@@ -30,7 +30,7 @@ Abdomen
 
 # Difference in appearance on RLR vs LLR view
 ~
-Gastric gas to uppermost part of [[stomach]]
+Gastric gas to uppermost part of [[Stomach]]
 RLR - gastric gas in [[fundus]]
 LLR view - gastric gas in [[pylorus]]
 ![](https://i.imgur.com/E76Ecfc.png)

@@ -14,7 +14,7 @@ tags:
   - concept
 status:
 ---
-[[ego]] distorted to protect self from [[Anxiety]] or negative feelings from [[Id]] impulses
+[[Ego]] distorted to protect self from [[Anxiety]] or negative feelings from [[Id]] impulses
 
 ## Could be Negative
 [[Denial]]

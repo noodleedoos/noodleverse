@@ -19,7 +19,7 @@ Migrated to the tissue
 *List 4 functions of macrophages*
 ~
 - Phagocytosis of microorganisms and dead tissue
-- Produces[[ lysosomal proteases]], [[cytokines]], [[prostaglandins]]
+- Produces[[ lysosomal proteases]], [[cytokines]], [[pProstaglandins]]
 - Wound healing and muscle regeneration
 - Immune function
 - Clear dead/dying tissue
@@ -29,9 +29,8 @@ Migrated to the tissue
 
 # Origin
 *What are macrophages derived from?*
-~
-- Derived from blood monocytes
-<!--SR:!2025-03-14,3,252-->
+- monoblast -> promonocyte -> monocyte
+<!--SR:!2025-03-30,12,272-->
 
 
 

@@ -10,7 +10,7 @@ Status:
 *When does lamb docking occur and what else happens*
 ~
 2 weeks post lambing finishing (old enough to be yarded) or 2-7 weeks old, vary with mustering (rounding up stock), at which point also [[Castration]], [[Tagging]], [[Vaccination]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-03,16,290-->
 
 
 # How

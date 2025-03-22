@@ -10,6 +10,9 @@ Status:
 *What shape? How is it oriented?*
 ~
 J shaped, large, fundus on left, pylorus on right
+![](https://i.imgur.com/jYlExLd.png)
+![](https://i.imgur.com/0zSU6ui.png)
+
 ![](https://i.imgur.com/9XnLeW6.png)
 <!--SR:!2025-03-14,1,230-->
 
@@ -28,4 +31,4 @@ Smaller Fundus region
 - dorsal blind ending diverticulum
 ![](https://i.imgur.com/XipM6RS.png)
 ![](https://i.imgur.com/2CxeV5E.png)
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-03-21,3,250-->

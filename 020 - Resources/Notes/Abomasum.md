@@ -10,10 +10,13 @@ Status:
 ~
 Abdominal floor between ventral sac of rumen and reticulum
 Caudal end flexed around lower pole of omasum
+![](https://i.imgur.com/20C4l8G.png)
+![](https://i.imgur.com/aPmRHRH.png)
 <!--SR:!2025-03-14,1,227-->
 
 
-# Abomasum position variations due to
+# Abomasum position 
+*5 reasons for variation*
 ~
 1. Age
 2. Pregnancy
@@ -22,13 +25,13 @@ Caudal end flexed around lower pole of omasum
 5. Contractions of rumen/reticulum (abomasum is attached to it)
 Prone to dorso-lateral displacement
 ![](https://i.imgur.com/aPmRHRH.png)
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-03-20,2,230-->
 
 
 # Illness
 ~
 [[Abomasal displacement]] - left or right
-<!--SR:!2025-03-16,3,266-->
+<!--SR:!2025-03-28,10,286-->
 
 # External Features
 ~

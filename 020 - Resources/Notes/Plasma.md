@@ -24,7 +24,7 @@ WIPNEWD
 # Plasma collection tubes
 ~
 - [[Heparin]]
-- [[EDTA]]
+- [[EDTA]], EDTA preferred for examining leukocyte morphology
 ![](https://i.imgur.com/jUuNFf0.png)
 
 # Serum collection tubes 

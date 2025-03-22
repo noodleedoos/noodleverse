@@ -28,20 +28,20 @@ When referring to lingual teeth in the upper arcade
 ~
 Only in carnivore teeth, not in herbivorous buccal teeth
 ![[Screenshot 2025-03-03 at 4.51.32 pm.png]]
-<!--SR:!2025-03-14,4,283-->
+<!--SR:!2025-04-04,17,303-->
 
 # Tooth Types
 ~
 [[Brachydont Teeth]], [[Hypsodont Teeth]]
 ![[Screenshot 2025-03-03 at 4.53.59 pm.png]]
-<!--SR:!2025-03-14,4,281-->
+<!--SR:!2025-04-04,17,301-->
 
 Teeth of the upper and lower arcade
 ~
 [[Incisors]]
 [[Canines]]
 [[Premolars and Molars]]
-<!--SR:!2025-03-14,4,277-->
+<!--SR:!2025-04-05,16,297-->
 
 
 # Structures
@@ -51,7 +51,7 @@ Teeth of the upper and lower arcade
 Enamel - ameloblasts
 Dentine - odontoblasts
 Cementum - cementoblasts
-<!--SR:!2025-03-14,4,284-->
+<!--SR:!2025-03-29,11,284-->
 
 
 | Structure                | Formation                                                         | Function                             | Description                                                                                                                                                                                                                                                                               |
@@ -76,7 +76,7 @@ Cementum - cementoblasts
 ~
 mammals with one set of dentition
 e.g. rodents
-<!--SR:!2025-03-14,4,279-->
+<!--SR:!2025-04-04,17,299-->
 
 ### Diphydont
 ~

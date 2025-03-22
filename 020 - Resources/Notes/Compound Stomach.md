@@ -24,7 +24,7 @@ Status: 🌱
 - [[Abomasum]]
 - [[Gastric groove]]
 ![](https://i.imgur.com/JB1PUb7.png)
-<!--SR:!2025-03-16,3,250-->
+<!--SR:!2025-03-30,12,270-->
 
 
 

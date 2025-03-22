@@ -10,7 +10,7 @@ aliases:
 *Where are plasma cells derived from?*
 ~
 - [[B Lymphocyte]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-03-22,2,250-->
 
 
 # Histology

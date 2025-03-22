@@ -13,7 +13,7 @@ Rest closely together, disperse for grazing
 find bedding ground
 When scared, bunch together
 Weakest sheep to middle of herd
-<!--SR:!2025-03-17,5,248-->
+<!--SR:!2025-04-05,18,268-->
 
 # Grazing behaviour
 *Describe when and how much sheep graze*
@@ -30,7 +30,7 @@ Threat - stomping, lowered head, rush
 Submission - head shake
 WIll vocalise if alone
 Hierarchy when competing for resources
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-03-30,12,270-->
 
 # Handling Sheep
 *What increases the stress of sheep? How should you move them?*

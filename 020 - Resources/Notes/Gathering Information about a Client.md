@@ -50,7 +50,7 @@ Status:
 # Physical Examination
 *8 Common areas*
 ~
-- [[Body Condition]]
+- [[Body and Fat Condition Score]]
 - Mentation/demeanour
 - Rectal Temperature
 - Auscultation

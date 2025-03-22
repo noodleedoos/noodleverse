@@ -19,4 +19,4 @@ aliases:
 ## Examples
 
 [[Thermoregulation]]
-[[Regulation of Thyroid Hormone]]
+[[Thyroid Hormones]]

@@ -18,7 +18,7 @@ Use: so animals can wander, evenly distributed grazing
 ~
 Because of extreme weather events like drought, it can reduces amount of irrigation able, although there are dams it becomes hard to share water i.e. environmental or crops
 Varying rainfall between years means that a right to water does not mean availability.
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-01,14,290-->
 
 # Related Concepts
 [[Murray Darling Basin]]

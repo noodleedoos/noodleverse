@@ -36,7 +36,7 @@ females only receptive to males during heat
 presence of male
 <!--SR:!2025-03-14,4,270-->
 
-# Factors reducing amount of females coming into oestrus
+# 2 Factors reducing amount of females coming into oestrus
 ~
 Low condition score, low feed consumption
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-03-30,10,272-->

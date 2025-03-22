@@ -35,7 +35,7 @@ Property
 Seeds, viruses and bacteria carried between farms
 Consider footwear and machinery washing
 [[Livestock Import Protocol]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-02,15,290-->
 
 # Biosecurity for Vets
 *How is it relevant*

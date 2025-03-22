@@ -5,10 +5,12 @@ tags:
 Summary: 
 aliases:
   - Stubble
-  - straw
+  - Straw
 Status:
 ---
-# Definition
+# Definition and when is it used?
 ~
 Crop residue post grain harvest that can be grazed
+Low energy, protein high fibre
+useful in drought, as bedding or with [[Grain]]
 <!--SR:!2025-03-14,4,270-->

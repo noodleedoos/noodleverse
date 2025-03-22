@@ -8,7 +8,7 @@ Status:
 ---
 # Management procedures
 ~
-[[Condition and Fat Score]]
+[[Body and Fat Condition Score]]
 [[Drenching]], [[External Parasite Management]]
 [[Branding]]
 [[Ageing stock]]

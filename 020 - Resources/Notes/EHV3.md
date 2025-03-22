@@ -10,7 +10,7 @@ Status:
 # Signs
 ~
 vesicles, pustules, ulcers on genitalia
-<!--SR:!2025-03-14,3,250-->
+<!--SR:!2025-03-29,11,270-->
 
 # EHV1 signs
 ~

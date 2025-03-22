@@ -14,6 +14,5 @@ aliases:
 - lined with simple columnar [[Epithelial Tissue]]
 - walls contain [[Smooth Muscle Tissue]] for contraction, and [[Nervous Tissue]] for frequency of contraction
 - Tissues bound together by connective tissues
-<!--SR:!2025-03-14,2,210-->
-
-![[Pasted image 20241209162041.png]]
+![](https://i.imgur.com/RzWxqlT.png)
+<!--SR:!2025-03-22,4,210-->

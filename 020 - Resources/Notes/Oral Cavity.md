@@ -40,7 +40,7 @@ Status:
 
 # Boundaries
 ~
-Rostral - [[lips]]
+Rostral - [[Lips]]
 Lateral - cheeks
 Ventral - floor of oral cavity and tongue
 Caudal boundary - palatoglossal arches (from soft palate and root of tongue)

@@ -23,7 +23,7 @@ aliases:
 1. [[Mouth]]
 2. [[Pharynx]]
 3. [[Alimentary Canal]]
-<!--SR:!2025-03-15,2,237-->
+<!--SR:!2025-03-25,7,257-->
 
 ### Parts found within:
 *6 places*
@@ -35,7 +35,7 @@ aliases:
 - Abdomen
 - Pelvis
 ![[Screenshot 2025-03-03 at 4.10.35 pm.png]]
-<!--SR:!2025-03-14,4,274-->
+<!--SR:!2025-03-31,11,274-->
 
 
 ### Related Organs

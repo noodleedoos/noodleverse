@@ -10,3 +10,8 @@ Status:
 ~
 [[Macrominerals]]
 [[Microminerals]]
+
+# Issues if not met properly
+~
+[[Hypocalcemia]]
+[[Grass tetany]]

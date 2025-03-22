@@ -11,7 +11,7 @@ Where are they found? What is the taste pore?
 ~
 - Cluster of specialised cells embedded in the epithelium of [[Gustatory Papillae]]
 - The Taste Pore: A small opening at the epithelium surface
-<!--SR:!2025-03-14,3,252-->
+<!--SR:!2025-03-31,12,272-->
 
 
 ## Innervation

@@ -22,7 +22,7 @@ e.g. Australia/NZ
 # Exchange rate Challenges
 ~
 - FOREX markets change minute by minute
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-02,15,290-->
 
 # Related Concepts
 [[Hedging]]

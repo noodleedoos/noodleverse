@@ -36,7 +36,7 @@ tags:
 ~
 - Cropping and sheep on west side - less rainfall
 - Beef cattle and sheep on east side - more rainfall
-<!--SR:!2025-03-15,3,230-->
+<!--SR:!2025-03-27,10,250-->
 
 *What enterprise are you more likely to find at Echuca and why?*
 ~

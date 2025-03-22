@@ -15,4 +15,4 @@ Fertiliser Use
 (Related: [[Agricultural Land]])
 <!--SR:!2025-03-24,11,270-->
 
-see: [[hedging]]
+see: [[Hedging]]

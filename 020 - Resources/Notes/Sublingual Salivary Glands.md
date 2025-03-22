@@ -16,7 +16,7 @@ Monostomatic (single duct) and polystomatic (multiple ducts) parts in most speci
 # Function
 ~
 Produces mixture of serous and mucous secretions
-<!--SR:!2025-03-14,1,228-->
+<!--SR:!2025-03-23,3,248-->
 
 # Location
 ~

@@ -33,7 +33,7 @@ Status:
 - cranial sac
 - Insula ruminis (not proper sac - just indentation)
 ![](https://i.imgur.com/pxnydzW.png)
-<!--SR:!2025-03-17,4,270-->
+<!--SR:!2025-04-01,14,290-->
 
 # External Grooves
 ~

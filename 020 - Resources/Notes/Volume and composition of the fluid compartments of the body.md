@@ -9,7 +9,7 @@ Status:
 # Total Body Water 
 ~
 1/3 [[Extracellular Fluid]]
-- 1/4 [[plasma]]
+- 1/4 [[Plasma]]
 - 3/4 [[Interstitial Fluid]] - no protein
 2/3 [[Intracellular fluid]] - diffferent ion concentrations
 [[Lymph]]

@@ -15,7 +15,7 @@ Looking at genetics and physical characteristics and nutrition to reduce dystoci
 # Impact on role of veterinarian
 ~
 Change role from emergency management to preventative, reduce [[Fire Brigade Medicine]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-03,16,290-->
 
 # Impacts
 ~

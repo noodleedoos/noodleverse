@@ -3,11 +3,10 @@ up:
 tags:
   - concept
 Summary: 
-aliases:
-  - somatostatin
+aliases: []
 Status:
 ---
-# Definition
+# Function
 ~
-endocrine cell - somatostatin
+endocrine cell - produces [[Somatostatin]]
 <!--SR:!2025-03-14,1,230-->

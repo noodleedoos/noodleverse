@@ -13,20 +13,19 @@ Rumen/reticulum on left, liver/bodywall on right
 ![](https://i.imgur.com/vOESE6d.png)
 <!--SR:!2025-03-16,3,250-->
 
-<!--SR:!2025-03-12,1,230-->
-
 # Species Variation
 ~
 Smallest compartment in sheep and goat
 <!--SR:!2025-03-14,1,230-->
 
 # External features
-*What is the shape of the omasum?*
+*What is the shape of the omasum? How does it related to other structures?*
 ~
 - spherical/ellipsoidal shape
 - Greater and lesser curvatures
 - Lower pole - extensive attachment to fundic region of abomasum around omaso-abomasal orifice
 - Much of right side covered by lesser omentum
+![](https://i.imgur.com/vOESE6d.png)
 <!--SR:!2025-03-14,1,230-->
 
 # Internal Features

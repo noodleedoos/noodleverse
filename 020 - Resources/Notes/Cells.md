@@ -16,7 +16,7 @@ tags:
 <!--SR:!2025-03-20,15,290-->
 
 # Cell Structure
-![[Pasted image 20241209120614.png]]
+![](https://i.imgur.com/nclKzzH.png)
 
 *Describe the function of the major organelles*
 ## Summary Table
@@ -24,7 +24,7 @@ tags:
 | Structure                 | Description                                         | Function                                                                                                                        |
 | ------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | [[Cell Membrane]]         | Thin membrane                                       | Encloses cell, selectively permeable<br>                                                                                        |
-| [[Nucleus]]               | contains Nucleolus - site of ribosome assembly      | Contains DNA as a protein complex called chromatin<br>Control centre                                                            |
+| [[nucleus]]               | contains Nucleolus - site of ribosome assembly      | Contains DNA as a protein complex called chromatin<br>Control centre                                                            |
 | [[Endoplasmic Reticulum]] | Membranous system of fluid filled tubules and sacs  | RER - Ribosomes attached; synthesis of proteins, membrane construction<br><br>SER - carbohydrate metabolism and lipid synthesis |
 | [[Golgi Apparatus]]       |                                                     | Post translational modification of proteins, packaging of proteins and lipids                                                   |
 | [[Mitochondria]]          |                                                     | Oxidaton of carbohydrates and lipids<br><br>Generate energy/ATP for cellular function                                           |

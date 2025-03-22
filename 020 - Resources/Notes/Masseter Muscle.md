@@ -23,4 +23,4 @@ Status:
 - Move lower jaw laterally when contracted on one side (origin lateral to insertion
 	- Greater sideways movement in herbivores than in carnivores
 - Protrude lower jaw
-<!--SR:!2025-03-18,5,230-->
+<!--SR:!2025-03-23,3,210-->

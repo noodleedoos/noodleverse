@@ -9,5 +9,6 @@ Status:
 # Histology
 ~
 Epithelial surface
-Loose irregular connective tissue supporting epithelium
+Dermis - loose connective tissue
+Subcutaneous layer - adipose
 ![](https://i.imgur.com/pYvJ4UU.png)

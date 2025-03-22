@@ -14,7 +14,7 @@ Considers how much money will be coming in, your cost for the upcoming period, m
 ### Cash Flow
 ~
 Compare cashflow budget with bank statements monthly
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-01,14,290-->
 
 *Evaluate this image*
 ![[Screenshot 2025-03-08 at 3.24.51 pm.png]]

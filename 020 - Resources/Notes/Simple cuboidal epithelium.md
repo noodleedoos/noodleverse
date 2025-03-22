@@ -7,10 +7,11 @@ aliases:
 Status:
 ---
 # Characteristics
+*What do they look like from different perspectives?*
 ~
 • Cells appear cuboidal in sections perpendicular to the surface of the epithelium. Viewed from the surface of the epithelium they look rather like
 small polygons.
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-03-30,10,270-->
 
 # Location
 ~

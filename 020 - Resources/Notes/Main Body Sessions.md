@@ -15,7 +15,7 @@ status:
 - Greet client
 - Offer chair/water
 - Give client chance note current concerns
-- Explain [[session structure]] - what you will continue to work on
+- Explain [[Session Structure]] - what you will continue to work on
 
 ### Information Gathering: 20 minutes
 - Review homework

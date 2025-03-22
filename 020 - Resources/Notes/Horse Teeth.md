@@ -19,4 +19,4 @@ Secondary dentine prevents pulp exposure
 Tertiary dentine sometimes laid down for the same thing
 At occlusal surface not sensitive due to calcification
 ![[Screenshot 2025-03-03 at 5.01.12 pm.png]]
-<!--SR:!2025-03-17,5,248-->
+<!--SR:!2025-04-05,18,268-->

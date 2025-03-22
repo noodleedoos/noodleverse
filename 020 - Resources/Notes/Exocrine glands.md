@@ -24,9 +24,8 @@ Release the secretory product (e.g. milk, mucus, sweat) via a system of ducts th
 
 
 # Summary table of Types
-~
 ![](https://i.imgur.com/hmnyOk6.png)
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-02,15,290-->
 
 
 | Type                                       | Structure                                                            | Example Image                                                                                                     |

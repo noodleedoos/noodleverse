@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "19e17e90b777c7d3",
+        "id": "e9f8d04af7ad41ed",
         "type": "tabs",
         "children": [
           {
-            "id": "c8f288fa72e57ddd",
+            "id": "2f0501a08435ab9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020 - Resources/Notes/Tendon Histology.md",
+                "file": "000 - Navigation/Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tendon Histology"
+              "title": "Home"
             }
           }
         ]
@@ -68,12 +68,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lower p1",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2ad0a5f6e9f09c33",
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "020 - Resources/Notes/Breed Societies.md",
+                "file": "000 - Navigation/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Breed Societies"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -231,9 +230,19 @@
               "icon": "links-going-out",
               "title": "Hierarchical outgoing links"
             }
+          },
+          {
+            "id": "a906e35dc5251935",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections Files"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       },
       {
         "id": "e2182da6534c8d08",
@@ -264,8 +273,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,44 +305,45 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c8f288fa72e57ddd",
+  "active": "2f0501a08435ab9f",
   "lastOpenFiles": [
-    "020 - Resources/Notes/Histology.md",
-    "020 - Resources/Notes/Tendon Histology.md",
-    "020 - Resources/Notes/Bone Histology.md",
-    "020 - Resources/Notes/Skin Histology.md",
-    "010 - Areas/School/Practicals/2 - Microscopic Anatomy.md",
-    "010 - Areas/School/Courses/Cells to Systems.md",
-    "010 - Areas/Doctor of Veterinary Medicine.md",
-    "010 - Areas/School/Courses/Introduction to the Veterinary Profession.md",
-    "010 - Areas/School/Lectures/02.03 - Safety on Extramural Placements and Farms.md",
-    "000 - Navigation/Home.md",
-    "010 - Areas/School/Assignments/LAST ONE!!.md",
-    "010 - Areas/Diploma of Counselling.md",
+    "020 - Resources/Notes/Pig Stomach.md",
+    "020 - Resources/Notes/Dog Teeth.md",
+    "020 - Resources/Attachments/Screenshot 2025-03-06 at 7.43.48 pm.png",
+    "020 - Resources/Attachments/Screenshot 2025-03-06 at 7.45.25 pm.png",
+    "020 - Resources/Notes/Dog.md",
+    "020 - Resources/Notes/Cat Teeth.md",
+    "010 - Areas/School/Practicals/02 - Dental Wetlab.md",
+    "010 - Areas/School/Lectures/02.03 - Comparative Dentition.md",
+    "020 - Resources/Notes/Teeth.md",
+    "020 - Resources/Notes/Incisors.md",
+    "020 - Resources/Notes/Arrangement of Teeth.md",
+    "020 - Resources/Notes/Livestock Zones in Australia.md",
+    "020 - Resources/Notes/Major Australian and International Extensive Animal Production Industries.md",
+    "020 - Resources/Notes/Seasonal Breeders.md",
+    "020 - Resources/Notes/Weaning.md",
+    "020 - Resources/Notes/Worldwide Milk Product Consumption.md",
+    "020 - Resources/Notes/Diabetes Mellitus.md",
+    "020 - Resources/Notes/Insulin and Insulin Receptor.md",
+    "010 - Areas/School/Lectures/04.13 - Receptor and Signalling Pathways - G Protein Coupled Receptors, Enzyme Receptors and Intracellular Receptors.md",
+    "020 - Resources/Notes/Endocrine Disorders that Lead to Disease.md",
     "010 - Areas/School/Lectures/04.12 - Endocrine System and Signalling Pathways - Signal Transduction and Second Messengers.md",
-    "010 - Areas/School/Units/04. Chemical and Electrical Communication.md",
-    "010 - Areas/School/Units/03. Cell Structure and Transport of Molecules around the Body.md",
-    "010 - Areas/School/Lectures/04.11 - Principles of Cell Communication.md",
-    "010 - Areas/School/Lectures/03.10 - Role of blood and blood cells in homeostasis.md",
-    "010 - Areas/School/Lectures/03.09 - Transport across membranes.md",
-    "010 - Areas/School/Units/02. Cell Types and Tissues.md",
-    "010 - Areas/School/Lectures/03.08 - Transport of Molecules around the Body.md",
-    "010 - Areas/School/Lectures/02.07 - Muscle and Nervous Tissue.md",
-    "010 - Areas/School/Lectures/02.06 - Epithelium.md",
-    "010 - Areas/School/Units/01 - Homeostasis, skeleton and body plan.md",
-    "010 - Areas/School/Lectures/02.05 - Connective Tissue.md",
-    "010 - Areas/School/Sections/DVM1.md",
-    "010 - Areas/School/Courses/Animals in Extensive Production Systems 1.md",
-    "020 - Resources/Attachments/Pasted image 20250311160044.png",
-    "020 - Resources/Attachments/Pasted image 20250309141232.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-03 at 5.01.37 pm.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-03 at 4.01.03 pm.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-08 at 4.00.50 pm.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-03 at 4.12.10 pm.png",
-    "020 - Resources/Attachments/Pasted image 20250309140827.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-10 at 9.53.47 am.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-10 at 9.55.37 am.png",
-    "020 - Resources/Attachments/Screenshot 2025-03-10 at 9.57.28 am.png",
+    "010 - Areas/School/Case Studies/3- Reproduction.md",
+    "020 - Resources/Notes/Steroid Hormones.md",
+    "020 - Resources/Notes/Peptides and Proteins Hormones.md",
+    "020 - Resources/Notes/Oxytocin.md",
+    "020 - Resources/Notes/Positive Feedback Loop.md",
+    "020 - Resources/Notes/Lactation.md",
+    "020 - Resources/Notes/Cortico-tropin releasing hormone.md",
+    "020 - Resources/Attachments/Screenshot 2025-03-10 at 9.52.49 am.png",
+    "020 - Resources/Attachments/Screenshot 2024-12-12 at 5.40.50 PM.png",
+    "020 - Resources/Attachments/Pasted image 20241213153720.png",
+    "020 - Resources/Attachments/Pasted image 20241213152552.png",
+    "020 - Resources/Attachments/Pasted image 20241213140419.png",
+    "020 - Resources/Attachments/Pasted image 20241213140642.png",
+    "020 - Resources/Attachments/Pasted image 20241213153956.png",
+    "020 - Resources/Attachments/Pasted image 20241213154321.png",
+    "020 - Resources/Attachments/Risk-Assessment_Colour_May2013_Handout2 (1).pdf",
     "Sheep",
     "inputs",
     "010 - Areas/School/Case Studies",
@@ -344,7 +353,6 @@
     "Users/naomichang/Documents/GitHub/noodleverse",
     "Users/naomichang/Documents/GitHub",
     "Users/naomichang/Documents",
-    "Users/naomichang",
     "Note-Making Station.canvas"
   ]
 }

@@ -15,13 +15,13 @@ aliases:
 <!--SR:!2025-03-14,4,277-->
 
 # Live Export Challenges and Welfare Issues
-*Live export challenges*
+*4 Live export challenges*
 ~
 1. Distance stock travels
 2. Changes in the environment
 3. Historical voyages resulting in animal death
 4. Death
-<!--SR:!2025-03-14,4,274-->
+<!--SR:!2025-04-03,16,294-->
 
 # Comparisons
 *Quantitative comparison of live animals to fresh/frozen meat*

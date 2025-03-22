@@ -13,4 +13,4 @@ Very short especially in ruminants
 Ventral surface indents dorsal border of liver
 Joins stomach dorsally at cardia
 Well developed cardiac sphincter in horses - vomiting very rare
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-03-20,2,230-->

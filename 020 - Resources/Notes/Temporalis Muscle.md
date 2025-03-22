@@ -15,9 +15,9 @@ Status:
 # Function
 ~
 - Contraction pulls mandible up
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-03,16,290-->
 
 # Species Variation
 ~
 Large in carnivores, small in herbivores - carnivores need quick forceful up and down - masseter is main muscle in herbivores for side to side
-<!--SR:!2025-03-15,2,230-->
+<!--SR:!2025-03-21,1,210-->

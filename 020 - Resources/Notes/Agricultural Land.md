@@ -7,10 +7,10 @@ Summary:
 aliases:
 ---
 *Describe how agricultural land is changing on a worldwide scale*
-~
+!
 - Nearly at limit of agricultural land in many areas
 - Increased intensification of current areas
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-03,16,290-->
 
 # Agricultural Land in Australia
 

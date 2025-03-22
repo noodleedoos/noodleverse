@@ -10,7 +10,7 @@ Status:
 *Describe the importance of gestation and lactation on matching feed supply and demand on a property.*
 ~
 - matching natural feed supply and number of age groups on property/area
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-01,14,290-->
 
 # Gestation Periods
 *State the gestation period for cows, sheep, goat, deer and alpaca*

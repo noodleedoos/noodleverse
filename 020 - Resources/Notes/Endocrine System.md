@@ -8,9 +8,9 @@ Summary:
 aliases:
 ---
 # Overview
-## Tissues found within
+*Where are the structures located?*
 ~
 - 4 of 5 structures in cranial end (2 in skull, 2 incranioventral neck)
 - 5th structure in craniodorsal abdomen
 ![[Screenshot 2025-03-03 at 4.14.25 pm.png]]
-<!--SR:!2025-03-14,2,210-->
+<!--SR:!2025-03-22,4,210-->

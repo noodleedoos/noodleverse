@@ -17,4 +17,4 @@ Carnivores: cut food, crush bones
 *What is the difference between premolars and molars?*
 ~
 - Premolars have deciduous precursor but molars don't, except horses (no deciduous premolar)
-<!--SR:!2025-03-14,3,252-->
+<!--SR:!2025-03-30,12,272-->

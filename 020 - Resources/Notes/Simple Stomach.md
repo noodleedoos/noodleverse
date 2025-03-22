@@ -62,7 +62,7 @@ What membranes can be found around the stomach
 	- Hepatogastric ligament
 	- Hepatoduodenal ligament with portal vein, hepatic artery, bile duct and lymphatic duct
 - ![](https://i.imgur.com/GC60Uiq.png)
-<!--SR:!2025-03-16,3,250-->
+<!--SR:!2025-03-28,10,270-->
 
 
 # Blood Supply to stomach
@@ -72,7 +72,7 @@ What membranes can be found around the stomach
 - Branches of left gastric artery to lesser omentum
 - Veins drain into portal vein
 ![](https://i.imgur.com/mgyBEE7.png)
-<!--SR:!2025-03-16,3,250-->
+<!--SR:!2025-03-30,12,270-->
 
 # Innervation
 ~
@@ -86,7 +86,7 @@ What membranes can be found around the stomach
 3. Muscularis externa (3 layers outer longitudinal, middle circular, inner oblique)
 4. Serosa - simple squamous mesothelial cells secrete peritoneal fluid
 ![](https://i.imgur.com/DopddU7.png)
-<!--SR:!2025-03-14,1,226-->
+<!--SR:!2025-03-22,2,226-->
 
 # Simple Stomach Regions
 ~

@@ -1,10 +1,11 @@
 ---
-up: 
+up:
+  - "[[Omnivores]]"
 tags:
   - concept
 Summary: 
 aliases: 
-Status:
+Status: 
 ---
 # Variation
 ~

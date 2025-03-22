@@ -24,13 +24,14 @@ Hiding, dilated pupils, airplane ears,
 # Aggressive Cat behaviour
 ~
 Attacking, biting, scratching, hissing
+
 # Stereotypic behaviour
 ~
 - Overgrooming
 - pluck out fur
 - Chew on skin
 - Excessive licking
-<!--SR:!2025-03-15,4,270-->
+<!--SR:!2025-04-02,15,290-->
 
 # Displacement behaviour
 ~

@@ -7,9 +7,8 @@ aliases:
 Status:
 ---
 # Definition
-~
 How many animals you can have on your farm
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-03,16,292-->
 
 # French Model Stocking Rate Formula
 *- e.g. A farm in western Victoria with rainfall of 650mm can support*

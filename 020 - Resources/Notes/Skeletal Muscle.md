@@ -6,19 +6,20 @@ Summary:
 aliases: 
 Status:
 ---
-# Structure
+# Structure and Histology
 ~
 Long, multi-nucleated striated bundles of cells
 Peripheral nuclei
+Longer and larger cells
 Cross section
 ![](https://i.imgur.com/yAvvXFe.png)
 ![](https://i.imgur.com/3wLonEc.png)
 <!--SR:!2025-03-25,12,272-->
 
-# Location
+# 4 Locations
 ~
-Attached to bones, toungue, pharynx, eye
-<!--SR:!2025-03-14,4,272-->
+Attached to bones, tongue, pharynx, eye
+<!--SR:!2025-03-31,11,272-->
 
 # Function
 ~

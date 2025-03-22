@@ -17,7 +17,7 @@ status:
 
 ## Methodology
 - explore clients negative thoughts and feelings, and harmful behaviours developed consequentially
-- look at [[Underlying Issues]], irrational thought patterns, difficult [[trauma]]
+- look at [[Underlying Issues]], irrational thought patterns, difficult [[Trauma]]
 
 ## Types
 [[Cognitive Behavioural Therapy]]

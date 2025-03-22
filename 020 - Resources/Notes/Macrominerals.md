@@ -13,3 +13,7 @@ Status:
 # Examples
 ~ 
 Na+, K+, Mg2+, Ca2+, P-, S-, Cl-
+
+# Measurement in Pre-gastric fermenters
+~
+g/kg/day diet

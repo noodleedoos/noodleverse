@@ -25,7 +25,7 @@ aliases:
   - CBT
 ---
 ## Uses
-- for [[trauma]] and truamatic thought reduction, [[Depression|depression]], [[Anxiety]], [[Anger]], [[Negative Thought Cycles]]
+- for [[Trauma]] and truamatic thought reduction, [[Depression|depression]], [[Anxiety]], [[Anger]], [[Negative Thought Cycles]]
 
 ## Aims
 change cognitive processes and old ways of thinking to disconnect from past trauma 

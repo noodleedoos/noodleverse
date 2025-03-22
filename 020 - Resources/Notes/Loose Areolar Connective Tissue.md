@@ -14,7 +14,8 @@ aliases:
 <!--SR:!2025-03-14,4,270-->
 
 *Label this image*
-![[Pasted image 20241213134804.png]]~
+![](https://i.imgur.com/xwlLw1a.png)
+~
 1 = cell
 2 = amorphous extracellular material
 3 = fibrous extracellular material

@@ -10,4 +10,4 @@ aliases:
 ~
 - 4 million alpaca, mostly Peru
 - For fibre and increasingly meat
-<!--SR:!2025-03-16,7,250-->
+<!--SR:!2025-04-12,25,270-->

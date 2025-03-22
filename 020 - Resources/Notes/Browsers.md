@@ -9,4 +9,4 @@ Status:
 # Description and Examples
 ~
 Prefer less fibrous diets - leaves from shrubs, herbs
-e.g. goats
+e.g. goats, giraffe, moose

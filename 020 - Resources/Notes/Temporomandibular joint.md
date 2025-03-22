@@ -7,19 +7,21 @@ aliases:
 Status:
 ---
 # Structure in Domestic Species
+*Where does it articulate and are there any additional structures involved?*
 ~
 - Articulation between Zygomatic process of temporal bone of skull and Condyloid process on mandible
 	- divided into a dorsal and ventral compartment by meniscus (intrarticular fibrocartilagenous disc)
 - ![[Pasted image 20250309140410.png]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-03-29,11,270-->
 
 
 
 # Herbivores vs Carnivores
+*What is the articular surfaces like and what muscles are associated with it?*
 ~
 Herbivore - [[Pterygoid muscle]] and [[Masseter Muscle]], flat articular surface
 carnivore - [[Temporalis Muscle]], bony processes restrict movement
-<!--SR:!2025-03-17,4,272-->
+<!--SR:!2025-03-29,11,272-->
 
 | -vore     | Structure of TMJ                          | Associated Muscles                          | Function                                                                            |
 | --------- | ----------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------- |

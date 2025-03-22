@@ -13,8 +13,8 @@ Large gut sections to hold low denisty food, house microbes to digest plant stru
 
 # Classification of Herbivores
 ~
-1. [[Hindgut fermenters]] 
-2. [[Foregut fermenters]]
+1. [[Hindgut Fermenters]] 
+2. [[Foregut Fermenters]]
 	1. [[Non-Ruminants foregut fermenters]]
 	2. [[Ruminants]] and [[Pseudoruminants]]
 		1. [[Grazers]]

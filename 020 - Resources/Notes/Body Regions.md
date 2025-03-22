@@ -6,10 +6,9 @@ status:
 Summary:
 aliases:
 ---
-*Have a look!*
-~
+
 ![[Screenshot 2025-03-03 at 3.47.01 pm.png]]
-<!--SR:!2025-03-14,4,274-->
+<!--SR:!2025-03-31,12,274-->
 
 
 # Forelimb regions

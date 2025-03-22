@@ -5,6 +5,11 @@ type command
 action Periodic Notes: Open Daily Note
 ```
 
+## Quick Links
+```dataview
+list FROM #course and [[Doctor of Veterinary Medicine]]
+```
+
 ## Areas
 
 ```dataview

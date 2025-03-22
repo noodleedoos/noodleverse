@@ -16,7 +16,7 @@ FTE - full time equivalent
 ~
 - Contract jobs for shearing, marking, crutching, pregnancy testing, artificial insemination
 - Constant labour - throughout the year
-<!--SR:!2025-03-14,4,274-->
+<!--SR:!2025-04-02,15,294-->
 
 # Rural Workforce
 *Describe the age profile of industry in comparison to Australian workforces*
@@ -31,7 +31,7 @@ Full Time Equivalent = FTE
 Expressed as FTE/ha or FTE/DSE
 10k DSE/FTE is reasonable for a low input system - the higher the better
 [[TPML]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-01,14,290-->
 
 ## Causes of variation to FTE/DSE
 *What enterprise type has higher than what, and why?*

@@ -41,4 +41,4 @@ Enamel not continuous, some dentine exposed, cementum around enamel crown
 Maxillary teeth wider apart and wider than mandibular, result in sharp points on buccal aspect of maxillary and lingual aspect of mandibular called hooks that require floating (filing)
 ![[Screenshot 2025-03-06 at 8.18.00 pm.png]]
 ![[Pasted image 20250306201641.png]]
-<!--SR:!2025-03-14,3,252-->
+<!--SR:!2025-03-27,7,252-->

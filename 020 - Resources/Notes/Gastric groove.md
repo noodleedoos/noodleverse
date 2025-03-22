@@ -14,7 +14,7 @@ Status:
 2. Omasal groove
 	1. Reticulo-omasal orifice to omaso-abomasal orifice
 3. Abomasal groove- no gastric folds
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-03-22,2,210-->
 
 # Function
 ~

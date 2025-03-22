@@ -19,7 +19,7 @@ mix inputs and measure it by $/ha, sustainability index, key performance indicat
 - [[Land]]
 - [[Animals]]
 - [[Labour]]
-- [[Pasture Management]]
+- [[Pasture Management and Pasture in Extensive Production Systems]]
 - [[Infrastructure]]
-- [[Feed in Extensive Production Systems]]
+- [[Pasture Management and Pasture in Extensive Production Systems]]
 <!--SR:!2025-03-25,12,270-->

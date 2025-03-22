@@ -33,6 +33,6 @@ Client constructs narrative of life including all traumatic event to expose and 
 
 ## Benefits
 - [[Identity crises]]
-- [[trauma]]
+- [[Trauma]]
 - Life challenges
 - 

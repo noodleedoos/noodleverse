@@ -31,7 +31,7 @@ aliases:
 ## [[Early Sessions]]
 [[Initial Session#^9a3732|Initial Session Structure]] ## ![[Early Sessions]]
 
-## [[Main body Sessions]]
+## [[Main Body Sessions]]
 [[Main Body Sessions]]
 - Exploring themes in greater details
 

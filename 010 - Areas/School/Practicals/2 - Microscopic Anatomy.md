@@ -7,7 +7,7 @@ tags:
 Summary: 
 aliases: 
 Status:
-  - 🪴
+  - 🌳
 ---
 # Intended Learning Outcomes
 - Identify and distinguish different cells and tissues in tissue sections.

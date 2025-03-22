@@ -11,10 +11,10 @@ aliases:
 - Temperature data
 - Rainfall/evaporation data
 - Soil temperature
-<!--SR:!2025-03-14,3,250-->
+<!--SR:!2025-03-31,11,270-->
 
 # Melbourne
 ~
 Autumn-Late spring dependent on rainfall patterns
-<!--SR:!2025-03-17,5,248-->
+<!--SR:!2025-04-07,17,268-->
 

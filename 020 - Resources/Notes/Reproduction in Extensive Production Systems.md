@@ -29,7 +29,7 @@ Timing of parturition, time and length of mating
 # Impact on production
 ~
 Must give birth to produce milk
-<!--SR:!2025-03-14,4,276-->
+<!--SR:!2025-04-06,16,296-->
 
 
 # 2 Impacts of Reproduction on Management Procedures
@@ -66,13 +66,13 @@ Must give birth to produce milk
 7. [[Parturition]]
 8. [[Lactation]] and [[Weaning]]
 9. [[Return to Oestrus]]
-<!--SR:!2025-03-14,4,274-->
+<!--SR:!2025-04-01,14,294-->
 
 # Events in Male Reproduction
 ~
 1. [[Age at joining]]
 2. [[Male Sexual Soundness Exam]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-03,16,290-->
 
 
 # Reproductive Issues
@@ -110,7 +110,7 @@ Must give birth to produce milk
 find and remove remove causes that reduce optimisation of success
 optimise condition score given nutritional and seasonal constraints
 match breeding with season, match lactation to maximum grass production
-<!--SR:!2025-03-14,4,277-->
+<!--SR:!2025-04-03,16,297-->
 
 # Related Concepts
 [[Age Structure in Groups of Animals]]

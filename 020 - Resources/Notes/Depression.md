@@ -26,7 +26,7 @@ aliases:
 [[Biochemistry]]
 - poor and unbalanced [[Emotional Response Control|Emotional regulation]]
 - Signals from neurotransmitters may be irregular or weak
-- Imbalance in [[lithium]], [[adrenalin]], [[serotonin]] and other [[hormones]]
+- Imbalance in [[lithium]], [[adrenalin]], [[serotonin]] and other [[Hormones]]
 
 [[Genetics]]
 - Some reserach linked creativity to [[Manic Depression Disorder]]
@@ -40,7 +40,7 @@ aliases:
 ## Application of Personality and Developmental Theories
 
 ### [[Sigmund Freud]]
-- failure to develop [[ego]] and [[superego]] ->  viewed as outsider
+- failure to develop [[Ego]] and [[Superego]] ->  viewed as outsider
 
 ### [[Erick Erikson]]
 - [[Malignancy]] weighs down more-so

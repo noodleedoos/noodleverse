@@ -18,3 +18,10 @@ Individual cell
 - [[Caveolae]]
 - Endomysium - thin layer of CT that covers each muscle cell
 ![](https://i.imgur.com/u6utCk5.png)
+
+# Histology
+~
+non-striated
+single central round nucleus
+shorter/smaller than skeletal muscle cells
+![](https://i.imgur.com/jAnzDUt.png)

@@ -17,7 +17,7 @@ Status:
 ~
 [[Exocrine glands]]
 [[Endocrine glands ]]
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-03,16,292-->
 
 # Classification of glands
 *What are 2 ways glands can be classified?*

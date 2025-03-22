@@ -7,10 +7,10 @@ Summary: most abundant connective tissue. nucleated, white fibrous tissue
 ---
 
 # Function
-*What is the function of collagen fibres?*
+*What are 3 functions of collagen fibres?*
 ~
 - Cushioning, strength, flexibility
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-03-30,12,270-->
 
 # Characteristics
 *How does it stain? What is it made of?*

@@ -27,7 +27,8 @@ Lips, cheeks, soft palate, tongue
 ~
 1. Mucous - carbohydrate rich
 2. Serous - protein rich
-<!--SR:!2025-03-14,1,228-->
+3. Mixed - [[Mixed Glands]]
+<!--SR:!2025-03-21,3,248-->
 
 # Types
 ~
@@ -45,6 +46,7 @@ Lips, cheeks, soft palate, tongue
 | [[Mandibular Salivary Glands]] | Angle of jaw, opens at sublingual caruncle 2nd largest salivary gland               | Serous and mucous | Deeper/larger in herbovores                                                                                                                                         |
 | [[Sublingual Salivary Glands]] | Metastomatic and polystomatic parts<br><br>Floor of oral cavity, open near frenulum | Serous and mucous |                                                                                                                                                                     |
 | [[Zygomatic Salivary Gland]]   | Medial to zygomatic arch (in orbit), opens opposite upper last molar                | Serous and mucous | Only in dog and cat                                                                                                                                                 |
+| [[Buccal Salivary glands]]     |                                                                                     | primarily mucous  |                                                                                                                                                                     |
 
 ![](https://i.imgur.com/2XFMoPy.png)
 
@@ -64,7 +66,7 @@ Walls become thicker as they need to hold more saliva
 [[Mucous gland acini]]
 [[Mixed Glands]]
 ## Summary table
-<!--SR:!2025-03-16,3,250-->
+<!--SR:!2025-03-29,11,270-->
 
 | Acini                  | Secretion            | Characteristics                 | Histology                               | Structure                                                                                                     |
 | ---------------------- | -------------------- | ------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -75,7 +77,7 @@ Walls become thicker as they need to hold more saliva
 
 # Salivary Gland Ducts
 ~
-- [[Intercalated duct]] - low cuboidal epithelium, smallest
+- [[intercalated duct]] - low cuboidal epithelium, smallest
 - [[Striated duct]] - columnar epithelium with basal straiations from alignment of mitochondria
 - [[Intralobular duct]] - larger duct within lobule
 - [[Interlobular Duct]] - simple/stratified columnar
