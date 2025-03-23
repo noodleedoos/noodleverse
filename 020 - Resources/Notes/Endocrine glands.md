@@ -6,14 +6,9 @@ Summary:
 aliases: 
 Status:
 ---
-# Characteristics
+# Major Endocrine Glands
 ~
-- Release their secretory product (typically hormones) into the spaces between the secretory cells (extracellular space) from which it enters the bloodstream.
-<!--SR:!2025-03-25,12,270-->
-
-# Organs that Produce Hormones
-~
-[[Hypothalamus and Pituitary Glands]]
+[[Hypothalamo-Pituitary Axis]]
 [[Pineal Gland]] - melatonin
 [[Thyroid gland]] - TH
 [[Parathyroid gland]] - PTH

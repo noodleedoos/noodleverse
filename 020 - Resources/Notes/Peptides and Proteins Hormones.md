@@ -9,7 +9,9 @@ Status:
 # Description
 *Solubility*
 ~
+Chain of specific amino acids
 Hydrophillic
+
 # Origin
 ~
 Hypothalamus, pituitary, pancreas, parathyroid gland, kidneys, liver, heart, GI tract
@@ -35,7 +37,6 @@ Calcitonn
 3. Bind to specific cell receptor on target cell
 4. Activates second messenger for cascade effect 
 
-# [[Insulin and Insulin Receptor]] Prohormone Cleavage
+# Example
 ~
-Proinsulin cleaved to form connecting peptide (C peptide) and insulin (alpha and beta chains)
-![](https://i.imgur.com/nqGmloF.png)
+[[Insulin Prohormone Cleavage]]

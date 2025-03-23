@@ -17,7 +17,6 @@ Very fast (Milliseconds)
 3. Effect: Ions move across membrane
 
 # Examples
-1
 ~
 [[Nicotinic ACh Receptors]]
 

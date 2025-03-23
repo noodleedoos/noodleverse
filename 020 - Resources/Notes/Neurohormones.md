@@ -8,5 +8,5 @@ Status:
 ---
 # Origin and action
 ~
-Released by neurosecretory neurons, act like classical hormones
+Released by neurons, act like classical hormones (from endocrine glands)
 ![](https://i.imgur.com/mv6euCV.png)

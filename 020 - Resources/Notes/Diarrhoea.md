@@ -6,9 +6,9 @@ Summary:
 aliases: 
 Status:
 ---
-# Characteristics
+# Characteristics to Consider
 ~
 Volume/frequency
 Consistency
-Appearance
+Appearance (fresh/melena - black discoloration)
 Small or large intestine

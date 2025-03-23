@@ -8,7 +8,7 @@ Status:
 ---
 # Structure
 ~
-Medium size
+Medium size (10-12um)
 [[Polymorphonuclear]]
 Clear granules, clear cytoplasm in most species
 ![](https://i.imgur.com/KLHqOBh.png)
@@ -25,4 +25,9 @@ first responders to acute inflammation and microbial infection
 
 # Species variation
 ~
+Most common in domestic species
 Rabbits, primates, avian, reptiles - [[heterophils]] - have pale pink granules
+
+# Band neutrophils
+~
+immature neutrophils have a less segmeneted nuclei

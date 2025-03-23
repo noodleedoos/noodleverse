@@ -32,6 +32,7 @@ Dentition - Adapted to rapid prehension, limited mastication, weapons for defenc
 **3 roots**: Rest of upper teeth (P4, M1, M2) have(big uppers get extra support)
 ![](https://i.imgur.com/2V5wtgQ.png)
 
+# Gingival Sulcus
 *How deep is the gingival sulcus of canine teeth normally vs periodontal disease?*
 ~
 Normal = 1-2mm (>3 = periodontal disease)

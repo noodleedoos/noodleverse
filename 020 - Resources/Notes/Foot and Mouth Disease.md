@@ -3,9 +3,24 @@ up:
 tags:
   - concept
 Summary: 
-aliases: 
+aliases:
+  - FMD
 Status:
 ---
+# Affected speceis
+All cloven-hoofed animals
+
+# Description
+*2 characterisations, exotic or endemic? how is it spead and diagnoses?*
+- Fever 
+- Vesicle in and around mouth, feet, teats 
+- Picornaviridae, genus Aphthovirus 
+- Exotic to Australia 
+- Virus present in vesicular fluid and in expired air in acutely infected animals 
+- Diagnosis by virus isolation and characterisation
+![](https://i.imgur.com/uKRZONP.png)
+
+
 # Impacts
 *What would you have to do to your stock? How much would it cost?*
 ~

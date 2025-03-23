@@ -6,7 +6,7 @@ Summary:
 aliases: 
 Status:
 ---
-# Location
+# Common Location
 ~
 Immune system cells
 

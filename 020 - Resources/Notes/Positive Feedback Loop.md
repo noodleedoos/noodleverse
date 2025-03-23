@@ -7,4 +7,4 @@ Summary: Rapid amplification
 aliases:
 ---
 ## Example
-[[Sheep birth]]
+[[Parturition Feedback Loop]]

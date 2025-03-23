@@ -19,7 +19,7 @@ Migrated to the tissue
 *List 4 functions of macrophages*
 ~
 - Phagocytosis of microorganisms and dead tissue
-- Produces[[ lysosomal proteases]], [[cytokines]], [[pProstaglandins]]
+- Produces[[ lysosomal proteases]], [[cytokines]], [[Prostaglandins]]
 - Wound healing and muscle regeneration
 - Immune function
 - Clear dead/dying tissue

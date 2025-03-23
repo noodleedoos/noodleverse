@@ -10,4 +10,9 @@ Status:
 *How does the dental formula of a cat differ from that of a dog?*
 ~
 {3131/3121}x2 = 30
-No blunt/crushing surfaces - less premolars and molars
+Lack upper and lower p1 and lower p2 - and some molars don't need so many blunt crushing surfaces since they are obligate carnivores
+
+# Gingival sulcus
+*Norma depth*
+~
+1mm

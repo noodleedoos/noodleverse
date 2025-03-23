@@ -8,7 +8,7 @@ Status:
 ---
 # Structure
 ~
-Most small
+Most small (7-8um)
 Nuclei - large round/indented
 Clumped chromatic
 Small rim of blue cytoplasm

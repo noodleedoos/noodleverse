@@ -8,6 +8,7 @@ Status:
 ---
 # Components
 ~
+Liquid portion of blood - no cells
 Serum + coagulation factors (including fibrinogen)
 WIPNEWD
 - 90% water

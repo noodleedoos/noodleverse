@@ -20,7 +20,7 @@ Produced on demand, not stored
 
 # Functions
 ~
-[[pProstaglandins]] - vasodilators regulate blood flow
+[[Prostaglandins]] - vasodilators regulate blood flow
 [[Thromboxanes]] - induce platelet aggregation/promote vasoconstriction
 [[Leukotrienes]] - allergy, neutrophil chemo-attraction, vascular permeability
 ![](https://i.imgur.com/Q3f3BZc.png)

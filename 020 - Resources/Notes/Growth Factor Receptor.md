@@ -18,3 +18,4 @@ Status:
 2. Intrinsic enzyme activity leads to phosphorylation of tyrosine resides
 3. binding and phosphorylation of SH-2 domain protein
 4. Effect: growth of cells and tissues
+![](https://i.imgur.com/Z6davMH.png)

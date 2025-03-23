@@ -6,8 +6,8 @@ Summary:
 aliases: 
 Status:
 ---
-[[Ligand gated Ion channels|Ionotropic Receptors]]
-[[G-protein coupled metabotropic receptors]]
+[[Nicotinic ACh Receptors]]
+[[Muscarinic ACh Receptors]]
 ![](https://i.imgur.com/qD8RnJC.png)
 
 

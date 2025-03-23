@@ -7,6 +7,7 @@ aliases:
 Status:
 ---
 # Regulation of Anterior Pituitary Hormones
-- [[Prolactin]]
+~
+- [[Prolactin]] 
 - [[Thyroid Stimulating Hormone]] 
 ![](https://i.imgur.com/CLgGTM9.png)

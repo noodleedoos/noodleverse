@@ -9,7 +9,7 @@ Status:
 # Description
 *Location, time scale, mechanism and effect*
 ~
-Intracellular, usually in nucleus, sometimes in cytoplams
+Intracellular, usually in nucleus, sometimes in cytoplasm
 Slower (hours)
 1. Hormones diffuse through cell membrane
 2. Combine with cell intracellularly 
@@ -19,3 +19,4 @@ Slower (hours)
 [[Cortisol]]
 [[Oestrogen Receptor]]
 [[Class I Nuclear Receptors - Steroids]]
+[[Class II Nuclear Receptors]]

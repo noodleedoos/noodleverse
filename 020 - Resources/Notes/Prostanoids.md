@@ -8,5 +8,5 @@ Status:
 ---
 # Types
 ~
-[[pProstaglandins]]
+[[Prostaglandins]]
 [[Thromboxanes]]

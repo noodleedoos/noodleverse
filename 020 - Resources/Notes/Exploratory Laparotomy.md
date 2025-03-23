@@ -8,6 +8,7 @@ Status:
 ---
 # When to do
 ~
-No response to non-specific treatemetn
+No response to non-specific treatement
 suspected foreign body/mass
 suspected septic peritonitis
+Biopsy if abdomen looks grossly normal

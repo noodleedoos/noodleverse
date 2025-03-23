@@ -8,6 +8,7 @@ Status:
 ---
 # Description
 ~
+Anabolic hormone
 
 # Production
 ~
@@ -15,19 +16,10 @@ Status:
 2. Pancreatic beta cells release calcium
 3. Transfers insulin holding vesicles to undergo exocytosis
 
-# Regulation of Insulin Secretion
-~
-**Beta cells monitor levels of circulating metabolites**
-Most important: glucose
-Leucine and alanine double insulin release when combined with glucose
-**Neuronal and Hormonal regulation**
-- Parasympathetic Stimulation
-- Cholecystokinin
-- Gastric hormones stimulate and anticipatory release of insulin
-- Glucagon, cortisol and adrenaline antagonise effect of insulin
-![](https://i.imgur.com/tFsBWUa.png)
+# Related
+[[Regulation of Insulin Secretion]]
 
-# Function
+# Function and targets
 ~
 Target hepatocytes, skeletal muscle and adipose tissue
 - Promote uptake of glucose from circulation to insulin responsive tissue

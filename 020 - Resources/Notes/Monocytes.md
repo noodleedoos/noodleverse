@@ -9,7 +9,7 @@ Status:
 # Structure
 ~
 Largest leukocyte
-Nuclei - round/bean/trilobed
+Nuclei - DEEPLY INDENTED round/bean/trilobed
 Cytoplasm - blue, abundant, maybe vacuoles
 ![](https://i.imgur.com/ncP8XHM.png)
 

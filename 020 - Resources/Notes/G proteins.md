@@ -6,23 +6,18 @@ Summary:
 aliases: 
 Status:
 ---
-# Types
+# G Protein Families and their  receptors and signalling pathways
+*4 Families*
 ~
-[[Gs]]
-[[Gi]]
-[[Gq]]
-[[Gt]]
+[[Gs Proteins]]
+[[Gi Proteins]]
+[[Gq Proteins]]
+[[Gt Proteins]]
 ![](https://i.imgur.com/Ua8glAI.png)
 ![](https://i.imgur.com/V6FdEfc.png)
 
-# Gs and Gi protein Regulatory Control Points
-## Stimulatory/Inhibitory Hormones that increase/decrease cAMP production
+# Regulatory Control Points
 ~
-**Stimulatory**
-[[adrenalin]]
-[[Glucagon]]
-[[Adrenocorticotropic Hormone|ACTH]]
-**Inhibitoary**
-[[PGE1]]
-[[Adenosine]]
-![](https://i.imgur.com/odFngWP.png)
+1. [[Hormones acting additively - Gs and Gs]]
+ 2. [[Counter-Regulatory effect of hormones - Gs and Gi]] 
+ 3. [[Gq and PLC Activation]]

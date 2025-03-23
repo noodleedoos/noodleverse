@@ -9,3 +9,7 @@ Status:
 # Types
 [[Catecholamines]] from the adrenal medulla
 [[Thyroid Hormones]]
+
+# Origin
+~
+Tyrosine

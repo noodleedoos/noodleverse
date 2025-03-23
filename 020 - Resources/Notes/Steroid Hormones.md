@@ -9,13 +9,31 @@ Status:
 ---
 # Description
 *Origin, storage, solubility, secretion, receptor site, action*
+
+
+# Production
 ~
 Cholesterol (from plasma) derivatives from low density lipoproteins
+
+# Storage
+~
 Cholesterol stored in lipid droplets within steroidogenic organ
+
+# Solubility
+~
 Lipophillic
+
+# Secretion
+~
 Diffusion
+
+# Receptor site
+~
 Mostly bound to plasma proteins
 Receptor site inside target cell
+
+# Action
+~
 Action - direct effect on genes for production of new proteins
 
 # Function
@@ -31,6 +49,7 @@ Inhibit pro-inflammatory cytokines from WBC
 [[Mineralocorticoids]] 
 [[Glucocorticoids]]
 # Steroidogenic Organs and Steroids
+[[Steroid Hormones|Corticosteroids]]
 [[Adrenal Cortex]] - [[Cortisol]], [[Androgens]], [[Aldosterone]]
 Placenta/[[Ovaries]] - [[Estrogen]], [[Progesterone]]
 Testes - [[Testosterone]]

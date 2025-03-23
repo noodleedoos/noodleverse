@@ -7,7 +7,9 @@ aliases:
 Status:
 ---
 # Effect
+*4 steps, 2 results*
 ~
+Increases cAMP by blocking Gi
 Inhibits effects of Ga for inhibitory GPCR
 1. Pertussis adds ADP-ribose group to Ga inhibitory subunit 
 	1. GTP hydrolysis to GDP prevented

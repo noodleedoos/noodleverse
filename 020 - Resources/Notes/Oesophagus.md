@@ -60,3 +60,11 @@ Oesophagus in right side of neck in cervical region
 ![](https://i.imgur.com/lr9B3mS.png)
 ![](https://i.imgur.com/f2F2NzW.png)
 <!--SR:!2025-03-20,2,230-->
+
+## Carnivore Oesophagus 
+~
+- non-keratinised stratified squamous epithelium
+
+## Pigs, horses and ruminants
+~
+Keratinised stratified squamous epithelium

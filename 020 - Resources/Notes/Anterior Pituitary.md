@@ -26,15 +26,14 @@ Endocrine glandular epithelial tissues
 ![](https://i.imgur.com/5ZlI7Tu.png)
 ![](https://i.imgur.com/pFF5R21.png)
 
-# Feedback
+# Endocrine axis
 ~
+Negative feedback in the anterior pituitary
 1. [[Hypothalamic Hormones]] (releasing or inhibiting)
 2. Production of hormones in anterior pituitary
 3. Production and secretion of hormones from peripheral glands
 ![](https://i.imgur.com/lMhuPko.png)
-
-
-# Types of Feedback
-~
+Feedback types
 [[Long Feedback Loop]]
 [[Short Feedback Loop]]
+![](https://i.imgur.com/al8jUHE.png)

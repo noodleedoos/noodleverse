@@ -12,9 +12,7 @@ Status:
 
 # Types
 ~
-Pitting oedema
-![Uploading file...g3dpl]()
-
+[[Pitting oedema]] 
 # Causes of Extracellular Oedema
 Disturbance in [[Starling's Forces]]
 

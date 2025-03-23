@@ -15,14 +15,38 @@ Status:
 # Description
 *Structure, solubility, synthesis, storage, secretion, transport, receptor site, action*
 ~
+
+# Structure
+~
 Small molecules from tyrosine groups (have NH2 group)
+
+# Solubility
+~
 Hydrophillic
+
+# Synthesis
+~
 Cytosol
+
+# Storage
+~
 Secretory (Chromaffin) granules
+
+# Secretion
+~
 Exocytosis
+
+# Transport
+~
 Free hormone or bound to plasma proteins
+
+# Receptor site
+~
 Surface of target cell
-Second messenger system [[Gt]], [[Gi]], [[Gq]]
+
+# Action
+~
+Second messenger system [[Gt Proteins]], [[Gi Proteins]], [[Gq Proteins]]
 
 
 # Regulation

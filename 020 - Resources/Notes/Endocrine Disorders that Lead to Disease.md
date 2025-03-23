@@ -9,19 +9,12 @@ Status:
 # Bases
 ~
 Increased/reduced hormone activity
-- Tumours
-	- Thyroid tumour -> Hyperthyroidism -> increased T3 and T4
-	- Pituitary tumour -> Increase cortisol -> [[Cushing's disease]]
-- Immunological causes
-	- [[Grave's Disease]] (Autoimmune hyperthyroidism) -> Increased T3 and T4
-	- [[Type I Diabetes]] -> Autoimmune destruction of pancreatic islet cells
+- [[Tumours causing Endocrine Disease]]
+- [[Immunological causes of Endocrine Disorders]]
 - Genetic disorder causing absense/mutation of enzymes
-- Dietary deficiency
-	- [[Iodine Deficiency]] - hyperthyroidism
-- Increased removal from blood/transport deficiencies
-	- [[Liver disease]] -> Reduced plasma protein binding
-- Transduction failure
-	- Adequate hormone, but target cells don't respond
-		- [[Type II Diabetes]] causes insulin resistance
-		- Receptor deficiency or disorder of signalling - transduction
+- [[Dietary deficiencies - Causes of Endocrine Disorders]]
+-[[ Increased removal from blood/transport deficiencies - Causes of Endocrine Disorder]]
+
+- [[Transduction failure - Causes of Endocrine Disorders]]
+	
 

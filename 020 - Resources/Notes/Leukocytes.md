@@ -15,9 +15,9 @@ Status:
 
 # Types
 ~
-[[Granulocytes]] - [[Neutrophils]], [[Eosinophils]], [[Basophils]]
-[[Monocytes]]
-[[Lymphocytes]]
+[[Granulocytes]] - [[Neutrophils]], [[Eosinophils]], [[Basophils]] (medium)
+[[Monocytes]] (largest)
+[[Lymphocytes]] (smallest)
 ![](https://i.imgur.com/lTaxkTh.png)
 
 # Tissue Leukocytes 

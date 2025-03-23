@@ -9,10 +9,10 @@ Status:
 ---
 # Function
 ~
-Stimulates post natal somatic growth/development
-Mobilise fat stores
-Stimulate protein synthesis
-Inhibit insulin
+- Stimulates post natal somatic growth/development
+- Mobilise fat stores
+- Stimulate protein synthesis
+- Inhibit insulin
 
 # Regulation
 ~
