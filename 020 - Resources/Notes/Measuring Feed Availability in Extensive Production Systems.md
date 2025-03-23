@@ -7,24 +7,30 @@ aliases:
 Status:
 ---
 # Methods of Measurement
+*what do we need to measure and 6 ways of doing it?*
 ~
+Measure pasture height and how fast it grows, components ad quality
 1. Eyeballing
 2. Boot measure
 3. Pasture ruler
-4. Plate reader/Electronic (OPTIMAL)
+4. Plate reader/Electronic (OPTIMAL) - fast, automated
 5. [[Measuring Feed availability by Satellite]]
-6. Cutting and drying grass
+6. Cutting and drying grass = gold standard. labour intensive
 ![](https://i.imgur.com/HVjQbTY.png)
 
-# Methods of Measuring Feed Quality
+# Method of Measuring Feed Quality
+*What is the gold standard, how do you do it and what is it measured in?*
 ~
-Laboratory based - collect grass quadrats, assess for quality and quantity
+Laboratory based measurement - collect grass quadrats, assess for quality and quantity
+Measured in pounds per acre or kg per hectare
+Convert pounds per acre to kg per hectare is by multiplying by 1.12
 
 ## High quality pastures
+*3 features*
 ~ 
 Vegetative, minimal weed, some legume
 
-# Sustainability of Pasture
+# Sustainability of Pasture Sward
 *Compare and contrast annual and perennial pasture*
 ~
 Annual pasture dies at summer, grows at winter

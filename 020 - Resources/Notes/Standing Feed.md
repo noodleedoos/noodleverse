@@ -6,4 +6,4 @@ Summary:
 aliases: 
 Status:
 ---
-[[Perennial Ryegrass Management]]
+Whatever is left over i.e. stubble

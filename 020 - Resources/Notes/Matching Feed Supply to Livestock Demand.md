@@ -6,7 +6,7 @@ Summary:
 aliases: 
 Status:
 ---
-# DSE Stock Requirements
+1# DSE Stock Requirements
 ~
 DSE for the year on a self replacing enterprise is dependent on birth and duration of birthing period of herd
 
@@ -16,12 +16,16 @@ Match DSE requirements to pasture supply
 Autumn calving requires supplementary feed
 Shorter gestation/lactation = match seasonal fluctuations easier 
 Short joining period = animals at similar stages
+Impact of sales
+Category movement
+Duration of parturition
 [[Sheep x cropping]]
+![](https://i.imgur.com/IXSQKty.png)
+
 
 # Grazing Calculations
 
 ## How long can these sheep stay in the paddock?
-~
 - Stock introduced to paddock when it is 2500 kgDM/ha and removed when 1500 kgDM/ha.
 - If paddock 10 ha and pasture growing 50 kgDM/ha/d
 - Assume each sheep eats 1 kgDM/day (depends on grass quality)
@@ -39,6 +43,7 @@ Wethers can stay in paddock for 40 days
 - To manage during spring it is common for producers to not graze some paddocks and cut for silage/hay
 
 # Stock Needs
+*3 Rules of thumb*
 ~
 Pasture heigh below maintenance cannot meet needs
 Pasture above quality = less height needed
@@ -52,7 +57,7 @@ Selling livestock
 Agisting land (pay someone to take in/feed your stock)
 Lease more farms
 Use BCS on animals
-[[Supplementary Feed]]
+[[Supplementary Feed in Extensive Livestock Systems]]
 Novel feedtypes
 
 ## Considerations witth feeding Novel Feedtypes
@@ -73,6 +78,7 @@ Depends on replacing or non-replacing
 
 ## Agist/Lease Property
 *what is the diffference, what are the positives and negatives?*
+~
 Agistment - payment per animal over a short period
 Leasing - contract to manage farm for a specific period of years
 During drought ->agist/lease to areas not affected or where there is water irrigation
@@ -83,4 +89,4 @@ During drought ->agist/lease to areas not affected or where there is water irrig
 ~
 Might be reasonable to lose some score during a dificult season, but unsustainable for young/lactating stock
 
-[[Supplementary Feed]]
+[[Supplementary Feed in Extensive Livestock Systems]]

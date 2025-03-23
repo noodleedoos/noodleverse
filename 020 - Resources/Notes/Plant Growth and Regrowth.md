@@ -9,7 +9,11 @@ Status:
 # Plants in Southern Livestock production
 ~
 [[Temperate C3 plants]]
-# Seasonal Plant Growth
+
+# Plants in Tropical Livestock Production
+~
+[[Tropical C4 plants]]
+# Seasonal Plant Growth of an Annual Growing Plant
 ~
 Autumn: vegetative phase
 Winter: vegetative/reproductive phase
@@ -20,7 +24,7 @@ Summer: seed/grain development phase
 # Plant Phases, Energy and Protein
 *What plant state phase should you stay in and why?*
 ~
-Maintain pasture in vegetative state
+Maintain pasture in vegetative state (High energy and digestibility)
 ![](https://i.imgur.com/OPXmMrv.png)
 
 # Maximising Pasture Growth
@@ -28,7 +32,7 @@ Maintain pasture in vegetative state
 Irrigation, P and N fertilisers like super phosphate, in [[Gippsland]] - Dairy
 # Examples
 [[Perennial Pastures]]
-[[Pastures]]
+[[Pasture Management and Pasture in Extensive Production Systems]]
 
 # Measuring and Forecasting Pasture Growth
 ~
