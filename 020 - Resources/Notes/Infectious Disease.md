@@ -6,10 +6,10 @@ Summary:
 aliases: 
 Status:
 ---
-*How can infectious disease cause reproductive loss?*
+*How can infectious disease cause reproductive loss? give 2 examples of diseases*
 ~
-# Diseases transfered from male to female
+# Diseases transferred from male to female
 ~
 - [[EHV3]]
 - [[Ovine brucellosis]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-05,12,270-->

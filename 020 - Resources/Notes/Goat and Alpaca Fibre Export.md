@@ -11,4 +11,4 @@ aliases:
 - 15k tonnes of mohair (from [[Angora Goats]])
 - 5k tonnes of cashmere for 0.15% of total natural fibre production
 - 3.5k tonnes alpaca fibre produced in Peru, 1.5k tonnes around the world
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-04-02,6,250-->

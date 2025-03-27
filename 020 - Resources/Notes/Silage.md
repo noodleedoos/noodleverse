@@ -7,7 +7,8 @@ aliases:
 Status:
 ---
 # Comparison to Hay
+*How much % DM?*
 ~
 Higher moisture, quality and cost than [[Hay]]
 25-50% DM
-<!--SR:!2025-03-24,11,270-->
+<!--SR:!2025-04-26,30,270-->

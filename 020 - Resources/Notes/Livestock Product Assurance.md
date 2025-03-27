@@ -13,7 +13,7 @@ Status:
 - Used by red meat industry for consumer protection
 - Fill out [[National Vendor Declaration Form]]
 - LPA learning program to learn
-<!--SR:!2025-03-14,3,250-->
+<!--SR:!2025-04-05,12,270-->
 
 # 7 Requirements to fulfil LPA
 ~
@@ -24,4 +24,4 @@ Status:
 5. Livestock transactions and movements
 6. Biosecurity
 7. Animal Welfare
-<!--SR:!2025-03-17,5,248-->
+<!--SR:!2025-04-06,13,248-->

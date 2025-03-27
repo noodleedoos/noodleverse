@@ -15,15 +15,15 @@ Period of time males are in the paddock with females, is conducted expressed as 
 e.g joining period of 2 cycles for beef cattle will be
 ~
 6 weeks as each cycle is 21 days
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-07,14,292-->
 
 e.g. joining period of 3 cycles for sheep will be
 ~
 7-8 weeks as each cycle is 17 days
-<!--SR:!2025-03-27,8,252-->
+<!--SR:!2025-04-23,27,272-->
 
 # Heat detection
-*Describe the use of heat detection in natural mating vs supervised/AI mating for cattle, small ruminants, alpaca and deet*
+*Describe the use of heat detection in natural mating vs supervised/AI mating for cattle, small ruminants, alpaca and deer*
 ~
 Natural Mating: Males detect on-heat females via pheromones
 Supervised Mating/AI:
@@ -34,4 +34,4 @@ Supervised Mating/AI:
 - For horses - Ultrasound of follicles
 - Assess acceptance of male in a paddock
 - Alpaca and deer - male in the paddock
-<!--SR:!2025-03-24,11,272-->
+<!--SR:!2025-04-23,30,272-->

@@ -9,4 +9,4 @@ aliases:
 # Definition
 ~
 how many of a certain animal can be grazed in an area
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-05-13,47,290-->

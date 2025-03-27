@@ -26,7 +26,7 @@ All cloven-hoofed animals
 ~
 Slaughter all stock
 7 billion dollars cost in a small outbreak
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-07,14,290-->
 
 
 # Prevention
@@ -34,4 +34,4 @@ Slaughter all stock
 Producers and veterinarians should be aware of early signs
 Don't feed swill
 don't bring in meat
-<!--SR:!2025-03-23,10,270-->
+<!--SR:!2025-04-21,28,270-->

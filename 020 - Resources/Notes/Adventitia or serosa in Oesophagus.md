@@ -10,3 +10,4 @@ Status:
 ~
 Adventitia - in neck/oesophagus - sticks to surrounding tissues
 Serosa - lined by [[Mesothelium]] in thorax/abdomen (you don't want oesophagus to stick to adjacent layers here)
+<!--SR:!2025-03-30,3,250-->

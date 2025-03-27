@@ -14,7 +14,7 @@ Longer and larger cells
 Cross section
 ![](https://i.imgur.com/yAvvXFe.png)
 ![](https://i.imgur.com/3wLonEc.png)
-<!--SR:!2025-03-25,12,272-->
+<!--SR:!2025-04-28,32,272-->
 
 # 4 Locations
 ~
@@ -25,7 +25,7 @@ Attached to bones, tongue, pharynx, eye
 ~
 Voluntary Contract to facilitate movement via [[Contractile Apparatus of Skeletal Muscle]]
 [[Skeletal Muscle Contraction]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-07,14,290-->
 
 # Organisation of Skeletal Muscle
 ~

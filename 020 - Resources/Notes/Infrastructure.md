@@ -7,6 +7,7 @@ aliases:
 Status:
 ---
 # Types
+6 Examples
 ~
 [[Farm Fencing]]
 Equipment and its storage
@@ -14,21 +15,21 @@ Laneways for stock movement
 Water and power supplies
 [[Silage]] storage
 [[Personal Transport]]
-<!--SR:!2025-03-24,11,270-->
+<!--SR:!2025-04-22,29,270-->
 
 # Farm Infrastructure Requirements for Different Enterprises
 
 ## Dairy Farm
 ~
 - Dairy, silo, yards, landways, small paddock fencing (electric mostly), design regulations
-<!--SR:!2025-03-23,10,270-->
+<!--SR:!2025-05-02,39,290-->
 
 ## Merino Sheep
 ~
 - Shearing shed, sheep yards, silo, hay shed
-<!--SR:!2025-03-23,11,270-->
+<!--SR:!2025-05-09,43,290-->
 
-# Feeding Infrastructure
+# 7 Feeding Infrastructures
 ~
 - Containment zone (feedlot)
 - Drought plan (sell or feed stock?)
@@ -37,7 +38,7 @@ Water and power supplies
 - Water infrastructure and shade
 - Hay shed
 - Silo
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-04-28,32,270-->
 
 # Machinery
 * Provide 8 machines that you might find on an extensive production system.*
@@ -50,4 +51,4 @@ Water and power supplies
 - Grain enterprises may have harvester
 - spray equipment
 - Contractors used for specialised equipment like livestock transport or sowing pasture
-<!--SR:!2025-03-17,8,250-->
+<!--SR:!2025-04-13,20,250-->

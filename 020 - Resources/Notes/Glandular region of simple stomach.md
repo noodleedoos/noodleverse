@@ -20,11 +20,11 @@ Status:
 	3. Outer longitudinal
 4. Outer serosa
 ![](https://i.imgur.com/hkuLxu6.png)
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-04-04,8,250-->
 
 # Regions
 ~
 [[Cardiac Region of Simple Stomach]]
 [[Fundic Region of Simple Stomach]]
 [[Pyloric Region of Simple Stomach]]
-<!--SR:!2025-03-14,1,228-->
+<!--SR:!2025-04-07,11,268-->

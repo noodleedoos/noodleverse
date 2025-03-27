@@ -9,7 +9,7 @@ Status:
 # Overview
 ~
 left and right hip bone, in the [[Dog Skeleton]] it is 4 fused bones - ilium, ischium, pubis and acetabular bone
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-05-12,46,290-->
 
 
 # Key Points

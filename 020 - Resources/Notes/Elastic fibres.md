@@ -17,7 +17,7 @@ aliases:
 - Yellow fibrous tissue
 - Branched fibres, thinner than collagen
 ![[Pasted image 20241213154321.png]]
-<!--SR:!2025-03-25,12,272-->
+<!--SR:!2025-05-13,47,292-->
 
 
 # Function
@@ -36,4 +36,4 @@ Elasticity and resilience for tissues
 - Larger [[Arteries]]
 - some Vertebral [[Ligaments]]
 - [[Aorta]]
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-05-09,43,290-->

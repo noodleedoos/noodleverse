@@ -10,4 +10,4 @@ Status:
 ~
 Stud animals - sheep, goats, beef cattle
 Sometimes dairy cattle
-<!--SR:!2025-03-20,7,250-->
+<!--SR:!2025-04-17,24,270-->

@@ -15,7 +15,7 @@ aliases:
 2. Mechanical/chemical digestion
 3. Absorbing food
 4. Storing and disposing waste
-<!--SR:!2025-03-25,16,290-->
+<!--SR:!2025-05-30,64,310-->
 
 ## Structure
 ### 3 Regions
@@ -23,7 +23,7 @@ aliases:
 1. [[Mouth]]
 2. [[Pharynx]]
 3. [[Alimentary Canal]]
-<!--SR:!2025-03-25,7,257-->
+<!--SR:!2025-04-21,25,277-->
 
 ### Parts found within:
 *6 places*
@@ -47,7 +47,7 @@ aliases:
 - Stomach
 - Liver
 - Intestines
-<!--SR:!2025-03-25,12,277-->
+<!--SR:!2025-05-11,45,297-->
 
 # Related Concepts
 ```dataview

@@ -12,7 +12,7 @@ aliases:
 Large [[Leukocytes]] cell
 Migrated to the tissue
 ![[Screenshot 2025-03-08 at 7.56.25 pm.png]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-07,14,290-->
 
 
 # Function
@@ -25,7 +25,7 @@ Migrated to the tissue
 - Clear dead/dying tissue
 - Produce [[cytokines]]
 ![[Screenshot 2025-03-08 at 7.56.45 pm.png]]
-<!--SR:!2025-03-21,8,250-->
+<!--SR:!2025-04-17,21,250-->
 
 # Origin
 *What are macrophages derived from?*

@@ -12,4 +12,4 @@ Status:
 = income - variable costs
 GM per hectare or per [[Dry Sheep Equivalent]]
 considering [[Fixed Costs]] and [[Variable costs]]
-<!--SR:!2025-03-24,11,270-->
+<!--SR:!2025-05-09,43,290-->

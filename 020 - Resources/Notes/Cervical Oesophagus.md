@@ -15,4 +15,4 @@ Pharynx to thoracic inlet
 3. Median position above trachea at 1st rib
 ![](https://i.imgur.com/e3ajc21.png)
 ![](https://i.imgur.com/NuNg0ED.png)
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-04-05,9,250-->

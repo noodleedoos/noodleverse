@@ -26,10 +26,10 @@ aliases:
 *How can you cultivate subclover?*
 ~
 - set hard seed at end of spring, germinate at autumn break to avoid summer heat
-<!--SR:!2025-03-25,12,272-->
+<!--SR:!2025-04-29,33,272-->
 
 # Use
 *Where is CV used?*
 ~
 - in sheep/wheat zones
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-04-28,32,270-->

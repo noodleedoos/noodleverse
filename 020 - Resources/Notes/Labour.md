@@ -7,9 +7,8 @@ aliases:
 Status:
 ---
 *How is Labour expressed on paper?*
-~
 FTE - full time equivalent
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-09,16,292-->
 
 # Function
 *What are some examples of labour in farm management?*
@@ -22,7 +21,7 @@ FTE - full time equivalent
 *Describe the age profile of industry in comparison to Australian workforces*
 ~
 Generally older than average workforce
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-05-09,43,290-->
 
 # Measurement
 *How is labour measured and what is a reasonable benchmark for a low input system?*
@@ -37,6 +36,6 @@ Expressed as FTE/ha or FTE/DSE
 *What enterprise type has higher than what, and why?*
 ~
 [[self replacing]] has higher FTE/DSE than fattening enterprise since animals are handled less in the latter
-<!--SR:!2025-03-21,8,256-->
+<!--SR:!2025-04-21,28,276-->
 
 

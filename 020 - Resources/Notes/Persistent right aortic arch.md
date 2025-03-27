@@ -8,7 +8,8 @@ Status:
 ---
 # Aetiology
 ~
-(developmental anomaly) forms vascular ring around oesophagus causing restriction causing food accumulation
+(developmental anomaly) 
+Forms vascular ring around oesophagus causing restriction causing food accumulation
 
 # Affected Species
 ~

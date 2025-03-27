@@ -10,7 +10,8 @@ Status:
 ~
 - origin on frontal, parietal, temporal and occipital bones (lateral surface of cranium)
 - Insertion on coronoid process of mandible
-<!--SR:!2025-03-24,11,270-->
+![](https://i.imgur.com/96tFWZ1.png)
+<!--SR:!2025-04-02,6,250-->
 
 # Function
 ~
@@ -20,4 +21,4 @@ Status:
 # Species Variation
 ~
 Large in carnivores, small in herbivores - carnivores need quick forceful up and down - masseter is main muscle in herbivores for side to side
-<!--SR:!2025-03-21,1,210-->
+<!--SR:!2025-03-30,3,210-->

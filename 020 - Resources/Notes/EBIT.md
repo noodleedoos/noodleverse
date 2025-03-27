@@ -10,4 +10,4 @@ Status:
 ### EBIT
 ~
 Earnings before interest and tax
-<!--SR:!2025-03-25,5,230-->
+<!--SR:!2025-04-11,15,250-->

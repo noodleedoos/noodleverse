@@ -8,5 +8,5 @@ Status:
 ---
 # Definition
 ~
-Endocrine cell - gastrin
-<!--SR:!2025-03-17,4,270-->
+Endocrine cell - gastrin, secrete HCl
+<!--SR:!2025-04-07,14,290-->

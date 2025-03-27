@@ -23,9 +23,10 @@ Lipophillic
 ~
 Produced in thyroid
 
-# Secretion
+# Method of Secretion
 ~
 Exocytosis
+<!--SR:!2025-03-28,1,234-->
 
 # Transport
 ~
@@ -72,4 +73,4 @@ Thyroglobulin in colloid follicles, then cleaved to form prohormone [[Thyroxine]
 4. TSH causes thyroid to produce thyroxine, which downregulates the production of TSH and TRH
 ![](https://i.imgur.com/Pg2IVBF.png)
 ![](https://i.imgur.com/Ki8Mksg.png)
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-05-13,47,290-->

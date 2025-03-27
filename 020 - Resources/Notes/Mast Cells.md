@@ -18,7 +18,7 @@ aliases:
 *Where can mast cells be found and describe the population in connective tissues.*
 ~
 Close to blood vessels, low numbers in most connective tissues
-<!--SR:!2025-03-15,2,230-->
+<!--SR:!2025-03-29,5,230-->
 
 # Function
 *List 3 Functions*
@@ -27,7 +27,7 @@ Close to blood vessels, low numbers in most connective tissues
 - Attack bacteria/parasites - phagocytosis
 - trigger allergic reactions
 - Attract eosinophils to tissue
-<!--SR:!2025-03-24,11,272-->
+<!--SR:!2025-04-23,30,272-->
 
 # Chemicals it produces
 - [[Histamine]]

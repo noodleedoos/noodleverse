@@ -12,7 +12,7 @@ Polypipe (stock water)
 Irrigation from dams i.e. [[Murray Darling Basin]]
 Use: so animals can wander, evenly distributed grazing
 ![[Pasted image 20241214115600.png]]
-<!--SR:!2025-03-24,11,272-->
+<!--SR:!2025-05-04,41,292-->
 
 *In a country like Australia what is a potential issue with access to regular irrigation supply?*
 ~

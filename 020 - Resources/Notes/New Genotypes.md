@@ -7,11 +7,11 @@ Summary:
 aliases:
 ---
 # New Genotype
-*Give examples of a new genotype used in production systems and why they are usefule*
+*Give 4 examples of a new genotype used in production systems and 3 reasons for why they are useful*
 ~
 [[Bos indicus cattle]]
 [[Angora Goats]]
 [[Boer Goats]]
 [[Merino Sheep]]
 Useful: improve production, reduce disease, improve welfare
-<!--SR:!2025-03-24,11,270-->
+<!--SR:!2025-05-05,42,290-->

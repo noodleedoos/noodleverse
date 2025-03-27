@@ -12,7 +12,7 @@ aliases:
 - Free gingiva - collar around crown, separated by gingival sulcus
 - Attached gingiva - apical from free gingiva to merge with oral mucosa at muco-gingival margin
 - Interdental papilla - gingival peak between adjacent teeth
-<!--SR:!2025-03-22,9,250-->
+<!--SR:!2025-04-17,24,250-->
 
 # Related concepts
 [[Measuring the Health of a Tooth]]
@@ -21,4 +21,6 @@ aliases:
 *How can you measure the health of a tooth regarding gingiva?*
 ~
 depth of sulcus
-<!--SR:!2025-03-27,9,268-->
+1-2mm in dogs is normal
+1mm in cats is normal
+<!--SR:!2025-04-29,33,288-->

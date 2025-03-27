@@ -18,9 +18,9 @@ Liquid matrix and cells
 Solid???
 - [[Ligaments]]
 - [[Tendon]]
-<!--SR:!2025-03-24,11,270-->
+<!--SR:!2025-05-02,39,290-->
 
 # Structure
 ~
 - Cells in matrix
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-04,11,270-->

@@ -10,7 +10,7 @@ aliases:
 *In which species is animal identification consistent and where is planning?*
 ~
 - consistent for cattle, planning for sheep
-<!--SR:!2025-03-22,9,250-->
+<!--SR:!2025-04-19,23,250-->
 
  [[Eartags]]
 
@@ -20,5 +20,5 @@ aliases:
 ~
 - [[Withholding Period]]
 - [[Export Slaughter Interval]]
-<!--SR:!2025-03-20,7,250-->
+<!--SR:!2025-04-17,24,270-->
 

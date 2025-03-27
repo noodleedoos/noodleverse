@@ -10,7 +10,7 @@ Status:
 ~
 - Different stock (merino more respectful to fences than British sheep)
 - Cost of upkeep, monitor current testing in electric fences
-<!--SR:!2025-03-23,10,270-->
+<!--SR:!2025-05-02,39,290-->
 
 # Related Concepts
 [[Hefting]]

@@ -17,6 +17,6 @@ aliases:
 - Ligaments
 - Fascia (casing of connective tissue)
 ![[Screenshot 2025-03-03 at 3.56.46 pm.png]]
-<!--SR:!2025-03-20,8,250-->
+<!--SR:!2025-04-17,21,250-->
 
 

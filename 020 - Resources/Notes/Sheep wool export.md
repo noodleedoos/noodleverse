@@ -12,4 +12,4 @@ Sheep wool export
 - Biggest Exporter - Australia to China (477million tonnes exported)
 - China has largest sheep flock of high micron (low quality) wool
 ![[Pasted image 20250206113450.png]]
-<!--SR:!2025-03-20,7,250-->
+<!--SR:!2025-04-11,18,250-->

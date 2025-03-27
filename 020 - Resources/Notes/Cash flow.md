@@ -9,7 +9,7 @@ Status:
 ### Cash flow Budget
 ~
 Considers how much money will be coming in, your cost for the upcoming period, most commonly financial year (July to Jun)
-<!--SR:!2025-03-24,11,270-->
+<!--SR:!2025-05-09,43,290-->
 
 ### Cash Flow
 ~
@@ -20,4 +20,4 @@ Compare cashflow budget with bank statements monthly
 ![[Screenshot 2025-03-08 at 3.24.51 pm.png]]
 ~
 Cash flow is negative for the farm on the left
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-11,15,292-->

@@ -7,8 +7,9 @@ aliases:
 Status:
 ---
 # Common Procedures for Management
+*6 common procedures*
 ~ 
-##### [[Weaning]]
+[[Weaning]]
 [[Vaccination]]
 [[Tagging]]
 [[Castration]]

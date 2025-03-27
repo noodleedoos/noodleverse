@@ -6,12 +6,12 @@ Summary:
 aliases: 
 Status:
 ---
-# Function
+# 3 Functions
 ~
 1. Somatic sensation (pain, temperature, touch)
 2. Motor sensation (muscle movement)
 3. Special senses (Vision, taste, hearing)
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-05,12,270-->
 
 # Types
 1. [[Cranial Nerve I]]

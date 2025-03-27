@@ -12,7 +12,7 @@ Status:
 - larger = more organised
 - smaller = less political representation
 - Australian agricultural research sets aside funds for emerging industries
-<!--SR:!2025-03-18,5,248-->
+<!--SR:!2025-04-11,18,268-->
 
 # Organisations involved in inputs/outputs
 *Detail common providers of inputs and output services in extensive livestock systems and the role of veterinarians*
@@ -29,7 +29,7 @@ Status:
 - [[Retailers]]
 - [[Wholesalers]]
 - [[Information Providers]]
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-04-28,32,270-->
 
 # Research in Agriculture and Veterinary Science
 *How does it impact farms? Provide an example*
@@ -39,13 +39,13 @@ Over the last 50 years, Australian farms using the same amount of land are 3x mo
 Benefits producers
 see also: [[Research and Development Corporations|RDCs]]
 ![[Screenshot 2025-03-04 at 2.29.52 pm.png]]
-<!--SR:!2025-03-20,7,230-->
+<!--SR:!2025-04-09,16,230-->
 
 *Describe the trend in farm size and amount over time*
 ~
 - farm size increasing, less farms and workers
 ![[Screenshot 2025-03-04 at 2.32.00 pm.png]]
-<!--SR:!2025-03-24,11,288-->
+<!--SR:!2025-05-09,46,308-->
 
 # Related Concepts
 - [[Breed Societies]]

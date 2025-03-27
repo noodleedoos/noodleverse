@@ -7,7 +7,6 @@ aliases:
 Status:
 ---
 # Dorsal Root Ganglion Structure
-~
 - Capsule surrounding ganglion
 - Bodies of neurons
 - Bundles of neuronal processes

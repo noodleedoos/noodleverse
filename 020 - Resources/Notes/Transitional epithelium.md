@@ -18,9 +18,9 @@ Status:
 	- superficial layer of large, low cuboidal or squamous cells
 	- resembles stratified squamous epithelium.
 ![[Screenshot 2025-03-08 at 8.20.12 pm.png]]
-<!--SR:!2025-03-22,10,270-->
+<!--SR:!2025-04-21,28,270-->
 
 # Location
 ~
 - exclusively in the excretory urinary passages (including the ureter and the urinary bladder).
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-09,16,290-->

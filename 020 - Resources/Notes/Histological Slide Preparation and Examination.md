@@ -25,7 +25,7 @@ aliases:
 # Examination Considerations
 ~
 - 2D representation of 3D structure
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-09,16,290-->
 
 ## Artefacts
 *What are some examples of artefacts in histological slides?*
@@ -36,14 +36,14 @@ aliases:
 - Air bubbles in mounting medium
 - shrinkage of tissue
 ![](https://i.imgur.com/b7OZgxG.png)
-<!--SR:!2025-03-17,4,274-->
+<!--SR:!2025-04-07,14,294-->
 
 ## Staining Characteristics of H&E
 *What are the differences in staining characteristics of H&E?*
 ~
 [[Eosinophillic]] - pink cytoplasm
 [[Basophillic]] - nucleus blue (particularly DNA and RNA)
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-05-09,43,290-->
 
 | Staining Characteristic | Description | Mechanism                                                  |
 | ----------------------- | ----------- | ---------------------------------------------------------- |

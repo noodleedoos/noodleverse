@@ -25,21 +25,21 @@ Status:
 - Ventrally the fundus of the reticulum forms a rounded cul-de-sac that is in contact with the sternal part of the diaphragm, the liver, the omasum and the abomasum
 - Medial wall = reticular groove
 ![](https://i.imgur.com/BR4Hki3.png)
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-04-01,5,230-->
 
 # Internal
-What are teh opeings? What other 3 features are there?
+What are the opeings? What other 3 features are there?
 ~
 **3 Openings**
 - Cardia: slit junction of rumen and reticulum
 - Ruminoreticular orifice - wide opening
 - Reticulo-omasal orifice - round exit at end of reticular groove
 **Reticular groove** - on medial wall from cardio to reticulo-omasal orifice
-**Primary folds (reticular folds)** - become less honeycomby towards rumen. can contract slightly 
+**Primary folds (reticular folds)** - become less honeycomby towards rumen. can contract slightly
 Secondary folds - in the honeycomb structures
 Low papillae
 ![](https://i.imgur.com/G7p1xCi.png)
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-04-01,5,230-->
 
 # Structure of Wall of Reticulum
 *What are the layers of the wall of the reticulum?
@@ -56,9 +56,9 @@ Low papillae
 
 # Species Variation
 ~
-relatively bigger in sheep than cows
+relatively bigger in sheep than cows - maybe they need to sift more?
 - 5% total stomach capacity in ox, 7-8% in sheep
-<!--SR:!2025-03-20,2,226-->
+<!--SR:!2025-03-29,5,226-->
 
 # Function
 ~

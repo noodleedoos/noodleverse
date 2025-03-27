@@ -21,7 +21,7 @@ Status:
 
 # Types
 ~
-- [[Type I fibre]]
-- [[Type II Fibres]]
-- [[Intermediate fibres]]
+- [[Type I Muscle fibre]]
+- [[Type IIa Muscle Fibres]]
+- [[Type IIb Muscle fibres]]
 ![](https://i.imgur.com/bK30ZQW.png)

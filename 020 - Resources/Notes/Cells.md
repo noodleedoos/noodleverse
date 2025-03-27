@@ -13,7 +13,7 @@ tags:
 3. Eliminate wastes
 4. Synthesise protein
 5. Control movement of molecules into cell growth
-<!--SR:!2025-03-20,15,290-->
+<!--SR:!2025-05-22,59,310-->
 
 # Cell Structure
 ![](https://i.imgur.com/nclKzzH.png)
@@ -39,7 +39,7 @@ tags:
 *How are cells named according to differentiation?*
 ~
 examples - [[Fibroblast]] and [[Fibrocyte]]
-<!--SR:!2025-03-24,11,274-->
+<!--SR:!2025-05-07,44,294-->
 
 | Suffix | Description              | Example        |
 | ------ | ------------------------ | -------------- |

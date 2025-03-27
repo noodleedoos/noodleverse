@@ -16,13 +16,13 @@ Status:
 eID
 Male from back ear and female part or single tag
 Purchase from DPI
-<!--SR:!2025-03-16,7,250-->
+<!--SR:!2025-04-21,25,270-->
 
 ## Benefits
 ~
 rapid traceback if exotic disease identified
 Read using electronic reader during precision management e.g. weighing
-<!--SR:!2025-03-24,11,288-->
+<!--SR:!2025-05-11,45,308-->
 
 # Types
 ~

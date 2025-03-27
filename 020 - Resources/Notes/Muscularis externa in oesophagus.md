@@ -16,4 +16,4 @@ Status:
 - Pig, horse cat - cranially striated, caudally smooth
 - Dog, ruminant - all striated
 - Maybe to enable reverse peristalsis - regurgitation
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-04-03,7,250-->

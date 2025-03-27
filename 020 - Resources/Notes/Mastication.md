@@ -19,7 +19,7 @@ Move food into oral cavity from vestibules - [[Buccinator Muscle]] [[Cranial Ner
 ![](https://i.imgur.com/4RH04pX.png)
 ![](https://i.imgur.com/UXJ2YIt.png)
 ![](https://i.imgur.com/afnDRqo.png)
-<!--SR:!2025-03-16,3,230-->
+<!--SR:!2025-03-31,4,210-->
 
 
 

@@ -12,9 +12,9 @@ Status:
 - [[Australian Pesticides and Veterinary Medicines Authority]]
 - [[Department of Health]]
 - vet role - regulations around scheduled drugs (prescribing drugs on a schedule)
-<!--SR:!2025-03-25,12,272-->
+<!--SR:!2025-04-29,33,272-->
 
 # Factors required for Drug registration
 ~
 - Financial investment, time, data
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-09,16,290-->

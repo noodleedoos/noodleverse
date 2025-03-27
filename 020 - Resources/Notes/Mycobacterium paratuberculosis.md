@@ -10,9 +10,9 @@ Status:
 # Definition
 ~
 Johne's Disease (incurable bacterial infection) in large animals
-<!--SR:!2025-03-25,5,230--> 
+<!--SR:!2025-04-11,15,250--> 
 
 # Signs
 ~
 Wasting, death
-<!--SR:!2025-03-15,4,270-->
+<!--SR:!2025-04-05,12,270-->

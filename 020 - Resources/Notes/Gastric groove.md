@@ -14,7 +14,7 @@ Status:
 2. Omasal groove
 	1. Reticulo-omasal orifice to omaso-abomasal orifice
 3. Abomasal groove- no gastric folds
-<!--SR:!2025-03-22,2,210-->
+<!--SR:!2025-03-30,6,230-->
 
 # Function
 ~
@@ -22,4 +22,4 @@ muscular folds roll into tube when young animal drinks milk
 Convey milk from directly from oesophagus to abomasum
 Can be induced in adults for medication
 ![](https://i.imgur.com/PWhDZKI.png)
-<!--SR:!2025-03-16,3,250-->
+<!--SR:!2025-04-04,11,270-->

@@ -12,23 +12,23 @@ Status:
 ~
 Cell dense layer that covers internal and external surface, attached to basement membrane
 Can regenerate, avascular, polarized
-<!--SR:!2025-03-25,12,274-->
+<!--SR:!2025-04-29,33,274-->
 
 # Forms of Epithelium
 *What are the 2 forms of epithelium?*
 ~
 • [[Surface epithelium]] – sheets of cells that cover external surfaces and line internal surfaces of the body
 • [[Glandular epithelium]] – secretory cells of glands
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-09,16,292-->
 
-# Functions
+# 5 Functions
 ~
 1. Protection
 2. Secretion
 3. Absorption
 4. Digestion
 5. Filtration
-<!--SR:!2025-03-24,11,272-->
+<!--SR:!2025-04-23,30,272-->
 
 
 
@@ -37,7 +37,7 @@ Can regenerate, avascular, polarized
 - [[Microvilli and stereocilia]]
 - [[Cilia]]
 - [[Glands]]
-<!--SR:!2025-03-14,4,274-->
+<!--SR:!2025-04-11,15,294-->
 
 
 # Classification based on
@@ -54,12 +54,11 @@ height and the nuclei lie at different levels
 <!--SR:!2025-03-25,12,274-->
 
 ## Shape
-~
 1. Squamous cells – flat cells
 2. Cuboidal cells – Height and width of the cells are the same
 3. Columnar cells – cells are taller than they are wide
 ![[Screenshot 2025-03-08 at 8.10.00 pm.png]]
-<!--SR:!2025-03-25,12,274-->
+<!--SR:!2025-05-11,45,294-->
 
 # Types
 

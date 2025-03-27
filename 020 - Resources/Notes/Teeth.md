@@ -11,18 +11,18 @@ aliases:
 ~
 Rooted in alveolar bone
 ![[Screenshot 2025-03-03 at 4.50.58 pm.png]]
-<!--SR:!2025-03-24,11,277-->
+<!--SR:!2025-05-07,44,297-->
 
 # Tooth Surfaces
 *What is the vestibular surface?*
 ~
 Area between the lips, teeth and cheeks
-<!--SR:!2025-03-23,14,290-->
+<!--SR:!2025-05-19,56,310-->
 
 *When can we use the word palatine?*
 ~
 When referring to lingual teeth in the upper arcade
-<!--SR:!2025-03-14,4,274-->
+<!--SR:!2025-04-07,14,294-->
 
 *When can we use interdental surface names like mesial and distal?*
 ~
@@ -66,6 +66,8 @@ Cementum - cementoblasts
 | [[Gingiva]]              |                                                                   | Cover alveolar bone and around teeth | ![[Screenshot 2025-03-04 at 11.34.20 am.png]]                                                                                                                                                                                                                                             |
 
 
+## Innervation
+Cranial nerve V to maxillary and mandibular i.e. [[inferior alveolar nerves]] and [[Superior Alveolar Nerve]]
 # Related Concepts
 [[Tooth Development]]
 [[Horse Teeth]]
@@ -81,10 +83,10 @@ e.g. rodents
 ### Diphydont
 ~
 two sets of teeth
-<!--SR:!2025-03-14,4,280-->
+<!--SR:!2025-04-09,16,300-->
 
 ### Polyphydont
 ~
 2+ sets of teeth
 e.g. elephants since they live a long time and eat an abrasive diet
-<!--SR:!2025-03-24,11,279-->
+<!--SR:!2025-05-05,42,299-->

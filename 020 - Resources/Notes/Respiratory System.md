@@ -21,5 +21,5 @@ Head (nasal passages), neck, trachea, lungs thorax regions
 ~
 Carotid is more dorsal, jugular more ventral compared to trachea
 ![[Screenshot 2025-03-03 at 4.08.15 pm.png]]
-<!--SR:!2025-03-25,12,272-->
+<!--SR:!2025-04-29,33,272-->
 

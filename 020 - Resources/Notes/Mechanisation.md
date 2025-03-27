@@ -11,4 +11,4 @@ aliases:
 ~
 - from horsedrawn equipment to modern tractors
 - Result: less people required, more efficient, better sowing
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-11,15,290-->

@@ -11,4 +11,4 @@ aliases:
 ~
 Alveolar process - part of jaw containing socket
 alveolar bone proper/lamina dura - layer of bone lining socket
-<!--SR:!2025-03-22,9,250-->
+<!--SR:!2025-04-17,24,250-->

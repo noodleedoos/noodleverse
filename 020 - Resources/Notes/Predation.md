@@ -11,7 +11,7 @@ Status:
 ~
 Wild dogs, foxes, pigs
 Less common - birds of prey, crows
-<!--SR:!2025-03-23,10,270-->
+<!--SR:!2025-04-30,37,290-->
 
 ## Control methods
 ~
@@ -19,4 +19,4 @@ Less common - birds of prey, crows
 - shooting/baiting
 - safe containment areas
 - dog proof fences
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-05-11,45,290-->

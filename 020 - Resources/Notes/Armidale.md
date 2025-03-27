@@ -12,7 +12,7 @@ NSW
 Relatively green
 Can start lambing later than Seymour because there is a longer period of green grass. HIghest peaks of pasture later in year
 ![](https://i.imgur.com/QjrOq6a.png)
-<!--SR:!2025-03-19,1,210-->
+<!--SR:!2025-03-30,3,230-->
 
 *When? High rain between October-March, mid dec = peak pasture
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf6N6Gvq-oZiuObSMlryY-WYTFm4LQH6dMvkzxKk3blaKcZujl0z9np2WZpwjH8Hpmw5sN_egkIMz44zIpfrRaS0ffNLeiBuDC4d7WorH8lQpFshSx4OfAj6zjm057NJA_l4JBMFP5F5vPud0rmp54?key=vg2-_NyVBOsB6WPccjULq20a)
@@ -30,4 +30,4 @@ Start Calving = Oct
 # Fescue
 ~
 Grass
-<!--SR:!2025-03-21,3,250-->
+<!--SR:!2025-04-05,12,270-->

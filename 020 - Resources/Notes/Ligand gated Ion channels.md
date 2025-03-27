@@ -15,6 +15,7 @@ Very fast (Milliseconds)
 1. Receptor bound by ligand
 2. Ligand channel opens/closes
 3. Effect: Ions move across membrane
+<!--SR:!2025-03-30,3,250-->
 
 # Examples
 ~

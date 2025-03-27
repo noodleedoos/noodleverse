@@ -19,7 +19,7 @@ Status:
 - Pyloric (tubular region terminates at pyloric sphincter)
 ![](https://i.imgur.com/Myn3XPN.png)
 ![](https://i.imgur.com/cJRYVUo.png)
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-03-30,3,250-->
 
 
 # External Features
@@ -44,7 +44,7 @@ Status:
 - Cardia - inlet from oesophagus
 - Pylorus - outlet to duodenum
 ![](https://i.imgur.com/Nyte0Yv.png)
-<!--SR:!2025-03-14,1,228-->
+<!--SR:!2025-04-07,11,268-->
 
 # Location
 ~
@@ -86,7 +86,7 @@ What membranes can be found around the stomach
 3. Muscularis externa (3 layers outer longitudinal, middle circular, inner oblique)
 4. Serosa - simple squamous mesothelial cells secrete peritoneal fluid
 ![](https://i.imgur.com/DopddU7.png)
-<!--SR:!2025-03-22,2,226-->
+<!--SR:!2025-03-30,6,246-->
 
 # Simple Stomach Regions
 ~

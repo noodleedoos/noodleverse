@@ -13,7 +13,7 @@ Status:
 - Insert from wide area of caudal mandible
 - ![](https://i.imgur.com/spTaarK.png)
 ![[Pasted image 20250309140202.png]]
-<!--SR:!2025-03-15,3,248-->
+<!--SR:!2025-04-03,7,248-->
 
 
 # Function
@@ -23,4 +23,4 @@ Status:
 - Move lower jaw laterally when contracted on one side (origin lateral to insertion
 	- Greater sideways movement in herbivores than in carnivores
 - Protrude lower jaw
-<!--SR:!2025-03-23,3,210-->
+<!--SR:!2025-03-30,6,210-->

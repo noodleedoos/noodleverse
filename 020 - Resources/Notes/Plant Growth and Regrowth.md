@@ -42,6 +42,7 @@ Consider models on soil type, pasture levels and rainfall likelihood to determin
 *Which of the following seasons has the most consistent pasture growth in SE Australia (ie most commonly the same amount)?*
 ~
 Winter
+<!--SR:!2025-03-31,4,270-->
 
 ## Historical PGR
 *How to obtain?*

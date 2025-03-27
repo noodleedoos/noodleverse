@@ -13,4 +13,4 @@ Status:
 Crop residue post grain harvest that can be grazed
 Low energy, protein high fibre
 useful in drought, as bedding or with [[Grain]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-07,14,290-->

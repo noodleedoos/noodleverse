@@ -11,7 +11,7 @@ Status:
 ~
 [[Age at joining]]
 Timing of parturition, time and length of mating
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-07,11,272-->
 
 # Importance of reproduction
 *How can we maintain* group size and why should we?
@@ -19,12 +19,12 @@ Timing of parturition, time and length of mating
 1. Maintain group size
 2. Replace dead and those beyond effecting breeding age (Cast for age = CFA)
 3. Allow genetic selection
-<!--SR:!2025-03-22,9,257-->
+<!--SR:!2025-04-26,33,277-->
 
 # Percentage Requirements to maintain group and why
 ~
 - 50-60% so females can replaced culled
-<!--SR:!2025-03-21,8,254-->
+<!--SR:!2025-04-21,28,274-->
 
 # Impact on production
 ~
@@ -36,7 +36,7 @@ Must give birth to produce milk
 ~
 - Reduced handling in last third of gestation and post parturition
 - increase feed/attention in pregnant/lactating
-<!--SR:!2025-03-21,8,257-->
+<!--SR:!2025-04-14,21,257-->
 
 # Impacts of Reproduction on Animal health
 *What are 2 risks related to this, and how does ages in a self replacing group impact this?*
@@ -44,7 +44,7 @@ Must give birth to produce milk
 - STDs,
 - disease risk during pregnancy/lactation
 - Different ages in self replacing group means only a certain age group might be infected
-<!--SR:!2025-03-24,11,274-->
+<!--SR:!2025-04-23,30,274-->
 
 # Key Events in a reproduction system
 ~
@@ -53,7 +53,7 @@ Must give birth to produce milk
 3. Parturition
 4. Lactation
 5. Return to oestrus
-<!--SR:!2025-03-14,4,279-->
+<!--SR:!2025-04-09,16,299-->
 
 # Events relating to reproduction for females
 ~
@@ -87,14 +87,14 @@ Must give birth to produce milk
 3. Pre-weanning
 4. Post-weaning
 5. Adult
-<!--SR:!2025-03-23,10,272-->
+<!--SR:!2025-04-30,37,292-->
 
 # Estimate reproductive wastage
 ~
 - FInd difference between progeny and number of females bred x industry standard for progeny per female
-<!--SR:!2025-03-14,4,278-->
+<!--SR:!2025-04-11,15,298-->
 
-# Causes of reproductive loss
+# 6 Causes of reproductive loss
 ~
 1. [[Genetics Defects reducing reproductive rate]]
 2. [[Nutrition]]
@@ -102,7 +102,7 @@ Must give birth to produce milk
 4. [[Predation]]
 5. [[Environment]]
 6. Poor condition score
-<!--SR:!2025-03-25,12,277-->
+<!--SR:!2025-05-14,48,297-->
 
 # Measures to improve success
 *3 ways*

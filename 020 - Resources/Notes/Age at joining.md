@@ -11,9 +11,9 @@ Status:
 ~
 60-70% of adult bodyweight
 How: - the larger the animal, the longer before it will be mature enough to successfully mate/cope with weight of animal [[Mating Methods]]
-<!--SR:!2025-03-23,10,272-->
+<!--SR:!2025-05-04,38,292-->
 
 # Males
 ~
 [[Male Sexual Soundness Exam]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-11,15,290-->

@@ -9,9 +9,9 @@ Status:
 # Structure
 ~
 Have lost their nucleus and are filled with a keratin protein matrix
-<!--SR:!2025-03-14,4,270--> 
+<!--SR:!2025-04-07,14,290--> 
 
 # Function
 ~
 Increased resistance to mechanical forces
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-11,15,292-->

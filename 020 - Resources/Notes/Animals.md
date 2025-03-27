@@ -11,16 +11,16 @@ Status:
 ~
 - One species/multiple can spread risk/increase animal expertise
 - some only fatten, others have self replacing breed
-<!--SR:!2025-03-16,3,248-->
+<!--SR:!2025-04-04,11,268-->
 
 # Total numbers on property equation
 ~
 Animals per hectare x total hectares grazed
-<!--SR:!2025-03-18,7,250-->
+<!--SR:!2025-04-17,24,270-->
 
 
 # Animal Health and Veterinary Costs
 *What are 4 costs associated with animal health and veterinary?*
 ~
 Vaccinations,  parasites control, preventatives/treatments, veterinary assistance for pregnancy testing/health issues
-<!--SR:!2025-03-19,7,268-->
+<!--SR:!2025-04-11,18,268-->

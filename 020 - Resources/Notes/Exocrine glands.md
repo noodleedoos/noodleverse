@@ -9,8 +9,9 @@ Status:
 # Overview
 *What do they do and how?*
 ~
+Via ducts to external world
 Release the secretory product (e.g. milk, mucus, sweat) via a system of ducts that open onto of the surfaces of the body which are in contact with the external world (skin, respiratory tract, etc).
-<!--SR:!2025-03-23,10,275-->
+<!--SR:!2025-04-30,37,295-->
 
 # Morphology
 ~
@@ -20,7 +21,7 @@ Release the secretory product (e.g. milk, mucus, sweat) via a system of ducts th
 - [[Compound Glands]]
 ![[Screenshot 2025-03-08 at 8.40.52 pm.png]]
 ![[Screenshot 2025-03-08 at 8.41.37 pm.png]]
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-07,14,292-->
 
 
 # Summary table of Types

@@ -16,8 +16,9 @@ aliases:
 - Small amount of cytoplasm
 - Oval/round nucleus
 ![[Pasted image 20250307120722.png]]
+
 # Location
 ~
 Embryonic tissue
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-05-13,47,290-->
 

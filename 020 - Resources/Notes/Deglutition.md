@@ -19,4 +19,4 @@ In sum: mastication, insalivation, apex of tongue to palate, mylohyoideus and ex
 6. Bolus moves to [[Oesophagus]] by pharyngeal constrictors
 7. [[Peristalsis]] conveys bolus to stomach
 ![](https://i.imgur.com/unvaTFT.png)
-<!--SR:!2025-03-26,8,250-->
+<!--SR:!2025-04-17,21,250-->

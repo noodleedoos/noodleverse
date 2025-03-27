@@ -16,7 +16,7 @@ Status:
 *State the gestation period for cows, sheep, goat, deer and alpaca*
 ~
 283, 147, 150, 234, 345
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-05,12,272-->
 
 | Species       | Gestation period |
 | ------------- | ---------------- |
@@ -31,6 +31,6 @@ Status:
 ## Prolificacy
 ~
 - Progeny per pregnancy
-<!--SR:!2025-03-24,11,275-->
+<!--SR:!2025-05-05,42,295-->
 
 

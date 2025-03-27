@@ -9,7 +9,7 @@ Status:
 # Definition
 ~
 The gel-like substance in the [[Extracellular material]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-07,14,290-->
 
 
 
@@ -20,4 +20,4 @@ The gel-like substance in the [[Extracellular material]]
 2. Water storage
 3. Lubrication
 4. Nutrient and waste exchange
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-07,11,270-->

@@ -9,9 +9,10 @@ Status:
 ---
 # Structure
 ~
+Intermediate
 less sarcoplasm, less myoglobin, lots of myofibrils
 few mitochondria
+Intermediate
 # Function
 ~
-Fast glycolytic
-FIbres fatigue fast
+Fast oxidative

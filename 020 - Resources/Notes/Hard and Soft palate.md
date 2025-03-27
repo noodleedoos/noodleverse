@@ -10,12 +10,12 @@ Status:
 ~
 - Separates oral cavity from nasal cavity
 - Comprised of hard palate rostrally and soft palate caudally
-<!--SR:!2025-03-21,8,268-->
+<!--SR:!2025-04-24,31,288-->
 
 # Structure of Hard Palate
 ~
 - Bone covered by thick mucosa which forms ridges (rugae) pointing backwards to help guide food caudally
-<!--SR:!2025-03-17,5,248-->
+<!--SR:!2025-04-11,18,268-->
 
 ## Layers:
 *What are the layers of the hard palate? What is the difference in ruminants? Are there any salivary glands in any animals?*
@@ -26,13 +26,13 @@ Status:
 	- rostral portion of hard palate
 - heavy keratinised mucosa overlying a thick layer of dense connective tissue
 - Palatine glands (minor salivary) are present in all domestic species except pigs
-<!--SR:!2025-03-14,2,208-->
+<!--SR:!2025-03-28,4,208-->
 
-## Bone associated:
+## 3 Bones associated:
 ~
 - Incisive, maxilla and palatine bones
 ![](https://i.imgur.com/UFBmN9z.png)
-<!--SR:!2025-03-19,7,268-->
+<!--SR:!2025-04-11,18,268-->
 
 # Soft palate
 What are the layers of the soft palate? Do they have any salivary glands?
@@ -41,7 +41,7 @@ What are the layers of the soft palate? Do they have any salivary glands?
 - minor salivary glands (palatine)
 - 3 paired muscles which shorten, tense and raise the palate
 ![[Pasted image 20250309132205.png]]
-<!--SR:!2025-03-15,2,190-->
+<!--SR:!2025-03-28,4,190-->
 
 # Species Differences
 ~

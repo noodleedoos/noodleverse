@@ -11,7 +11,7 @@ aliases:
 ~
 - Murray Darling basin, natural water sources
 - Increase pasture/crop production e.g. [[Goulburn Valley in Victoria]]
-<!--SR:!2025-03-25,12,272-->
+<!--SR:!2025-04-29,33,272-->
 
 *How does irrigation work?*
 ~

@@ -13,6 +13,12 @@ Status:
 ~
 3130/3130 = 28 Decidious (No molars and no P1 lower)
 
+# Dog Teeth aging
+*What happens to specific dog teeth as they age?*
+~
+- Triscupid points on incisors, canine points worn away
+<!--SR:!2025-04-17,21,268-->
+
 
 # Dog Teeth Purposes
 *How does the shape and distribution of dog teeth relate to its diet and function?*

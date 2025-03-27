@@ -10,7 +10,7 @@ aliases:
 *Describe how the skull is formed*
 ~
 Interlocking of many bones, sutures (fibrous joinsts) are flexible to allow changes as animal grows and eventually infiltrate with bone to form single structure
-<!--SR:!2025-03-24,11,270-->
+<!--SR:!2025-05-02,39,290-->
 
 ## Bones of the Skull
 
@@ -28,7 +28,7 @@ Interlocking of many bones, sutures (fibrous joinsts) are flexible to allow chan
 10. zygomatic
 11. mandible
 ![[Screenshot 2025-03-03 at 2.02.21 pm.png]]
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-07,14,292-->
 
 
 *Which bones are unpaired?*
@@ -38,11 +38,11 @@ Interlocking of many bones, sutures (fibrous joinsts) are flexible to allow chan
 - vomer
 - ethmoid
 ![[Screenshot 2025-03-03 at 2.02.05 pm.png]]
-<!--SR:!2025-03-24,11,274-->
+<!--SR:!2025-04-23,30,274-->
 
 
 # Comparative anatomy
 Have a look!
 ~
 ![[Screenshot 2025-03-03 at 2.09.11 pm.png]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-11,15,290-->

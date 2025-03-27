@@ -16,19 +16,19 @@ aliases:
 4. Oral hygeine - antibacterial factors
 5. Alkaline buffering - for ruminants
 6. Evaporative cooling - dogs (panting)
-<!--SR:!2025-03-15,2,248-->
+<!--SR:!2025-03-29,5,248-->
 
 # 4 Locations
 ~
 Lips, cheeks, soft palate, tongue
-<!--SR:!2025-03-15,2,244-->
+<!--SR:!2025-03-31,7,264-->
 
 # Secretions types
 ~
 1. Mucous - carbohydrate rich
 2. Serous - protein rich
 3. Mixed - [[Mixed Glands]]
-<!--SR:!2025-03-21,3,248-->
+<!--SR:!2025-04-04,11,268-->
 
 # Types
 ~
@@ -38,7 +38,7 @@ Lips, cheeks, soft palate, tongue
 - [[Zygomatic Salivary Gland]]
 - [[Mixed Glands]]
 ## Summary Table
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-03-30,3,250-->
 
 | Gland                          | Structure and Location                                                              | Secretion         | Species Variation                                                                                                                                                   |
 | ------------------------------ | ----------------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -52,11 +52,11 @@ Lips, cheeks, soft palate, tongue
 
 # Microscopic Structure of Salivary Glands
 ~
-Branching duct system: acinus -> [[intercalated duct]] -> [[Striated duct]] -> [[Interlobular Duct]] -> primary duct 
+Branching duct system: acinus -> [[intercalated duct]] -> [[Striated duct]] -> [[Interlobular Duct]] -> primary duct
 Secretory cells in mucous/serous acini around lumen
 Walls become thicker as they need to hold more saliva
 ![](https://i.imgur.com/TogT7Dz.png)
-<!--SR:!2025-03-14,1,224-->
+<!--SR:!2025-03-29,2,224-->
 
 
 # Salivary Gland Acini
@@ -76,19 +76,20 @@ Walls become thicker as they need to hold more saliva
 
 
 # Salivary Gland Ducts
+what are 4 different types of salivary gland ducts?
 ~
-- [[intercalated duct]] - low cuboidal epithelium, smallest
-- [[Striated duct]] - columnar epithelium with basal straiations from alignment of mitochondria
 - [[Intralobular duct]] - larger duct within lobule
+1.  [[intercalated duct]] - low cuboidal epithelium, smallest
+2. [[Striated duct]] - columnar epithelium with basal straiations from alignment of mitochondria
 - [[Interlobular Duct]] - simple/stratified columnar
 ![](https://i.imgur.com/VE3L9yP.png)
-<!--SR:!2025-03-14,1,228-->
+<!--SR:!2025-04-02,6,248-->
 
 # Control of Salivary Secretion
 *What control is this under and what does stimulation cause?*
 ~
 - Autonomic parasympathetic control - stimulation from brain causes increased secretion and blood flow
-<!--SR:!2025-03-14,1,228-->
+<!--SR:!2025-04-07,11,268-->
 
 ## Stimuli for increased salivation
 ~
@@ -98,8 +99,8 @@ Walls become thicker as they need to hold more saliva
 
 ## Innervation
 ~
-[[Cranial Nerve VII]] = 
+[[Cranial Nerve VII]] =
 [[Mandibular Salivary Glands]], [[Sublingual Salivary Glands]], [[Buccal Salivary glands]] and [[Zygomatic Salivary Gland]]
 [[Cranial Nerve IX]] = [[Parotid Salivary Glands]]
-<!--SR:!2025-03-15,2,248-->
+<!--SR:!2025-03-31,7,268-->
 

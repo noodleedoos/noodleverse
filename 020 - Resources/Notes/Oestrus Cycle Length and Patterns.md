@@ -9,19 +9,19 @@ Status:
 # Definition
 ~
 Recurring physiological changes by reproductive hormones after puberty
-<!--SR:!2025-03-23,10,272-->
+<!--SR:!2025-05-04,38,292-->
 
 # Oestrus stage
 *AKA what? What does this stage do?*
 ~
 females only receptive to males during heat
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-05-11,45,290-->
 
 # Oestrus cycle lengths
 *Describe oestrus cycle length, time in oestrus and whether they are seasonal breeders for cattle, sheep, alpacas and deer*
 ~
 21/2-28, 17/24-28, none, 17-22/24 short
-<!--SR:!2025-03-22,9,254-->
+<!--SR:!2025-04-26,33,274-->
 
 | Animal                           | Length           | Time on Heat | Seasonal Breeders           |
 | -------------------------------- | ---------------- | ------------ | --------------------------- |
@@ -31,10 +31,10 @@ females only receptive to males during heat
 | Alpacas                          | no regular cycle | depends      | no                          |
 | Deer                             | 17-22 days       | 24 hours     | Short day                   |
 
-# Factors increasing amount of females coming into oestrus
+# Factor increasing amount of females coming into oestrus
 ~
 presence of male
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-08,15,290-->
 
 # 2 Factors reducing amount of females coming into oestrus
 ~

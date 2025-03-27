@@ -24,14 +24,13 @@ Summary:
 
 
 # Sensory Division
-~
 - Afferent - picks up sensory stimuli
-<!--SR:!2025-03-14,3,252-->
+<!--SR:!2025-04-05,12,272-->
 
 ## Special Senses
 ~
 ![[Screenshot 2025-03-03 at 4.03.51 pm.png]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-11,15,290-->
 
 # Motor Division
 [[Somatic Nervous System]]

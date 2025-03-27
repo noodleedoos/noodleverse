@@ -15,7 +15,7 @@ Status:
 - Tongue is connected to the floor of the oral cavity by lingual frenulum
 ![[Pasted image 20250309132258.png]]
 ![[Pasted image 20250309132303.png]]
-<!--SR:!2025-03-22,9,250-->
+<!--SR:!2025-04-28,32,270-->
 
 
 ## Mucosa Layer of tongue
@@ -25,13 +25,13 @@ Mucosa
 - Mucosal epithelium on the ventral aspect is non-keratinised
 - The mucosa has abundant capillaries and arteriovenous anastomoses
 	- These participate in thermoregulation (e.g. heat loss - panting)
-<!--SR:!2025-03-14,1,235-->
+<!--SR:!2025-04-07,11,275-->
 
 ## Location of Salivary glands in tongue
 ~
 - Minor salivary glands are in the submucosa (lingual glands)
 - Serous gustatory glands open into the sulcus of the [[Vallate or Circumvallate Papillae]]
-<!--SR:!2025-03-21,8,250-->
+<!--SR:!2025-04-16,20,250-->
 
 
 ## See Also
@@ -48,7 +48,7 @@ Horse - Median dorsal lingual cartilage, foliate papillae
 Pig - foliate papillae
 Ox - no foliate papillae
 Cat - cavopapillae
-<!--SR:!2025-03-23,10,270-->
+<!--SR:!2025-04-19,26,270-->
 
 | Species    | Variation                                                                                                                                                                                                                                        |     |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
@@ -67,7 +67,7 @@ Cat - cavopapillae
 ~
 [[Mylohyoideus Muscle]], [[Geniohyoidieus Muscle]]
 ![](https://i.imgur.com/qFlJzfh.png)
-<!--SR:!2025-03-23,10,270-->
+<!--SR:!2025-05-04,38,290-->
 
 
 ### Summary Table
@@ -78,9 +78,10 @@ Cat - cavopapillae
 | [[Geniohyoidieus Muscle]] | Originates from chin and attaches to the basihyoid                                           | Pulls the hyoid apparatus rostrally when contracts which indirectly moves the tongue | (genio = chin)                      |
 
 ## Intrinsic and Extrinsic Muscles
-~
+all by hypoglossal nerve, 
 [[Intrinsic Tongue Muscles]]
 [[Extrinsic Tongue Muscles]]
+
 ### Summary Table
 <!--SR:!2025-03-14,4,270-->
 

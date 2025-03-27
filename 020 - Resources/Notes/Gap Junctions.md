@@ -6,6 +6,6 @@ Summary:
 aliases: 
 Status:
 ---
-# FUnction
+# Function
 ~
 Quick signals for coordinated functions between adjacent cells

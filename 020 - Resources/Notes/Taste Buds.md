@@ -21,7 +21,7 @@ Base is in contact with fibres of nerves that convey sense of taste to brain fro
 <!--SR:!2025-03-21,8,250-->
 
 # Location
-*Where can taste buds be found, and on what?*
+*Where can taste buds be found, and on what type of papillae?*
 ~
 Soft palate, epiglottis, pharynx, epithelium of gustatory papillae
-<!--SR:!2025-03-23,10,270-->
+<!--SR:!2025-05-02,39,290-->

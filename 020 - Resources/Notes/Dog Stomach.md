@@ -15,3 +15,4 @@ Status:
 - Extensive greater omentum (peritoneum) for lots of fat storage as an energy reserve
 - Wide cardia, can vomit and regurgitate for puppies
 ![](https://i.imgur.com/9ttcWB5.png)
+<!--SR:!2025-03-30,3,250-->

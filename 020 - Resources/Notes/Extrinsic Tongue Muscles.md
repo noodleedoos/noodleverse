@@ -16,5 +16,8 @@ Genioglossus from chin, styloglossus, hyoglossus from hyoid
 # Function
 ~
 Depress, protrude, retract tongue
+Stylo (sting) -retract
+Genio (genius) - protrude
+Hyo (hi!) - depress
 ![](https://i.imgur.com/3QzvwF0.png)
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-11,15,290-->

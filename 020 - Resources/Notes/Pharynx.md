@@ -33,7 +33,7 @@ Mucosa with mucous glands, collagen and elastic fibres
 Air - from [[Nasopharynx]] to [[larynx]] to [[Strategic Animal Health]]
 Food  - from [[[Oropharynx]] to [[Laryngopharynx]] to [[Oesophagus]]
 ![](https://i.imgur.com/VvXYm1Q.png)
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-07,14,292-->
 
 | Function | Passage                                                 |
 | -------- | ------------------------------------------------------- |
@@ -58,6 +58,6 @@ Dilators, shorteners, constrictors
 [[Cranial Nerve VII]] and [[Cranial Nerve X]]
 Motor and sensory: also [[Cranial Nerve IX]]
 ![[Screenshot 2025-03-09 at 2.24.38 pm.png]]
-<!--SR:!2025-03-18,5,232-->
+<!--SR:!2025-04-09,13,232-->
 
 

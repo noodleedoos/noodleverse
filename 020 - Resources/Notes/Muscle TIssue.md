@@ -19,8 +19,7 @@ aliases:
 - [[Muscle cells]]
 
 # Types
-~
 [[Skeletal Muscle]]
 [[Smooth Muscle Tissue]]
 [[Cardiac Muscle]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-07,14,290-->

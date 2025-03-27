@@ -11,12 +11,12 @@ Status:
 Mainly on right of midline, from 7th-11th rib
 Rumen/reticulum on left, liver/bodywall on right
 ![](https://i.imgur.com/vOESE6d.png)
-<!--SR:!2025-03-16,3,250-->
+<!--SR:!2025-03-31,7,250-->
 
 # Species Variation
 ~
 Smallest compartment in sheep and goat
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-03-30,3,230-->
 
 # External features
 *What is the shape of the omasum? How does it related to other structures?*
@@ -26,7 +26,7 @@ Smallest compartment in sheep and goat
 - Lower pole - extensive attachment to fundic region of abomasum around omaso-abomasal orifice
 - Much of right side covered by lesser omentum
 ![](https://i.imgur.com/vOESE6d.png)
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-04-01,5,230-->
 
 # Internal Features
 *Six features1*
@@ -47,4 +47,4 @@ Absorb fatty acids, water, salt
 2 stage pump for transfer of ingesta from reticulum to abomasum
 Sieve for quality control separation
 ![](https://i.imgur.com/KzH3XVF.png)
-<!--SR:!2025-03-16,3,250-->
+<!--SR:!2025-04-07,11,270-->

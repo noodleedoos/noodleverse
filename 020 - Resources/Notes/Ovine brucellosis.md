@@ -8,5 +8,5 @@ Status:
 ---
 # Signs
 ~
-Male infertility
-<!--SR:!2025-03-23,10,270-->
+Male infertility, lesions on male sheep
+<!--SR:!2025-04-23,27,270-->

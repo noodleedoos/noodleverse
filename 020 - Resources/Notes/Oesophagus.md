@@ -15,7 +15,7 @@ Gullet
 # Function
 ~
 Conduct food from mouth to stomach
-<!--SR:!2025-03-16,3,266-->
+<!--SR:!2025-04-07,11,286-->
 
 # Structure and Location
 ~
@@ -25,7 +25,8 @@ Simple musclular tube from cricoid cartilage of larynx to cardia of stomach
 1. [[Cervical Oesophagus]]
 2. [[Thoracic Oesophagus]]
 3. [[Abdominal Oesophagus]]
-<!--SR:!2025-03-21,3,250-->
+![](https://i.imgur.com/FesniYz.png)
+<!--SR:!2025-04-04,11,270-->
 
 ## Layers
 ~
@@ -41,15 +42,15 @@ inner to outer
 # Blood supply
 ~
 - Branches of:
-- Down neck [[common carotid artery]], 
+- Down neck [[common carotid artery]],
 - Thoracic  - [[bronchoesophageal artery]]
 - Abdomen - [[left gastric artery]]
-<!--SR:!2025-03-15,2,249-->
+<!--SR:!2025-03-28,1,209-->
 
 # Innervation
 ~
 - Branches of vagus and [[Sympathetic Nerves]]
-<!--SR:!2025-03-23,5,249-->
+<!--SR:!2025-04-06,13,249-->
 
 # Species variation
 ## Birds
@@ -59,7 +60,7 @@ Oesophagus in right side of neck in cervical region
 [[Crop]] - saccular diverticulum of oesophagus cranial to thoracic inlet
 ![](https://i.imgur.com/lr9B3mS.png)
 ![](https://i.imgur.com/f2F2NzW.png)
-<!--SR:!2025-03-20,2,230-->
+<!--SR:!2025-03-29,2,210-->
 
 ## Carnivore Oesophagus 
 ~

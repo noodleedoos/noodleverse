@@ -9,5 +9,5 @@ Status:
 # Definition
 ~
 Enterochromaffin like cells
-Histamines
-<!--SR:!2025-03-14,1,230-->
+aid in the production of gastric acid via the release of histamine.
+<!--SR:!2025-03-28,1,210-->

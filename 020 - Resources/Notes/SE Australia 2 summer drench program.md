@@ -12,4 +12,4 @@ Status:
 Drench twice in one summer (or more commonly now [[Fecal Egg Count]])
 Break parasite lifecycle over summer use less drench for rest of year
 Reduces amount of antithelmics needed
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-11,15,290-->

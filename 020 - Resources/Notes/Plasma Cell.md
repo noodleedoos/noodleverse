@@ -10,7 +10,7 @@ aliases:
 *Where are plasma cells derived from?*
 ~
 - [[B Lymphocyte]]
-<!--SR:!2025-03-22,2,250-->
+<!--SR:!2025-04-03,7,270-->
 
 
 # Histology
@@ -20,15 +20,16 @@ aliases:
 - Abundant basophilic cytoplasm, blue
 ![](https://i.imgur.com/XiEp9Q4.png)
 ![[Pasted image 20250308143018.png]]
-<!--SR:!2025-03-23,10,272-->
+<!--SR:!2025-04-30,37,292-->
 
 # Location
+where do they migrate from and where are they not usually found?
 ~
 - migrated from bone marrow, not usually in blood
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-05,12,272-->
 
 # Function
 ~
 - Antibody producing calls
 - Attack bacteria and virus
-<!--SR:!2025-03-21,8,252-->
+<!--SR:!2025-04-14,21,252-->

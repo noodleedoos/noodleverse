@@ -21,7 +21,7 @@ status:
 - integration with pasture/grain system
 - [[Herbicides and Pesticides]]
 - [[Round-Up]]
-<!--SR:!2025-03-22,9,252-->
+<!--SR:!2025-04-25,32,272-->
 
 # Critical Terms in Managing Pasture
 ~
@@ -35,14 +35,14 @@ kgDM/ha of pasture grown/utilised
 [[Silage]]
 
 # Factors influencing
-*Detail the decision making process for commencement of supplementary feeding of livestock and relevant feedstuffs/requirements. What factors influence it?*
+*Detail the decision making process for commencement of supplementary feeding of livestock and relevant feedstuffs/requirements. What 4 factors influence it?*
 ~
 - Significant cost to intensive industries - need [[Supplementary Feed in Extensive Livestock Systems]]
 - Environment and topography (e.g. drought)
 - Enterprise type e.g.
 	- Supplementary feed in dairies to feed cows in bail (convince cows to come get milked)
 - Market - roughage in a drought will be more expensive
-<!--SR:!2025-03-23,10,270-->
+<!--SR:!2025-04-30,37,290-->
 
 # Conservation of feed Options
 ~
@@ -54,7 +54,7 @@ kgDM/ha of pasture grown/utilised
 - [[Fodder]]
 - [[Pasture phase]]
 - [[Standing Feed]]
-<!--SR:!2025-03-24,11,270-->
+<!--SR:!2025-05-09,43,290-->
 
 # Related Concepts
 [[Plant Growth and Re[[Pasture Management and Pasture in Extensive Production Systems]]astures]]
@@ -66,14 +66,14 @@ kgDM/ha of pasture grown/utilised
 - fertiliser
 - cost of sowing
 - lost grazing opportunity
-<!--SR:!2025-03-19,10,270-->
+<!--SR:!2025-04-23,27,270-->
 
-# Factors causing Variations
+# 3 Factors causing Variations
 ~
 - rainfall
 - soil type
 - temperature - [[Annual Pastures]] vs [[Perennial Pastures]]
-<!--SR:!2025-03-24,11,277-->
+<!--SR:!2025-04-23,30,277-->
 
 # Trends in Pasture in Australia
 - [[Temperate C3 plants]] in Southern Australia
@@ -83,7 +83,7 @@ kgDM/ha of pasture grown/utilised
 ~
 - Animals get variety
 - Clover fixes N into soil that rye can use for growth
-<!--SR:!2025-03-24,15,292-->
+<!--SR:!2025-05-07,44,292-->
 
 
 # Animals who eat pasture

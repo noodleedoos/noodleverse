@@ -8,4 +8,4 @@ Status:
 ---
 # Aeitology
 ~
-Lymphoid tissue and stratified squamous epithelium growth
+Lymphoid tissue and stratified squamous epithelium growth. it is cancer

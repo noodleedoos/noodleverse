@@ -17,7 +17,7 @@ tags:
 - Higher rainfall zone on the coast
 - Fertile deep soil
 - Dairy Cattle
-<!--SR:!2025-03-24,11,270-->
+<!--SR:!2025-05-02,39,290-->
 
 *What enterprise are you likely to find  from Ballarat to Bendigo*
 ~
@@ -30,7 +30,7 @@ tags:
 - North Western Victoria
 - Sheep, goats more uncommon
 - Due to less rainfall, drier
-<!--SR:!2025-03-23,10,270-->
+<!--SR:!2025-03-29,5,250-->
 
 *What enterprise are you more likely to find at Benalla and why?*
 ~
@@ -44,6 +44,6 @@ tags:
 - Irrigation due to flat area - dairy cattle
 - Sometimes sheep or beef
 ![[Screenshot 2025-03-06 at 4.39.15 pm.png]]
-<!--SR:!2025-03-21,8,250-->
+<!--SR:!2025-03-28,4,230-->
 
 # Notes

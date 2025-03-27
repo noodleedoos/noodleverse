@@ -8,6 +8,6 @@ aliases:
 ---
 # Types of Toxicities
 ~
-- Ryegrass
-- phalaris
-<!--SR:!2025-03-14,4,270-->
+- Ryegrass fungus
+- phalaris - young plant has alkaloids
+<!--SR:!2025-04-08,15,290-->

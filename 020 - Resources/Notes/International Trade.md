@@ -11,13 +11,13 @@ aliases:
 ~
 Large agricultural population, low population
 e.g. Australia/NZ
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-11,15,292-->
 
 # Challenges
 ~
 - Meat/milk short shelf life without processing
 - [[Politics]]
-<!--SR:!2025-03-14,4,275-->
+<!--SR:!2025-04-07,14,295-->
 
 # Exchange rate Challenges
 ~

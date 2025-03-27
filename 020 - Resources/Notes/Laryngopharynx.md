@@ -11,4 +11,4 @@ Status:
 - Dorsal to larynx and extends from intrapharyngeal ostium to opening of oesophagus Wider rostrally, narrow towards entrance to oesophagus
 	- Its floor is largely occupied by entrance to the larynx
 ![](https://i.imgur.com/QQqf7H8.png)
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-05-13,47,290-->

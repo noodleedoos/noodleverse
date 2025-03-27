@@ -12,5 +12,5 @@ Status:
 # Prevention in Australia
 ~
 Transmissible Spongiform Encephalopathy monitoring program is ongoing, where BSE is detected and monitored
-<!--SR:!2025-03-14,3,250-->
+<!--SR:!2025-03-31,7,250-->
 

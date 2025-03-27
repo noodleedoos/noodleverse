@@ -11,7 +11,7 @@ Status:
 ~
 - Medial to mandible from pterygopalatine region of skiull to medial face of mandible
 ![[Pasted image 20250309135724.png]]
-<!--SR:!2025-03-20,7,250-->
+<!--SR:!2025-04-14,18,250-->
 
 # Function
 - Close jaws

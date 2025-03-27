@@ -9,7 +9,8 @@ Status:
 # Function
 *When is fodder used?*
 ~
+Dry hay or straw
 During winter for stock/animals during feed limiting
 During dry summer when feed quality is low
-<!--SR:!2025-03-24,11,270-->
+<!--SR:!2025-04-23,30,270-->
 

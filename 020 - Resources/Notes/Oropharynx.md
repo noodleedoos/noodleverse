@@ -9,4 +9,4 @@ Status:
 # Structure and Location
 ~
 - Ventral to soft palate, Extends from palatoglossal arches to base of epiglottis and caudal margin of soft palate
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-04-28,32,270-->

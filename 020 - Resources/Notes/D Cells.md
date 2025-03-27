@@ -9,4 +9,4 @@ Status:
 # Function
 ~
 endocrine cell - produces [[Somatostatin]]
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-03-28,1,210-->

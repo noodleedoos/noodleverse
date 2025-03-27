@@ -13,10 +13,11 @@ Status:
 - Branching
 - Striated
 ![](https://i.imgur.com/zcKUF5m.png)
-<!--SR:!2025-03-24,11,270-->
+
 # Location
 ~
 Found in wall of heart
+<!--SR:!2025-04-02,6,250-->
 
 # Function
 ~

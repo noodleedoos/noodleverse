@@ -10,4 +10,4 @@ Status:
 *How can dairy cows produce beef?*
 ~
 bobby calves, cull heifers and cows
-<!--SR:!2025-03-23,10,270-->
+<!--SR:!2025-04-30,37,290-->

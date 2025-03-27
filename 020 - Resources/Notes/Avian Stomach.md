@@ -12,7 +12,7 @@ Status:
 [[Proventriculus]]  separated by narrow channel called isthmus to [[Gizzard]]
 ![](https://i.imgur.com/HHRXBYf.png)
 ![](https://i.imgur.com/26UsWVu.png)
-<!--SR:!2025-03-15,3,250-->
+<!--SR:!2025-04-04,11,270-->
 
 # Processing food
 1. Food enters proventriculus

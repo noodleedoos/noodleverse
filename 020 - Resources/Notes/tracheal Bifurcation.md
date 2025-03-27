@@ -8,6 +8,6 @@ Status:
 ---
 # Definition
 ~
-Branching into two bronchi
+The point where the trachea branches into two bronchi
 ![](https://i.imgur.com/yvKlIW0.png)
-<!--SR:!2025-03-14,1,230-->
+<!--SR:!2025-03-30,3,230-->

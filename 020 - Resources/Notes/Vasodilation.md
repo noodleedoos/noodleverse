@@ -6,7 +6,7 @@ Summary:
 aliases: 
 Status:
 ---
-# Mechanism for Vasodilation
+# Mechanism for Vasodilation within endothelial cells
 ~
 within endothelial cells
 GPCR linked to [[Gq Proteins]] complex
@@ -14,8 +14,8 @@ In sum: ACh -> Muscarinic M3 receptor -> PIP2 -> DAG and IP3 -> Ca2+ -> Calmodul
 1. ACh binds Muscarinic M3 receptor to linked Gq Protein on endothelial cell
 2. PIP2 -> DAG and IP3
 3. IP3 Opens Ca2+ stores in cytoplasmic reticulums
-4. Gq receptor takes in Ca2+ 
-5. Ca2+ binds to Calmodulin 
+4. Gq receptor takes in Ca2+
+5. Ca2+ binds to Calmodulin
 6. Ca2+ calmodulin complex activates Nitric Oxide Synthase
 7. Arginine converted to Citruline to make Nitric Oxide
 8. NO diffuses through to cytosol of smooth muscle cell

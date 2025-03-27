@@ -18,10 +18,11 @@ Clear granules, clear cytoplasm in most species
 ~
 4-12h in blood
 1-2d in tissues
+
 # Function
 ~
 first responders to acute inflammation and microbial infection
-<!--SR:!2025-03-15,3,230-->
+<!--SR:!2025-03-31,7,230-->
 
 # Species variation
 ~

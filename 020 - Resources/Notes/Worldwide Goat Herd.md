@@ -10,4 +10,4 @@ aliases:
 ~
 0.75 billion goats, similar feeding requirements to sheep, population difference due to preference, grown in similar areas
 ![[Pasted image 20250206104852.png]]
-<!--SR:!2025-03-23,10,270-->
+<!--SR:!2025-04-30,37,290-->

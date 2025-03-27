@@ -19,27 +19,26 @@ Mutual grooming
 ~
 Walk slowly most of the day
 Sleep standing up
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-05-11,45,290-->
 
 # Communication
 *How do they communicate? What does a submissive position look like?*
 ~
 Body language, ear/tail position, facial expression, vocalisation
 Submission - lower head, look away
-<!--SR:!2025-03-19,7,268-->
+<!--SR:!2025-04-21,25,288-->
 
 # Aggression
 ~
 Threat: head toss/extension, ears back, stare, lifting leg, bite
 In unstable groups: strikes, charging, kicking
 Built for flight not fight
-<!--SR:!2025-03-17,5,248-->
+<!--SR:!2025-04-11,18,268-->
 
 # Management of horses
 *How should you house horses? Do they like to be alone or together?*
-~
 At least 1 companion
-<!--SR:!2025-03-19,7,268-->
+<!--SR:!2025-04-21,25,288-->
 
 ## Common Ailments of Poor Management
 ~
@@ -55,13 +54,13 @@ Related to eating and moving - unfulfiled motivation for grazing and locomotion
 - Fence/box walking
 - pacing
 - wood chewing
-<!--SR:!2025-03-16,3,260-->
+<!--SR:!2025-04-05,12,280-->
 
 ## Innate horse behaviour contributing to fence injuries
 ~
 - Flight behaviour, prey, used to open spaces
 - Leg gets caught, fight to free themselves
-<!--SR:!2025-03-20,7,269-->
+<!--SR:!2025-04-11,18,269-->
 
 ## Problems with stable confinement and minimisation strategies
 ~
@@ -69,7 +68,7 @@ Related to eating and moving - unfulfiled motivation for grazing and locomotion
 - Herd behaviour - companion
 - Injuries from slamming into walls
 - Boredom - enrichment
-<!--SR:!2025-03-17,4,280-->
+<!--SR:!2025-04-13,17,300-->
 
 # Catching a horse
 <!--SR:!2025-03-14,3,269-->
@@ -78,24 +77,23 @@ Related to eating and moving - unfulfiled motivation for grazing and locomotion
 ~
 - Reasons: past negative experience, unfamiliar catcher, herd behaviour
 - Consequence: increased FAS, injury
-<!--SR:!2025-03-14,3,269-->
+<!--SR:!2025-04-07,11,289-->
 
 ## Problems with using a bucket of feed to bribe horse to come
 ~
 - Younger animals/injured lower in hierarchy -> less likely to reach feed
-<!--SR:!2025-03-14,3,269-->
+<!--SR:!2025-04-04,11,289-->
 
 ## Problems when tying horse to fence
 ~
 - Not adequate restraint, causes panic and injury if tries to escape
-<!--SR:!2025-03-20,7,269-->
+<!--SR:!2025-04-19,26,289-->
 
 ## How to halter a horse successfully
-~
 1. Approach calmly to not trigger flight response
 2. Make sure horse knows you are present so it doesn't get spooked
 3. Consider blind spots - put lead rope on then halter from side
-<!--SR:!2025-03-20,7,269-->
+<!--SR:!2025-04-19,26,289-->
 
 ## Considerations when examining a horse
 *Where should you examine a nervous horse and what resources might you need?*
@@ -118,7 +116,7 @@ Related to eating and moving - unfulfiled motivation for grazing and locomotion
 - Nostrils flared and scrunched
 - Ears back - listening behind, doesn't want to leave
 ![](https://i.imgur.com/rmrCv3R.png)
-<!--SR:!2025-03-20,7,269-->
+<!--SR:!2025-04-11,18,269-->
 
 ## Relaxed horse
 ~
@@ -141,7 +139,7 @@ Swishing - For the flies if not being ridden, might be injured/uncomfortable, or
 ~
 - positive reinforcement using pressure and release
 - Desensitisation of face touching via incremental pressure
-<!--SR:!2025-03-14,3,269-->
+<!--SR:!2025-04-07,11,289-->
 
 ## Resources
 - [[Nose Twitch]]

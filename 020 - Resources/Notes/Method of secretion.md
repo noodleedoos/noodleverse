@@ -6,9 +6,9 @@ Summary:
 aliases: 
 Status:
 ---
-# Types of secretion
+# Methods of secretion
 ~
 • [[Merocrine secretion]]
 • [[Apocrine secretion]]
 • [[Holocrine secretion]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-05,12,270-->

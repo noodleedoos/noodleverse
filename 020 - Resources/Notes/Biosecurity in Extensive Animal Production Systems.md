@@ -11,12 +11,11 @@ aliases:
 - Island nation - clean, green
 - elevated biosecurity
 - doesn't have FMD, Lumpy skin disease
-<!--SR:!2025-03-14,4,275-->
+<!--SR:!2025-04-09,16,295-->
 
 # Benefit of Biosceurity
-~
 Cheaper cost to prevent/identify early than eradicate
-<!--SR:!2025-03-14,4,277-->
+<!--SR:!2025-04-07,14,297-->
 
 # Levels of Biosecurity
 *What are the main legal frameworks that govern extensive livestock industries in Australia and how does this differ between states and regions?*
@@ -27,7 +26,7 @@ State ([[DPI]])
 Regional (overseen by vets employed by [[DPI]])
 Local
 Property
-<!--SR:!2025-03-22,9,255-->
+<!--SR:!2025-04-26,33,275-->
 
 # Practical Biosecurity
 *Why is practical biosecurity relevant and what should we consider?*
@@ -41,7 +40,7 @@ Consider footwear and machinery washing
 *How is it relevant*
 ~
 Veterinarians and students go between farms - big biosecurity risk
-<!--SR:!2025-03-14,4,278-->
+<!--SR:!2025-04-07,14,298-->
 
 *What biosecurity areas do vets work at?*
 ~
@@ -49,7 +48,7 @@ Veterinarians and students go between farms - big biosecurity risk
 - Local DPO
 - Regional
 - State or commonwealth veterinary roles in research [[WOAH]]
-<!--SR:!2025-03-14,4,272-->
+<!--SR:!2025-04-07,14,292-->
 
 # Related Concepts
 [[Exotic Disease]]

@@ -21,13 +21,18 @@ Mucocutaneous Junction:
 ~
 - The junction between the skin and the oral mucosa
 ![[Pasted image 20250309130223.png]]
-<!--SR:!2025-03-14,1,234-->
+<!--SR:!2025-04-07,11,274-->
 
 
 ## Lip margin
 *Describe species variations in lip margin*
 ~
-<!--SR:!2025-03-21,8,250-->
+Carnivores: large gape for lapping water, serrated and loose in dogs (protect from teeth)
+Herbivores: small gape for sucking water
+Ox: keratinised, thick conical papillae
+Horse: sensitive and mobile
+
+## Summary Table
 
 | Animal     | Variation                                                                               |
 | ---------- | --------------------------------------------------------------------------------------- |
@@ -43,7 +48,7 @@ Mucocutaneous Junction:
 ~
 - Cleft marking division of upper lip
 - Dog, cat, camelids, sheep (for closer grazing)
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-05-11,45,290-->
 
 # Muscles
 *Describe the superficial muscles in the head of an animal and who innervates them*

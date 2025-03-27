@@ -15,5 +15,7 @@ Weighing
 [[Animal Behaviour]]
 
 ## Considerations in Weighing animals
+*associated costs and what makes it easier?*
 ~
 eID from NLIS requirements increase ease of monitoring, but infrastructure costs can be high.
+<!--SR:!2025-03-28,1,230-->

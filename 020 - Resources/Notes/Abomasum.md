@@ -12,10 +12,10 @@ Abdominal floor between ventral sac of rumen and reticulum
 Caudal end flexed around lower pole of omasum
 ![](https://i.imgur.com/20C4l8G.png)
 ![](https://i.imgur.com/aPmRHRH.png)
-<!--SR:!2025-03-14,1,227-->
+<!--SR:!2025-03-30,3,247-->
 
 
-# Abomasum position 
+# Abomasum position
 *5 reasons for variation*
 ~
 1. Age
@@ -25,7 +25,7 @@ Caudal end flexed around lower pole of omasum
 5. Contractions of rumen/reticulum (abomasum is attached to it)
 Prone to dorso-lateral displacement
 ![](https://i.imgur.com/aPmRHRH.png)
-<!--SR:!2025-03-20,2,230-->
+<!--SR:!2025-04-01,5,230-->
 
 
 # Illness
@@ -40,7 +40,7 @@ Prone to dorso-lateral displacement
 - Narrower caudal pole forms pyloric region
 	- Passes transversely to right, terminates at pylorus just caudal to lower part of omasum
 ![](https://i.imgur.com/CQaCpmC.png)
-<!--SR:!2025-03-14,1,228-->
+<!--SR:!2025-04-01,5,228-->
 
 
 # Internal features
@@ -52,7 +52,7 @@ Prone to dorso-lateral displacement
 **Spiral folds** - dark mucosa, form a mucosa plug that limits reflux at omasal-abomasal orifice
 **Torus** - Light mucosa, some rugae, large swelling from lesser curvature to pyloric passage
 ![](https://i.imgur.com/2qxyOjV.png)
-<!--SR:!2025-03-15,2,248-->
+<!--SR:!2025-03-29,5,248-->
 
 # Wall Structure
 ~
@@ -62,10 +62,11 @@ Prone to dorso-lateral displacement
 4. Serosa - simple squamous epithelium secreting peritoneal fluid, only along origin of omentum
 
 
-# Function
+# Function and Structure
+*Do the different parts of the stomach have different secretions?*
 ~
 - Glandular: digestive enzymes, HCl, mucus
 - 1st part secretes mucous
 - Fundus = enzymes
 - Pyloric = mucous
-<!--SR:!2025-03-14,1,227-->
+<!--SR:!2025-04-01,5,227-->

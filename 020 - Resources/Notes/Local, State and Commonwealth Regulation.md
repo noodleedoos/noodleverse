@@ -14,7 +14,7 @@ Refers to regulations like stock movement
 ~
 - District veterinary officer working with animal health officers, over seen by regional distract, then chief veterinary officer CVO
 - [[02.05 - Biosecurity and the Role of Veterinarians]]
-<!--SR:!2025-03-14,4,270-->
+<!--SR:!2025-04-11,15,290-->
 
 # Related Concepts
 - [[Animal Health Australia]]

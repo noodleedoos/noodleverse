@@ -8,14 +8,14 @@ Summary:
 aliases:
 ---
 # Functions
-*What are the functions of connective tissue proper?*
+*What are 5 functions of connective tissue proper?*
 ~
 1. Support
 2. Protection
 3. Connections with [[Locomotor system]]
 4. Holding tissues together
 5. Energy Storage
-<!--SR:!2025-03-23,10,270-->
+<!--SR:!2025-04-30,37,290-->
 
 # Types of Connective Tissue Proper
 *What are the types of connective tissue proper?*

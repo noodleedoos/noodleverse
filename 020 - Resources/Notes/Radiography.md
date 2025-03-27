@@ -12,7 +12,7 @@ Status:
 *Describe a challenge in interpreting radiographs in young growing animals*
 ~
 The [[Centre of Ossification]] and fracture lines both appear black
-<!--SR:!2025-03-21,12,270-->
+<!--SR:!2025-05-11,45,290-->
 
 # Reading radiographs
 ~

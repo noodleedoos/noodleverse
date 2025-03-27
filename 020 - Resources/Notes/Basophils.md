@@ -23,6 +23,8 @@ Allergic and inflammatory actions
 Surface receptors for [[Immunoglobulin E]]
 Not much phagocytic and bactericidal activity
 Main source of [[Interleukin-4]] and [[Interleukin-12]] in allergic disease
+
+
 # Granule contains
 ~
 [[Histamine]]
@@ -31,3 +33,4 @@ Main source of [[Interleukin-4]] and [[Interleukin-12]] in allergic disease
 [[Hyaluronic acid]]
 [[Hydrolytic enzymes]]
 [[Chemotacic factors]]
+<!--SR:!2025-03-30,3,250-->

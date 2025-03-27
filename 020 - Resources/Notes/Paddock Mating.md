@@ -9,4 +9,4 @@ Status:
 # Common in 4 animals
 ~
 Beef cattle, sheep, deer, goats
-<!--SR:!2025-03-18,5,230-->
+<!--SR:!2025-04-06,13,230-->

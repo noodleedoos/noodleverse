@@ -10,4 +10,4 @@ aliases:
 ~
 - 35 million camel, most in Somalia
 - A lot of wild camel not counted, considered feral after bred camels escaped
-<!--SR:!2025-03-21,9,250-->
+<!--SR:!2025-04-19,23,250-->

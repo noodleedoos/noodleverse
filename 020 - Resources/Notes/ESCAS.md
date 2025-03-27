@@ -10,4 +10,5 @@ Status:
 # Definition
 ~
 Exporter Supply Chain Assurance Scheme
-<!--SR:!2025-03-14,4,270-->
+For animal welfare
+<!--SR:!2025-04-07,14,290-->

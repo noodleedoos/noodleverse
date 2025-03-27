@@ -23,7 +23,7 @@ aliases:
 - Irreplaceable
 - Amitotic - lose ability to divide
 - High metabolic rate
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-05-11,45,290-->
 
 # Structure
 ~

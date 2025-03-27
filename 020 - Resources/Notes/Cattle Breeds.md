@@ -11,7 +11,7 @@ Status:
 - Ancestor of Auroch *Bos Primigenius* - large horns, males very aggressive
 - Domestication of zebu cattle ([[Bos indicus cattle]]) in South Asia, European Cattle (Bos taurus) in Eurasia
 - Bos taurus more common in australia
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-05-11,45,290-->
 
 # Bos Indicus vs Bos Taurus
 
@@ -25,7 +25,7 @@ Status:
 - [[Bos indicus]] > beef cattle > dairy cattle
 - Dairy bulls more aggressive than beef bulls
 - depend on age and previous experience too
-<!--SR:!2025-03-23,10,270-->
+<!--SR:!2025-04-21,28,270-->
 
 # Crossbreeds
 

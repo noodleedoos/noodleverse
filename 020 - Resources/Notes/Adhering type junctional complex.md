@@ -10,4 +10,4 @@ Status:
 ~
 • Desmosomes (maculae adherens) and zonulae adherens anchor cells to each other; connected to the cytoskeleton
 • Hemidesmosomes connect cells to the basement membrane
-<!--SR:!2025-03-25,12,270-->
+<!--SR:!2025-05-09,43,290-->
