@@ -26,10 +26,12 @@ about a week
 *In birds*
 ~
 Thrombocytes nucleated in birds
-<!--SR:!2025-03-28,1,224-->
+<!--SR:!2025-04-01,2,224-->
 
 # Function
 ~
-Blood clotting - [[aggregation]] = platelet adherence, [[Coagulation]] = fibrin formation
+Blood clotting - 
+[[aggregation]] = platelet adherence
+[[Coagulation]] = fibrin formation
 Produce antibodies
-<!--SR:!2025-03-28,1,190--> 
+<!--SR:!2025-04-01,2,190--> 

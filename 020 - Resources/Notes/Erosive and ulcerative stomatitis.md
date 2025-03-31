@@ -17,3 +17,7 @@ Status:
 [[Photosensitization - Ulcerative Stomatitis Cause]]
 [[Upper Alimentary Ulcerative Syndrome - Ulcerative Stomatitis Cause]]
 [[NSAID Treatment - Stomatitis Cause]]
+
+# Related Concepts
+[[Erosions]] 
+[[Ulcers]]

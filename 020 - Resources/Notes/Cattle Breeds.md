@@ -13,16 +13,18 @@ Status:
 - Bos taurus more common in australia
 <!--SR:!2025-05-11,45,290-->
 
-# Bos Indicus vs Bos Taurus
 
-| Species                | Characteristics                   |     |
-| ---------------------- | --------------------------------- | --- |
-| [[Bos Taurus]]         | Thicker coats, temperate climates |     |
-| [[Bos indicus cattle]] | hump, tropical (india)            |     |
+# Classification by 
+~
+Origin or temperate/tropical type
+- [[British Breed Cattle]]
+- [[European Breed Cattle]]
+- [[Tropical Cattle]]
+- 
 
 # General Temperament
 ~
-- [[Bos indicus]] > beef cattle > dairy cattle
+- [[Bos indicus cattle]] > beef cattle > dairy cattle
 - Dairy bulls more aggressive than beef bulls
 - depend on age and previous experience too
 <!--SR:!2025-04-21,28,270-->
@@ -40,7 +42,7 @@ Status:
 
 | Name         | Image |
 | ------------ | ----- |
-| [[Angus]]    |       |
+| [[Angus Cattle]]    |       |
 | [[Hereford]] |       |
 | [[Charlois]] |       |
 |              |       |

@@ -14,3 +14,7 @@ Status:
 	1. Amplification with secondary messengers: enzymes)
 	2. Divergence to multiple target
 ![](https://i.imgur.com/rp71T7s.png)
+
+# Cell Signalling
+~
+the speading of the response to a stimmulus from one cell to another

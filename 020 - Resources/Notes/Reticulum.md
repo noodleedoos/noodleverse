@@ -58,7 +58,7 @@ Low papillae
 ~
 relatively bigger in sheep than cows - maybe they need to sift more?
 - 5% total stomach capacity in ox, 7-8% in sheep
-<!--SR:!2025-03-29,5,226-->
+<!--SR:!2025-04-14,15,246-->
 
 # Function
 ~

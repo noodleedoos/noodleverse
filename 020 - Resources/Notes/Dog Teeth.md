@@ -46,14 +46,12 @@ Normal = 1-2mm (>3 = periodontal disease)
 # Removing Teeth
 *Outline the basic process of removing an incisor tooth from a dog.*
 ~
-Break down periodontal ligament must be broken down to release tooth from its attachment
+1. Use dental drill to section tooth by root
+2. Use dental elevator to disrupt periodontal ligament
+3. Rotational force around axis of root
 
 *Explain the challenges to removing canines, premolars and molars in the dog*
 ~
 Healthy P/M =  multiple roots, extensive periodontal ligament attachment
 Damage by rotational force can fracture tooth and cause pieces to be left inside -> infection
-1. Use dental drill to section tooth by root
-2. Use dental elevator to disrupt periodontal ligament
-3. Rotational force around axis of root
-
 

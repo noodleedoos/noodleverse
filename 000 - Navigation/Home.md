@@ -1,4 +1,4 @@
-
+i
 ```button
 name open today's note :D
 type command

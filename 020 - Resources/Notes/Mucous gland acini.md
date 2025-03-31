@@ -17,7 +17,7 @@ What salivary glands are they found in?
 ~
 Found in smaller salivary glands generally
 [[Mandibular Salivary Glands]], [[Sublingual Salivary Glands]],
-<!--SR:!2025-03-30,3,250-->
+<!--SR:!2025-04-11,12,270-->
 
 # Structure
 ~

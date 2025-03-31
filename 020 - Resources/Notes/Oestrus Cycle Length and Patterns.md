@@ -39,4 +39,4 @@ presence of male
 # 2 Factors reducing amount of females coming into oestrus
 ~
 Low condition score, low feed consumption
-<!--SR:!2025-03-30,10,272-->
+<!--SR:!2025-04-26,27,272-->

@@ -10,3 +10,4 @@ Status:
 ~
 - Affect heart muscles - increase heart rate and contraction force
 - Bronchodilation
+- Activated by [[Gs Proteins]]

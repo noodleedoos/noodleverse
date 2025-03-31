@@ -10,7 +10,7 @@ aliases:
 # Alias
 ~
 Gullet
-<!--SR:!2025-03-29,11,286-->
+<!--SR:!2025-05-11,42,306-->
 
 # Function
 ~
@@ -45,7 +45,7 @@ inner to outer
 - Down neck [[common carotid artery]],
 - Thoracic  - [[bronchoesophageal artery]]
 - Abdomen - [[left gastric artery]]
-<!--SR:!2025-03-28,1,209-->
+<!--SR:!2025-04-01,2,209-->
 
 # Innervation
 ~
@@ -60,7 +60,7 @@ Oesophagus in right side of neck in cervical region
 [[Crop]] - saccular diverticulum of oesophagus cranial to thoracic inlet
 ![](https://i.imgur.com/lr9B3mS.png)
 ![](https://i.imgur.com/f2F2NzW.png)
-<!--SR:!2025-03-29,2,210-->
+<!--SR:!2025-04-05,6,230-->
 
 ## Carnivore Oesophagus 
 ~

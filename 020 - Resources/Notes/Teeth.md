@@ -51,7 +51,7 @@ Teeth of the upper and lower arcade
 Enamel - ameloblasts
 Dentine - odontoblasts
 Cementum - cementoblasts
-<!--SR:!2025-03-29,11,284-->
+<!--SR:!2025-04-30,31,284-->
 
 
 | Structure                | Formation                                                         | Function                             | Description                                                                                                                                                                                                                                                                               |

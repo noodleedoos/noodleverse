@@ -8,11 +8,11 @@ Status:
 ---
 # Structure
 ~
-Phospholiipid bilayer
+Phospholipid bilayer
 - an extracellular supporting layer that separates epithelia from connective tissue
 - Membrane proteins of the epithelial cells produced by epithelial cells are anchored in it
 - selectively permeable filter between epithelium and connective tissue.
-<!--SR:!2025-03-28,10,270-->
+<!--SR:!2025-04-26,27,270-->
 
 # Apical surface modifications
 ~

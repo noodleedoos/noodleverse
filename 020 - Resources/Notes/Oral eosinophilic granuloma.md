@@ -1,5 +1,6 @@
 ---
-up: 
+up:
+  - "[[Granuloma]]"
 tags:
   - concept
 Summary: 

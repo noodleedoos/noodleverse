@@ -1,5 +1,6 @@
 ---
-up: 
+up:
+  - "[[Glucocorticoids]]"
 tags:
   - concept
 Summary: 

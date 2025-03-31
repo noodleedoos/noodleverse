@@ -5,6 +5,7 @@ tags:
 Summary: 
 aliases:
   - Thyrotropin
+  - TSH
 Status:
 ---
 # Function

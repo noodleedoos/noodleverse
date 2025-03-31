@@ -13,4 +13,4 @@ opening in diaphgram that allows oesophagus to pass from thoracic cavity to abxo
 Axial cross section
 Muscular separation of thorax and abdomen
 ![](https://i.imgur.com/K3j5uL3.png)
-<!--SR:!2025-03-28,10,270-->
+<!--SR:!2025-05-07,38,290-->

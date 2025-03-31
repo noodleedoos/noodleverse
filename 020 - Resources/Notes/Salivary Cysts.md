@@ -8,10 +8,11 @@ aliases:
 Status:
 ---
 # Aeitology
+*And where is it common?*
 ~
 Salivary accumulation in cystic cavity
-Commonly in sublingul salivary gland
-<!--SR:!2025-03-28,1,230-->
+Commonly in sublingual salivary gland
+<!--SR:!2025-04-01,2,230-->
 
 # Characterisation
 

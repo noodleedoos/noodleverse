@@ -12,7 +12,7 @@ Status:
 - Articulation between Zygomatic process of temporal bone of skull and Condyloid process on mandible
 	- divided into a dorsal and ventral compartment by meniscus (intrarticular fibrocartilagenous disc)
 - ![[Pasted image 20250309140410.png]]
-<!--SR:!2025-03-29,11,270-->
+<!--SR:!2025-04-28,29,270-->
 
 
 
@@ -21,7 +21,7 @@ Status:
 ~
 Herbivore - [[Pterygoid muscle]] and [[Masseter Muscle]], flat articular surface
 carnivore - [[Temporalis Muscle]], bony processes restrict movement
-<!--SR:!2025-03-29,11,272-->
+<!--SR:!2025-04-28,29,272-->
 
 | -vore     | Structure of TMJ                          | Associated Muscles                          | Function                                                                            |
 | --------- | ----------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------- |

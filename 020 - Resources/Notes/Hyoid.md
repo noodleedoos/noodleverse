@@ -25,6 +25,8 @@ Which bone connects directly to the skull?
 ~
 suspensory those connecting tongue and temporal bone (tympanohyoid cartilage and stylo and epihyoid)
 It's SET on the bone
+![](https://i.imgur.com/Wt0Xo8s.jpeg)
+
 <!--SR:!2025-03-31,4,230-->
 
 *What is considered the true hyoid apparatus in comparison to the suspensory apparatus?*

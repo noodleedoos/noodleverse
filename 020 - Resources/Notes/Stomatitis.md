@@ -6,8 +6,12 @@ Summary:
 aliases: 
 Status:
 ---
+# Definition
+~
+Inflammation of oral cavity
 # Classification by Macroscopic Appearance
 ~
+VEUPID
 - [[Vesicular stomatitis ]]
 - [[Erosive and ulcerative stomatitis]] 
 - [[Papular stomatitis]]

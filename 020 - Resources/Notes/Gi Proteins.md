@@ -3,7 +3,7 @@ up:
 tags:
   - concept
 Summary: 
-aliases: 
+aliases: []
 Status:
 ---
 # Receptors

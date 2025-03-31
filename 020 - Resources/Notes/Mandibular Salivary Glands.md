@@ -18,13 +18,13 @@ Angle of jaw, duct at sublingual caruncle
 How big is it relative to the other salivary glands?
 ~
 2nd biggest salivary gland
-<!--SR:!2025-03-29,2,230-->
+<!--SR:!2025-04-06,7,250-->
 
 # Function
 ~
 Produces serous and mucous secretions ([[Mixed Glands]])
 ![](https://i.imgur.com/haDsxM8.png)
-<!--SR:!2025-03-29,11,285-->
+<!--SR:!2025-05-13,44,305-->
 
 
 # Species variation

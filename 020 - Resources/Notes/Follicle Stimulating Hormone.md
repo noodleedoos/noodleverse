@@ -3,7 +3,8 @@ up:
 tags:
   - concept
 Summary: 
-aliases: 
+aliases:
+  - FSH
 Status:
 ---
 # Function in males vs females

@@ -23,14 +23,14 @@ carpus, metacarpus and digits
 <!--SR:!2025-04-11,15,290-->
 
 # Pelvic or Hindlimb Regions
+~
 rump/gluteal, thigh, crus, tarsus, metatarsus, digital
-<!--SR:!2025-03-23,10,278-->
+![](https://i.imgur.com/AKdR5Ui.png)
+<!--SR:!2025-05-09,40,298-->
 
 *What is pes?*
 ~
 tarsus, metatarsus and digits
-![[Screenshot 2025-03-03 at 3.48.03 pm.png]]
-<!--SR:!2025-04-09,16,294-->
 
 # 3 Body Cavities
 ~

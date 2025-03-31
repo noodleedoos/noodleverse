@@ -23,7 +23,7 @@ Status:
 - Viceral/right surface (medial) - related to omasum, abomasum, intestines, liver. grooves that demarcate sacs
 ![](https://i.imgur.com/emONxYY.png)
 ![](https://i.imgur.com/wcxlyM8.png)
-<!--SR:!2025-03-29,2,232-->
+<!--SR:!2025-04-04,5,232-->
 
 # Rumen Sacs
 ~

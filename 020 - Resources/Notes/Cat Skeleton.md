@@ -11,4 +11,4 @@ Status:
 ~
 small vestigial (surviving) clavicle bone
 ![[Pasted image 20250305203606.png]]
-<!--SR:!2025-03-30,3,230-->
+<!--SR:!2025-04-09,10,250-->

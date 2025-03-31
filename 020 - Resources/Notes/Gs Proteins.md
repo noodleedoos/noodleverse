@@ -9,9 +9,9 @@ Status:
 # Receptors
 ~
 [[Beta Adrenergic Receptors]]
-[[Glucagon]]
-[[Histamine]]
-[[serotonin]]
+[[Glucagon Receptors]]
+[[Histamine Receptors]]
+[[Serotonin Receptors]]
 
 # Signalling Pathway
 ~

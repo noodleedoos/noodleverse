@@ -30,7 +30,7 @@ Threat - stomping, lowered head, rush
 Submission - head shake
 WIll vocalise if alone
 Hierarchy when competing for resources
-<!--SR:!2025-03-30,12,270-->
+<!--SR:!2025-05-02,33,270-->
 
 # Handling Sheep
 *What increases the stress of sheep? How should you move them?*

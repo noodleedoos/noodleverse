@@ -27,6 +27,10 @@ Hydrophillic
 # Synthesis
 ~
 Cytosol
+From Tyrosine -> dopa -> dopamine - norepinephrine -> epinephrine
+Today, don't need epipen in the city (dope epipen is granny)
+![](https://i.imgur.com/uUoIO1S.png)
+
 
 # Storage
 ~

@@ -16,4 +16,4 @@ Cutting skin from side of tail and down breach (sides of vulva) to get rid of wr
 Don't use too many chemicals or [[Multi Resistant Parasites]], environmental contamination of wool
 Short term: pain management - local anaesthetic
 Long term: breed sheep with less wrinkles
-<!--SR:!2025-03-28,1,230-->
+<!--SR:!2025-04-01,2,230-->

@@ -14,12 +14,12 @@ Status:
 - Rugae allow stretching, become more linear closer to pyloric sphincter
 4 Regions
 - Cardiac
-	- Fundus (widest part) latin for bowl
+- Fundus (widest part) latin for bowl
 - Body
 - Pyloric (tubular region terminates at pyloric sphincter)
 ![](https://i.imgur.com/Myn3XPN.png)
 ![](https://i.imgur.com/cJRYVUo.png)
-<!--SR:!2025-03-30,3,250-->
+<!--SR:!2025-04-11,12,270-->
 
 
 # External Features
@@ -62,7 +62,8 @@ What membranes can be found around the stomach
 	- Hepatogastric ligament
 	- Hepatoduodenal ligament with portal vein, hepatic artery, bile duct and lymphatic duct
 - ![](https://i.imgur.com/GC60Uiq.png)
-<!--SR:!2025-03-28,10,270-->
+- ![](https://i.imgur.com/4jexaF6.png)
+<!--SR:!2025-05-07,38,290-->
 
 
 # Blood Supply to stomach
@@ -72,7 +73,7 @@ What membranes can be found around the stomach
 - Branches of left gastric artery to lesser omentum
 - Veins drain into portal vein
 ![](https://i.imgur.com/mgyBEE7.png)
-<!--SR:!2025-03-30,12,270-->
+<!--SR:!2025-05-16,47,290-->
 
 # Innervation
 ~
@@ -86,7 +87,7 @@ What membranes can be found around the stomach
 3. Muscularis externa (3 layers outer longitudinal, middle circular, inner oblique)
 4. Serosa - simple squamous mesothelial cells secrete peritoneal fluid
 ![](https://i.imgur.com/DopddU7.png)
-<!--SR:!2025-03-30,6,246-->
+<!--SR:!2025-04-14,15,246-->
 
 # Simple Stomach Regions
 ~

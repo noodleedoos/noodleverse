@@ -26,7 +26,7 @@ Produced in thyroid
 # Method of Secretion
 ~
 Exocytosis
-<!--SR:!2025-03-28,1,234-->
+<!--SR:!2025-04-02,3,254-->
 
 # Transport
 ~
@@ -67,10 +67,15 @@ Thyroglobulin in colloid follicles, then cleaved to form prohormone [[Thyroxine]
 
 *Describe how regulation of the thyroid hormone is a negative feedback loop*
 ~
-1. Thyroid hormon level drops below normal range and is detected
-2. Thyrotropin releasing hormone (TRH) is released from hypothalamus
-3. TRH causes TSH production from Anterior Pituitary gland, which downregulates TRH production
-4. TSH causes thyroid to produce thyroxine, which downregulates the production of TSH and TRH
+Thyroid gland produces 2 hormones - T4 and active T3 under the control of the hypothalamus and anterior pituitary
+1. Levels of T4/T3 are low -> TRH formed in hypothalamus and released into portal veins within hypothalamic hypophyseal tract and travels to anterior pituitary
+2. Binds to cell surface receptors on thyrotrophs which secrete TSH into blood
+3. TSH stimulates thyroid gland to produce and release T4/T3
+4. Levels of T4/T3 rise in blood
+	1. Short arm negative feedback loop: Reduced release TSH from anterior pituitary
+		1. T4/T3 turn off genes in thyrotrophs for TRH receptor -> decreased sensitivity to TRH
+	2. Long arm: reduced release of TRH from hypothalamus
+		1. T4/T3 inhibit genes for synthesising TRH 
 ![](https://i.imgur.com/Pg2IVBF.png)
 ![](https://i.imgur.com/Ki8Mksg.png)
 <!--SR:!2025-05-13,47,290-->

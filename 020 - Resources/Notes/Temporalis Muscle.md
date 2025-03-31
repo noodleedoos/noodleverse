@@ -21,4 +21,4 @@ Status:
 # Species Variation
 ~
 Large in carnivores, small in herbivores - carnivores need quick forceful up and down - masseter is main muscle in herbivores for side to side
-<!--SR:!2025-03-30,3,210-->
+<!--SR:!2025-04-07,8,230-->

@@ -12,7 +12,7 @@ What are groups of horses called and what are they made of? What behaviour do th
 Herds with subgroups called bands, with mares/offspring, 1-2 stallions
 Males in bachelor bands
 Mutual grooming
-<!--SR:!2025-03-30,12,270-->
+<!--SR:!2025-05-16,47,290-->
 
 # Grazing Behaviour
 *What do horses do throughout their day?*
@@ -102,7 +102,7 @@ Related to eating and moving - unfulfiled motivation for grazing and locomotion
 - In sight of paddock - separation anxiety
 - Use cross-ties, sedation, treats, companion animal for support
 - Make sure owner is present
-<!--SR:!2025-03-30,12,280-->
+<!--SR:!2025-05-18,49,300-->
 
 # Horse Body Language
 <!--SR:!2025-03-14,3,269-->

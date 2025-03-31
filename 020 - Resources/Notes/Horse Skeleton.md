@@ -15,7 +15,7 @@ aliases:
 - No fifth metacarpal
 - Metacarpal and metatarsal 3 and digit 3 is weight bearing
 - No acetabular bone (only in carnivores)
-- Fibula fused to tibia
+- Fibula fused to tibia - weight bearing bone in crus
 - ![[Screenshot 2025-03-27 at 3.46.15 pm.png]]![](https://i.imgur.com/ofEJKo9.png)
 - ![](https://i.imgur.com/4a1GlWy.png)
 <!--SR:!2025-05-04,38,290-->

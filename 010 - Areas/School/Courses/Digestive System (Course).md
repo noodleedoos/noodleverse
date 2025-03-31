@@ -7,6 +7,11 @@ tags:
 aliases: 
 archive:
 ---
+# Unit
+```dataview
+table Status FROM #unit and [[]] sort file.name asc
+```
+
 ## Lectures
 ```dataview
 table Status FROM #lecture and [[]] sort file.name asc

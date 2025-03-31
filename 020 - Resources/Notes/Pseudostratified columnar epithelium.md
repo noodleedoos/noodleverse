@@ -15,6 +15,6 @@ Status:
 
 # Location
 ~
-excretory ducts of many glands.
+excretory ducts of many glands, epididymus, nasal passages, trachea, bronchi
 ![[Screenshot 2025-03-08 at 8.20.53 pm.png]]
-<!--SR:!2025-03-29,5,230-->
+<!--SR:!2025-04-11,12,230-->

@@ -33,8 +33,8 @@ Vegetative, minimal weed, some legume
 # Sustainability of Pasture Sward
 *Compare and contrast annual and perennial pasture*
 ~
-Annual pasture dies at summer, grows at winter
-Perennial pasture stays over summer
+[[Annual Pastures]] dies at summer, grows at winter
+[[Perennial Pastures]] stays over summer
 
 ## How to sustain pasture?
 ~

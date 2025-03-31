@@ -23,4 +23,7 @@ Status:
 - Move lower jaw laterally when contracted on one side (origin lateral to insertion
 	- Greater sideways movement in herbivores than in carnivores
 - Protrude lower jaw
-<!--SR:!2025-03-30,6,210-->
+<!--SR:!2025-04-11,12,210-->
+
+# Masseteric Fossa 
+![](https://i.imgur.com/2bGjyHY.png)

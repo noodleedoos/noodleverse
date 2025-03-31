@@ -13,18 +13,18 @@ Status: 🌱
 <!--SR:!2025-03-17,4,270-->
 
 # Structures
-*how much of the abdominal cavity does it take up? which is the glandular and non glandular regions?*
+*how much of the abdominal cavity does it take up? What is the non-glandular region lined by? WHich is the biggest and smallest compartments in adult cattle? which is the glandular and non glandular regions?*
 ~
 - 3/4 of abdominal cavity
 [[Compound Non-Glandular Forestomach]] - lined by stratified squamous kertitized epithelium.
 - [[Reticulum]]
 - [[Rumen]] - biggest in adult cattle
-- [[Omasum]] - smallest compartment in adult cattle
+- [[Omasum]] - smallest compartment sheep and goat
 **Glandular Stomach**
-- [[Abomasum]]
+- [[Abomasum]] smallest compartment in adult cattle
 - [[Gastric groove]]
 ![](https://i.imgur.com/JB1PUb7.png)
-<!--SR:!2025-03-30,12,270-->
+<!--SR:!2025-05-02,33,270-->
 
 
 

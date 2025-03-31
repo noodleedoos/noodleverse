@@ -22,7 +22,7 @@ Interlocking of many bones, sutures (fibrous joinsts) are flexible to allow chan
 4. lacrimal
 5. frontal
 6. parietal
-7. temporal (inside has squamous, petrosal, tympanic)
+7. [[Temporal bone]] 
 8. palatine
 9. pterygoid
 10. zygomatic
@@ -36,7 +36,7 @@ Interlocking of many bones, sutures (fibrous joinsts) are flexible to allow chan
 - occipital
 - sphenoid complex (basisphenoid/presphenoid)
 - vomer
-- ethmoid
+- [[Ethmoid Bone]]
 ![[Screenshot 2025-03-03 at 2.02.05 pm.png]]
 <!--SR:!2025-04-23,30,274-->
 
@@ -46,3 +46,11 @@ Have a look!
 ~
 ![[Screenshot 2025-03-03 at 2.09.11 pm.png]]
 <!--SR:!2025-04-11,15,290-->
+
+# Features of the skull
+- [[Foraminae]] for blood vessels and nerves
+- [[Braincase]]
+- [[Nasal Septum]]
+- [[Hard and Soft palate]]
+- [[Paranasal Sinuses]]
+- [[Masseter Muscle]]

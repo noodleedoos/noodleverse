@@ -6,6 +6,7 @@ tags:
 Summary: 
 aliases: 
 Status:
+  - 🌳
 ---
 # Intended Learning Outcomes
 - Identify the following teeth in the different domestic species: incisors, canines, molars, premolars.

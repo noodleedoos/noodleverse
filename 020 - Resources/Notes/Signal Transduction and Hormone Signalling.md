@@ -8,12 +8,12 @@ Status:
 ---
 # Definition
 ~
-Conversion of signals to cellular response
+Conversion of signal/stimulus s to cellular response
 1. Regognition
-2. Transduction/transmision
-	1. Ligand binding which triggers catalytic cascase
+2. Transduction/transmission
+	1. Ligand binding which triggers catalytic cascas
 3. Modulation of effector
-	1. protein kinases, phosphatases
+	2. protein kinases, phosphatases
 4. Appropriate response to initial stimulus
 5. Termination of response
 

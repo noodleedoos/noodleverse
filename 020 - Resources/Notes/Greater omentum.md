@@ -13,7 +13,7 @@ Double sheet of connecting peritoneum
 # Function
 ~
 Fat storage
-<!--SR:!2025-03-28,1,210-->
+<!--SR:!2025-04-02,3,230-->
 
 # Location
 ~

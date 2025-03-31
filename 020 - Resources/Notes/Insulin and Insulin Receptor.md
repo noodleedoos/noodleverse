@@ -47,7 +47,7 @@ Enzyme linked receptor (tyrosine kinase)
 1. Insulin receptor binds insulin
 2. Activated receptor phosphorylates IRS-1 (Insulin receptor substrate 1)
 3. GRB2 recruited, Ras pathway activated
-4. IRS=1 activates PI-3 kinase
+4. IRS-1 activates PI-3 kinase
 5. PIP2 converted to PIP3
 	1. PTEN converts PIP3 back to PIP2
 6. PIP3 binds protein kinase Akt, which is activated by other protein kinases

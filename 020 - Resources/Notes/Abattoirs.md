@@ -10,4 +10,4 @@ Status:
 *What are two ways veterinarians can help at abattoirs?*
 ~
 Assess carcass quality, monitor signs of disease
-<!--SR:!2025-03-28,10,270-->
+<!--SR:!2025-05-07,38,290-->

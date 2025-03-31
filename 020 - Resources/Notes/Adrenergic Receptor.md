@@ -19,3 +19,9 @@ Status:
 ![](https://i.imgur.com/KWDIkFT.png)
 ![](https://i.imgur.com/C7tus7Y.png)
 ![](https://i.imgur.com/jKwphIE.png)
+
+# Types
+[[Alpha 1 Adrenergic Receptors]] - smooth muscle contraction
+[[Alpha 2 Adrenergic Receptors]] - smooth muscle contraction and inhibition of transmitter release
+[[Beta Adrenergic Receptors]] - heart muscle contraction, smooth muscle relaxation, bronchodilation
+![](https://i.imgur.com/tuAxOsl.png)

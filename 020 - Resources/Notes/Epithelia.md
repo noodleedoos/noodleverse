@@ -54,9 +54,9 @@ height and the nuclei lie at different levels
 <!--SR:!2025-03-25,12,274-->
 
 ## Shape
-1. Squamous cells – flat cells
-2. Cuboidal cells – Height and width of the cells are the same
-3. Columnar cells – cells are taller than they are wide
+1. [[Squamous cells]] – flat cells
+2. [[Cuboidal cells]] – Height and width of the cells are the same
+3. [[Columnar cells]] – cells are taller than they are wide
 ![[Screenshot 2025-03-08 at 8.10.00 pm.png]]
 <!--SR:!2025-05-11,45,294-->
 

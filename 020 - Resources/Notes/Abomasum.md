@@ -12,7 +12,7 @@ Abdominal floor between ventral sac of rumen and reticulum
 Caudal end flexed around lower pole of omasum
 ![](https://i.imgur.com/20C4l8G.png)
 ![](https://i.imgur.com/aPmRHRH.png)
-<!--SR:!2025-03-30,3,247-->
+<!--SR:!2025-04-09,10,267-->
 
 
 # Abomasum position
@@ -31,7 +31,7 @@ Prone to dorso-lateral displacement
 # Illness
 ~
 [[Abomasal displacement]] - left or right
-<!--SR:!2025-03-28,10,286-->
+<!--SR:!2025-05-09,40,306-->
 
 # External Features
 ~
@@ -44,7 +44,7 @@ Prone to dorso-lateral displacement
 
 
 # Internal features
-*List the openings and two other features*
+*List the openings and two other features (one is near the pylorus*
 ~
 **2 Openings**
 - Omaso-abomasal orifice
@@ -52,7 +52,7 @@ Prone to dorso-lateral displacement
 **Spiral folds** - dark mucosa, form a mucosa plug that limits reflux at omasal-abomasal orifice
 **Torus** - Light mucosa, some rugae, large swelling from lesser curvature to pyloric passage
 ![](https://i.imgur.com/2qxyOjV.png)
-<!--SR:!2025-03-29,5,248-->
+<!--SR:!2025-04-11,12,248-->
 
 # Wall Structure
 ~

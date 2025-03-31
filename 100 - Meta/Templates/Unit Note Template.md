@@ -6,12 +6,20 @@ tags:
   - unit
 ---
 
+# Intended Learning Outcomes
+
 # Related Lectures
 ```dataview
 table status FROM #lecture and [[]]
 ```
 
-# Related Concepts
+# Related Practicals
 ```dataview
-LIST FROM #concept and [[]]
+LIST FROM #practical and [[]] sort file.name asc
+```
+
+
+# Related Case Studies
+```dataview
+LIST FROM #casestudy and [[]] sort file.name asc
 ```

@@ -6,7 +6,7 @@ status:
 Summary:
 aliases:
 ---
-[[Beef Cattle Industry]]
+[[Beef Cattle Industry Productivity and Profitability]]
 [[Dairy Cattle Industry]]
 [[Goat Industry]]
 [[Sheep Industry]]

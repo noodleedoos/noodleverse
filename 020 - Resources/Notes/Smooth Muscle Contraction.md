@@ -17,8 +17,8 @@ Status:
 
 # Mechanism via Gq and PLC
 ~
-1. Adrenalin stimulates alpha1 adrenergic receptor which is linked to G protein
-2. Gq stimulates Phospholipase C 
+1. [[Adrenalin]] stimulates [[Alpha 1 Adrenergic Receptors]] which is linked to [[Gq Proteins]]
+2. Gq stimulates [[Phospholipase C]]
 3. PIP2 hydrolysed to IP3 and DAG
 4. IP3 opens channels on sarcoplasmic reticulum to incrase Ca2+ in cytosol, and Ca2+ operated Ca2+ channels open
 5. Ca2+ binds with calmodulin to activate Myosin Like Chain Kinase (MLCK)

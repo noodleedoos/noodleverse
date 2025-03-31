@@ -9,5 +9,5 @@ Status:
 # Related Diseases
 *2 Diseases*
 ~
-- [[Oral eosinophilic granuloma ]]
+- [[Oral *eosinophilc* granuloma ]]
 - [[Feline lymphoplasmacytic gingivitis]]

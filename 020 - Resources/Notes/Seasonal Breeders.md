@@ -16,7 +16,7 @@ Young born at favourable time of year for higher survival rate
 *What can be used to get seasonal breeders cycling out of season?*
 ~
 dairy goats will need hormones to get goats cycling out of season e.g. [[Regulin]]
-<!--SR:!2025-03-29,5,230-->
+<!--SR:!2025-04-14,15,250-->
 
 ## Seasonally Polyoestrous
 ~

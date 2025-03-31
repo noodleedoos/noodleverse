@@ -12,7 +12,7 @@ Light receptors in eye
 
 # Signalling Pathway
 ~
-[[Transducin]], increase cGMP
+[[Gt Proteins]], increase cGMP
 [[Phosphodiesterase]] (Catalytic) - decrease cGMP
 
 # Gt Protein Complexes

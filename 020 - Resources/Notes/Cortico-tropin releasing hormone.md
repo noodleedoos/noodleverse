@@ -3,7 +3,9 @@ up:
 tags:
   - concept
 Summary: 
-aliases: 
+aliases:
+  - CRH
+  - corticotrophin releasing hormone
 Status:
 ---
 # Regulation

@@ -30,7 +30,7 @@ Mucosa with mucous glands, collagen and elastic fibres
 
 # Function
 ~
-Air - from [[Nasopharynx]] to [[larynx]] to [[Strategic Animal Health]]
+Air - from [[Nasopharynx]] to [[Larynx]] to [[Strategic Animal Health]]
 Food  - from [[[Oropharynx]] to [[Laryngopharynx]] to [[Oesophagus]]
 ![](https://i.imgur.com/VvXYm1Q.png)
 <!--SR:!2025-04-07,14,292-->

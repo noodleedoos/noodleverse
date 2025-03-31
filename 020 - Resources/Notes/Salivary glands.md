@@ -16,7 +16,7 @@ aliases:
 4. Oral hygeine - antibacterial factors
 5. Alkaline buffering - for ruminants
 6. Evaporative cooling - dogs (panting)
-<!--SR:!2025-03-29,5,248-->
+<!--SR:!2025-04-17,18,268-->
 
 # 4 Locations
 ~
@@ -38,7 +38,7 @@ Lips, cheeks, soft palate, tongue
 - [[Zygomatic Salivary Gland]]
 - [[Mixed Glands]]
 ## Summary Table
-<!--SR:!2025-03-30,3,250-->
+<!--SR:!2025-04-11,12,270-->
 
 | Gland                          | Structure and Location                                                              | Secretion         | Species Variation                                                                                                                                                   |
 | ------------------------------ | ----------------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -56,7 +56,7 @@ Branching duct system: acinus -> [[intercalated duct]] -> [[Striated duct]] -> [
 Secretory cells in mucous/serous acini around lumen
 Walls become thicker as they need to hold more saliva
 ![](https://i.imgur.com/TogT7Dz.png)
-<!--SR:!2025-03-29,2,224-->
+<!--SR:!2025-04-05,6,244-->
 
 
 # Salivary Gland Acini
@@ -66,7 +66,7 @@ Walls become thicker as they need to hold more saliva
 [[Mucous gland acini]]
 [[Mixed Glands]]
 ## Summary table
-<!--SR:!2025-03-29,11,270-->
+<!--SR:!2025-05-11,42,290-->
 
 | Acini                  | Secretion            | Characteristics                 | Histology                               | Structure                                                                                                     |
 | ---------------------- | -------------------- | ------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------- |

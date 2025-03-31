@@ -7,6 +7,7 @@ aliases:
 Status:
 ---
 # Variations and structure in australia
+*How is animal welfare legislation formulated and what are the key principles in livestock farming systems?*
 ~ 
 - Large differences between countries on rules regarding how animals may be kept, species for particular procedures around [[Social license]]
 - Rules around keeping animals in Australia for example can be regulated at Commonwealth, State or Local level but are mostly state based 

@@ -14,7 +14,7 @@ Ventral, between paired mandibles
 # Function
 ~
 Swallowing
-<!--SR:!2025-03-28,1,230-->
+<!--SR:!2025-04-01,2,230-->
 
 # Structure
 *Describe the arrangement of fibres in the mylohyoideus*

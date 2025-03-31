@@ -7,7 +7,10 @@ aliases:
 Status:
 ---
 # Structure
+*How common are they in which species? What do band neutrophils look like?*
 ~
+- Most common in domestic species except ruminants
+- Band neutrophils less segmented
 Medium size (10-12um)
 [[Polymorphonuclear]]
 Clear granules, clear cytoplasm in most species

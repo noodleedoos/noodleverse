@@ -17,8 +17,8 @@ aliases:
 # Location
 *Where can mast cells be found and describe the population in connective tissues.*
 ~
-Close to blood vessels, low numbers in most connective tissues
-<!--SR:!2025-03-29,5,230-->
+Close to blood vessels so they can facilitate their immune response faster, low numbers in most connective tissues
+<!--SR:!2025-04-11,12,230-->
 
 # Function
 *List 3 Functions*

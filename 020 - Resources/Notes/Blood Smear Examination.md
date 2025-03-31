@@ -16,10 +16,7 @@ Status:
 2. Calculate average number of leukocytes per high power field by dividing total by 10
 3. Multiply average by 2 to obtain estimated WCC in 10^9/L and compare to reference intervals
 
-# Differential White Cell Count
-~
-Count 100 consecutive white blood cells in a battlemetn pattern
-Multiply % by estimated WCC
+# [[Differential Counts on Blood Smears]]
 
 # Importance
 ~

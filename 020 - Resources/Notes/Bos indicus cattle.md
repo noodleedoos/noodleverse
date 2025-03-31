@@ -13,7 +13,10 @@ aliases:
 Can withstand heat and ticks in Northern Australia
 <!--SR:!2025-04-07,14,290-->
 
-
+# History
+*When did they arrive in Australia?*
+~
+Brahman to QLD in 1930s (new genetics)
 # Characteristics
 *What are the characteristics of Bos indicus cattle?*
 

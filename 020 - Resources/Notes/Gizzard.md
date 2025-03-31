@@ -24,4 +24,4 @@ Multilayered membrane - gastric cuticle- to protect muscles
 Caudoventral, craniodorsal, dorsal lateral, ventral lateral
 ![](https://i.imgur.com/mtoAnhz.png)
 ![](https://i.imgur.com/KPuJvm4.png)
-<!--SR:!2025-03-29,5,230-->
+<!--SR:!2025-04-11,12,230-->

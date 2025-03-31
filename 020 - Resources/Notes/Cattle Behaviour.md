@@ -30,7 +30,7 @@ Status:
 *How do cattle sense the world?*
 ~
 - Wide field of vision, ears rotate to sound
-<!--SR:!2025-03-28,10,272-->
+<!--SR:!2025-05-07,38,292-->
 
 ## Social communication
 *How do cows communicate with us and each other?*

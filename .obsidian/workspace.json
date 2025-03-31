@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f491275df5b653ab",
+        "id": "5a2113ac64187be3",
         "type": "tabs",
         "children": [
           {
-            "id": "bd31dea6a1efad55",
+            "id": "349ff80cd8b08374",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mucous path:",
+                "query": "supporting membranes",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -92,11 +92,13 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2ad0a5f6e9f09c33",
@@ -306,34 +308,36 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "bd31dea6a1efad55",
+  "active": "349ff80cd8b08374",
   "lastOpenFiles": [
-    "010 - Areas/School/Courses/Animals in Extensive Production Systems 1.md",
-    "010 - Areas/School/Workshops/2 - Annual Management Calendar.md",
-    "010 - Areas/School/Lectures/03.07 - Management Procedures.md",
-    "020 - Resources/Notes/Management Procedures from Birth to Preweaning.md",
-    "020 - Resources/Notes/Weaning.md",
-    "020 - Resources/Notes/Management Procedures at or beyond Weaning time.md",
-    "020 - Resources/Notes/Genetics Defects reducing reproductive rate.md",
-    "020 - Resources/Notes/Genetics Defects.md",
-    "020 - Resources/Notes/Muscle cells.md",
-    "020 - Resources/Notes/Type IIa Muscle Fibres.md",
-    "020 - Resources/Notes/Type IIb Muscle fibres.md",
-    "020 - Resources/Notes/Horse Skeleton.md",
-    "020 - Resources/Notes/Type I Muscle fibre.md",
-    "020 - Resources/Notes/Lymphoma.md",
-    "020 - Resources/Notes/Granuloma.md",
-    "020 - Resources/Notes/Liver.md",
-    "010 - Areas/School/Lectures/1.1.1.1 – Analyse existing client information prior to session.md",
-    "020 - Resources/Notes/Persistent right aortic arch.md",
-    "020 - Resources/Notes/Plasma Cell.md",
-    "020 - Resources/Notes/B Lymphocyte.md",
-    "020 - Resources/Notes/Lymphocytes.md",
-    "020 - Resources/Notes/Tropical C4 plants.md",
-    "020 - Resources/Notes/Temperate C3 plants.md",
-    "020 - Resources/Notes/Salivary glands.md",
-    "020 - Resources/Notes/Parotid Salivary Glands.md",
-    "020 - Resources/Notes/Spinal Nerve.md",
+    "010 - Areas/School/Lectures/04.09 - Clinical Imaging of the Gastrointestinal Tract.md",
+    "010 - Areas/School/Courses/Digestive System (Course).md",
+    "010 - Areas/School/Lectures/04.11 - Diseases of the Tonsils, Salivary Glands and Oesophagus.md",
+    "010 - Areas/School/Lectures/04.10 - Diseases of the Oral Cavity.md",
+    "010 - Areas/School/Lectures/04.08 - Clinical Evaluation of the Digestive System.md",
+    "010 - Areas/School/Lectures/03.07 - Simple Stomach and Abomasum.md",
+    "010 - Areas/School/Lectures/03.06 - The Compound stomach.md",
+    "010 - Areas/School/Lectures/03.05 - From Mouth to Stomach.md",
+    "010 - Areas/School/Units/01 - Ingestion and Swallowing.md",
+    "020 - Resources/Notes/Digestive Tract.md",
+    "020 - Resources/Notes/Digestibility.md",
+    "020 - Resources/Notes/Ligating Vessels.md",
+    "010 - Areas/School/Courses/Cells to Systems.md",
+    "010 - Areas/School/Units/04. Chemical and Electrical Communication.md",
+    "010 - Areas/School/Lectures/05.16 - 16 Nerve conduction 2 - the synapse and graded potentials.md",
+    "010 - Areas/School/Lectures/05.15 - Nerve conduction - the neuron, resting membrane potentials and action potential.md",
+    "010 - Areas/School/Lectures/04.14 - Hormones and their Regulation.md",
+    "010 - Areas/School/Lectures/04.13 - Receptor and Signalling Pathways - G Protein Coupled Receptors, Enzyme Receptors and Intracellular Receptors.md",
+    "010 - Areas/School/Lectures/04.12 - Endocrine System and Signalling Pathways - Signal Transduction and Second Messengers.md",
+    "010 - Areas/School/Lectures/04.11 - Principles of Cell Communication.md",
+    "010 - Areas/School/Practicals/02 - Microscopic Anatomy.md",
+    "010 - Areas/School/Practicals/03 - Haematology.md",
+    "010 - Areas/School/Practicals/01 - The Skeleton.md",
+    "020 - Resources/Notes/Blood Smear Examination.md",
+    "020 - Resources/Notes/Differential Counts on Blood Smears.md",
+    "020 - Resources/Notes/Absolute Cell Count.md",
+    "020 - Resources/Attachments/Screenshot 2025-03-03 at 3.56.46 pm.png",
+    "020 - Resources/Attachments/Screenshot 2025-03-03 at 3.48.03 pm.png",
     "020 - Resources/Attachments/Screenshot 2025-03-03 at 3.11.37 pm.png",
     "020 - Resources/Attachments/Screenshot 2025-03-27 at 3.46.15 pm.png",
     "Increased removal from blood",
@@ -345,8 +349,6 @@
     "020 - Resources/Attachments/Screenshot 2024-12-12 at 5.40.50 PM.png",
     "020 - Resources/Attachments/Pasted image 20241213153720.png",
     "020 - Resources/Attachments/Pasted image 20241213152552.png",
-    "020 - Resources/Attachments/Pasted image 20241213140419.png",
-    "020 - Resources/Attachments/Pasted image 20241213140642.png",
     "020 - Resources/Attachments/Risk-Assessment_Colour_May2013_Handout2 (1).pdf",
     "Sheep",
     "inputs",

@@ -22,4 +22,4 @@ Disease already present in a country
 [[Ovine brucellosis]] - Swollen testicles, ewes can harbour it
 [[Lucilla cuprina]] - fly
 [[Anthrax]]
-<!--SR:!2025-03-28,4,230-->
+<!--SR:!2025-04-01,2,210-->

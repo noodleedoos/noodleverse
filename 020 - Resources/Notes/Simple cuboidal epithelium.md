@@ -9,13 +9,14 @@ Status:
 # Characteristics
 *What do they look like from different perspectives?*
 ~
-• Cells appear cuboidal in sections perpendicular to the surface of the epithelium. Viewed from the surface of the epithelium they look rather like
-small polygons.
-<!--SR:!2025-03-30,10,270-->
+Perpendicular to surface of epithelium: cuboidal
+Viewed from the surface of the epithelium: small polygons.
+![](https://i.imgur.com/TdP2NaJ.png)
+![[Screenshot 2025-03-08 at 8.12.32 pm.png]]
+<!--SR:!2025-05-07,38,290-->
 
 # Location
 ~
 • small excretory ducts of many glands,
 the follicles of the thyroid gland, the tubules of the kidney and on the surface
-of the ovaries.![[Screenshot 2025-03-08 at 8.12.32 pm.png]]
-<!--SR:!2025-04-21,28,270-->
+of the ovaries

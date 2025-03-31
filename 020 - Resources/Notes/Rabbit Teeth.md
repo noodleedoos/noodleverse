@@ -15,8 +15,9 @@ x2 = 28
 # Detnal Arrangement
 ~
 Peg teeth
-Hypselodont
-
+Hypselodont adapted for [[attrition]]
+Enamel on labial surface of incisors wears more slowly than dentine on loingual surface - chisel shap, sharp occlusal surface
+Cheek teeth: grinding abrasive material
 # Misalignment Causes and Consequences
 ~
 1. Inappropriate non abrasive diet

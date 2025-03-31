@@ -10,7 +10,7 @@ Status:
 # Signs
 ~
 pinging under stethoscope shows gas cap is displaced
-<!--SR:!2025-03-28,10,270-->
+<!--SR:!2025-05-07,38,290-->
 
 # Effect
 ~

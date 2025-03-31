@@ -9,6 +9,5 @@ Status:
 ---
 # Definition
 ~
-Hydrostatic pressure exerted on the capillary wall by the blood.
-		Forces fluid out of capillary
-<!--SR:!2025-03-30,3,250-->
+pull on fluid back into the capillary caused by [[Albumin]]
+<!--SR:!2025-04-11,12,270-->

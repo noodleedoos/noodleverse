@@ -29,7 +29,7 @@ Central Australia at a low density
 Coastal region - high density
 Northern NSW and North East (Queensland)
 ![[Screenshot 2025-03-04 at 2.00.25 pm.png]]
-<!--SR:!2025-03-29,5,230-->
+<!--SR:!2025-04-11,12,230-->
 
 # Dairy Zones
 *What 4 places in Australia are common for dairy cattle to be found?*

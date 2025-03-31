@@ -8,7 +8,7 @@ Status:
 ---
 # Mechanism
 ~
-1. Cortisol passes through cell membrane
+1. [[Cortisol]] passes through cell membrane
 2. Cortisol binds to Glucocortcoid receptor/HSP complex
 3. Oligomer dissociates from HSP to form active glucocorticoid receptor monomer
 4. Monomer forms DNA-binding homodimers

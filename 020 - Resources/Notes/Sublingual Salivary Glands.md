@@ -7,10 +7,11 @@ aliases:
 Status:
 ---
 # Structure
+Describe how many ducts?
 ~
 Monostomatic (single duct) and polystomatic (multiple ducts) parts in most species
 ![](https://i.imgur.com/Zh9inii.png)
-<!--SR:!2025-03-28,1,210-->
+<!--SR:!2025-04-01,2,210-->
 
 
 # Function

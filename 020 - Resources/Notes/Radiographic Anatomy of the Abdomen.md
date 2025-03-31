@@ -6,6 +6,9 @@ Summary:
 aliases: 
 Status:
 ---
+![](https://i.imgur.com/K2U7kZV.png)
+
+
 # Lateral Anatomy
 ## Liver
 ![](https://i.imgur.com/QL547gR.png)
@@ -50,6 +53,7 @@ Right typically more cranial than left
 ![](https://i.imgur.com/bxDfqxv.png)
 
 ## Kidneys
+Caudal to liver in dorsal abdomen
 ![](https://i.imgur.com/a5lVk1V.png)
 
 ## Prostate and urinary Bladder

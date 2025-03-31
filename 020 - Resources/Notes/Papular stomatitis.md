@@ -10,3 +10,6 @@ Status:
 ~
 - [[Bovine popular stomatitis ]]
 - [[Orf]]
+
+# Related Concepts
+[[Papule]]

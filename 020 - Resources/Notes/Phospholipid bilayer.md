@@ -27,12 +27,16 @@ Hydrophilic (lipid insoluble)
 - Hydrophilic (polar) substances in membrane are sparingly soluble
 ## Molecules that cross a cell membrane
 ~
-1. Nonpolar molecules Pass freely 
+**Pass Freely**
+1. Nonpolar molecules
 	1. e.g., fatty acids, steroid hormones, CO2, & O2 (act as nonpolar – because they are linear) 
 2. Small uncharged polar molecules 
-	1. Pass freely but more slowly than nonpolar molecules e.g., H2O 
-3. Large polar molecules & ions 
+	2. Slower than nonpolar molecules e.g., H2O 
+	3. G
+3. Gases
+**Don't pass freely**
+4. Large polar molecules & ions 
 	1. Don’t pass freely (e.g. glucose, Na+) 
-4. Macromolecules 
+5. Macromolecules 
 	1. Don’t pass (e.g. proteins, polysaccharides, nucleic acids)
 ![](https://i.imgur.com/ZSU4dA5.png)
